@@ -506,11 +506,21 @@ p.img-wrapper {
   right: -15px;
 }
 
+.balloon.bl-left.bl-tips > div {
+  background-color: unset;
+  border: 6px solid var(--situgi-q-bg);
+}
+.balloon.bl-left.bl-tips > div:after {
+  border:none;
+}
+
 .balloon span.yasutake {
   font-size: medium;
   font-weight: bold;
   color:red;
 }
+
+
 
 /* variables */
 .light {
@@ -543,5 +553,7 @@ p.img-wrapper {
 
 .ayu {
   --point-fg: #fff;
+  --situgi-q-bg: var(--quote-bg);
+  --situgi-a-bg: var(--quote-bg);
 }
 
