@@ -11,7 +11,7 @@ theme = "theme"
 git-repository-url="https://github.com/yasutakeyohei/reiwa2"
 google-analytics="UA-144705402-1"
 additional-css=["custom.css"]
-additional-js=["medium-zoom.js"]
+additional-js=["src/js/sortable.advanced.js", "src/js/medium-zoom.js"]
 
 [output.html.fold]
 enable = true
