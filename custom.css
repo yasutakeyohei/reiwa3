@@ -114,7 +114,13 @@ fieldset.summary {
 .nittei p {
   margin-block-end: 0;
 }
+.nittei ol {
+  list-style-type:none;
+  padding-left: 2rem;
+  line-height:2em;
+}
 
+/*
 .nittei>ol>li>ol {
   counter-reset: list;
   padding-inline-start: 0;
@@ -124,6 +130,7 @@ fieldset.summary {
   content: "(" counter(list) ") ";
   counter-increment: list;
 }
+*/
 
 .warn {
   color:red;
@@ -336,24 +343,31 @@ ul.published-at-updated-at>li:first-of-type {
 }
 
 /* sortable */
-
+div.sortable-wrapper {
+  overflow-x:auto;
+  border-radius:6px;
+  border: 1px solid var(--scrollbar);
+}
 .sortable {
-border-spacing: 0;
+  border-spacing: 0;
 }
-
+/* thead */
 .sortable thead td {
-font-weight: bold;
-text-align: center;
-text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+.sortable thead th {
+  padding: 5px 0 0 10px;
+}
+.sortable thead th.no-sort {
+  background-color: var(--table-header-bg);
 }
 
-.sortable tbody tr:nth-child(odd) {
-background: #e4e4e4;
-}
-
+/* thead, tbody */
 .sortable td,
 .sortable th {
-padding: 10px;
+  padding: 10px;
 }
 
 .sortable td:first-child,
@@ -367,69 +381,94 @@ border-top-right-radius: 4px;
 }
 
 .sortable th {
-background: #808080;
-color: #fff;
-cursor: pointer;
-font-weight: normal;
-text-align: left;
-text-transform: capitalize;
-vertical-align: baseline;
-white-space: nowrap;
-}
-
-.sortable th:hover {
-color: #000;
+  cursor: pointer;
+  font-weight: normal;
+  text-align: left;
+  text-transform: capitalize;
+  vertical-align: baseline;
+  white-space: nowrap;
+  border: 1px solid var(--fg);
 }
 
 .sortable th:hover::after {
-color: inherit;
-font-size: 1.2em;
-content: " \025B8";
+  color: inherit;
+  font-size: 1.2em;
+  content: " \025B8";
 }
-
+.sortable th.no-sort2:hover::after {
+  content: none;
+}
 .sortable th::after {
-font-size: 1.2em;
-color: transparent;
-content: " \025B8";
+  font-size: 1.2em;
+  color: transparent;
+  content: " \025B8";
 }
-
-.sortable th.dir-d {
-color: #000;
-}
-
-.sortable th.dir-d::after {
-color: inherit;
-content: " \025BE";
-}
-
+.sortable th.dir-d,
 .sortable th.dir-u {
-color: #000;
+  color: var(--fg);
 }
-
+.sortable th.dir-d::after {
+  color: inherit;
+  content: " \025BE";
+}
 .sortable th.dir-u::after {
-color: inherit;
-content: " \025B4";
+  color: inherit;
+  content: " \025B4";
+}
+.sortable th.sticky {
+  position: sticky;
+  left: 0;
+  z-index: 100;
+}
+.sortable th.no-sort {
+  pointer-events: none;
+}
+.sortable th.no-sort2 {
+  font-size:small;
+}
+.sortable th.no-sort2 summary {
+  font-size: medium;
+}
+.sortable th.no-sort:after,
+.sortable th.no-sort2:after {
+  content: none;
 }
 
-.sortable td {
+/* tbody */
+.sortable tbody tr.yasutake {
+  border: 2px solid red;
+}
+.sortable tbody tr:nth-child(2n+1) th {
+  background-color: var(--bg);
+}
+.sortable tbody tr:nth-child(2n) th {
+  background-color: var(--table-alternate-bg);
+}
+.sortable tbody tr:nth-last-child(-n+2) th {
+  background-color: var(--table-header-bg);
+}
+.sortable tbody th.hitori {
+  line-height: 1em;
+}
+.sortable tbody th.hitori span {
+  font-size:0.8em;
+}
+.sortable tbody th.machi {
+  line-height: 1em;
+}
+.sortable tbody th.machi span {
+  font-size:0.6em;
+}
+.sortable tbody td {
   white-space: nowrap;
+  border-color: var(--fg);
+  border-style: solid dashed;
 }
-table.sortable thead th a:link {
-  color: white;
-}
-table.sortable thead th a:visited {
-  color: lightgray;
-}
-.sortable th.dir-u a,
-.sortable th.dir-d a {
-  color: #e8ff67;
+.sortable td {
+  text-align: center;
 }
 
-div.sortable-wrapper {
-  overflow-x:auto;
-  border-radius:6px;
-  border: 1px solid black;
-}
+
 
 .reigetu-chart {
   width:100%;
