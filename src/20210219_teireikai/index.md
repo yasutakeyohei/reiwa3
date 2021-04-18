@@ -8,7 +8,9 @@
   <legend>
     <h2 class="summary">主な内容</h2>
   </legend>
-  <p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 議案29件（補正5、予算5、条例13、訴え1、損害賠償1、意見書4）と、請願1件の審議</p>
+  <ul>
+    <li class="play">議案29件（補正5、予算5、条例13、訴え1、損害賠償1、意見書4）と、請願1件の審議</li>
+  </ul>
   <!--<p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 補正予算は、一般会計と、国民健康保険事業特別会計</p>
   <p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 学校給食センターの更新にかかる契約議案は、委員会で否決ののち、本会議で可決</p>
   <p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 四次長総基本構想は委員会で賛否同数で委員長採決の可決ののち、本会議で可決</p>-->
