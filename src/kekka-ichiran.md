@@ -5,7 +5,7 @@
 私（安竹洋平）の賛否理由は各議案のページをご参照ください。  
 議案番号や賛否の○×や議決結果をクリックすると各議案の詳細ページに移動します。
 
-<script type="text/javascript" src="../js/sortable.advanced.js"></script>
+<script type="text/javascript" src="../js-each/sortable.advanced.js"></script>
 
 ## 各議員の賛否
 

@@ -10,8 +10,7 @@ description = "令和3年（1月～12月）の小平市議会で起きている�
 theme = "theme"
 git-repository-url="https://github.com/yasutakeyohei/reiwa3"
 google-analytics="UA-144705402-1"
-additional-css=["custom.css"]
-additional-js=["src/js/sortable.advanced.js", "src/js/medium-zoom.js"]
+additional-css=["./src/css-each/custom.css"]
 
 [output.html.fold]
 enable = true
