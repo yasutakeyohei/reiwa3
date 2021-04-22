@@ -41,30 +41,15 @@ div.back-to-main-site a {
   width: 100%;
 }
 
-div.resp-table {
-  overflow-x: auto;
+/* breadcrumbs */
+p.breadcrumbs {
+  margin: 0;
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-fg);
+  font-size:1.5rem;
 }
-div.resp-table th,
-div.resp-table td {
-  border: 1px var(--table-border-color) solid;
-  white-space: nowrap;
-  padding: 10px;
-}
-div.resp-table td {
-  text-align: center;
-}
-div.resp-table thead th {
-  text-align: center;
-}
-div.resp-table tbody th {
-  text-align: left;
-}
-
-pre.tree {
-  border: 1px solid #ccc;
-  box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .1);
-  font-family: inherit;
-  padding: 20px;
+p.breadcrumbs a {
+  color: var(--sidebar-fg);
 }
 
 table th,
@@ -73,16 +58,14 @@ table td {
   line-height: 2em;
 }
 
+/* point, nittei, sanpi, summary */
 fieldset.point,
 fieldset.nittei,
 fieldset.sanpi,
 fieldset.summary {
   margin-top:40px;
 }
-fieldset.sanpi {
-  border-color: var(--point-fg);
-  box-shadow: 4px 4px 4px 0 rgba(1, 1, 1, 0.4);
-}
+fieldset.sanpi,
 fieldset.summary {
   border-color: var(--point-fg);
   box-shadow: 4px 4px 4px 0 rgba(1, 1, 1, 0.4);
