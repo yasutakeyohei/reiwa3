@@ -60,5 +60,8 @@
 </div>
 </fieldset>
 
+## 議決結果
+
+[議決結果一覧](../kekka-ichiran.md)をご参照ください。
 
 
