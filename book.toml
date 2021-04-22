@@ -11,6 +11,7 @@ theme = "theme"
 git-repository-url="https://github.com/yasutakeyohei/reiwa3"
 google-analytics="UA-144705402-1"
 additional-css=["./src/css-each/custom.css"]
+mathjax-support = true
 
 [output.html.fold]
 enable = true
