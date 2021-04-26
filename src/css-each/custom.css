@@ -108,6 +108,11 @@ fieldset.summary {
 .summary li.ng::before {
   content: "⚠️ ";
 }
+.point li.bad::before,
+.sanpi li.bad::before,
+.summary li.bad::before {
+  content: "❌ ";
+}
 .summary li.play::before {
   content: "\f04b ";
   font-family: FontAwesome;
