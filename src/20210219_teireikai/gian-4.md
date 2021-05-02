@@ -6,6 +6,8 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 一般会計予算特別委員会付託
 
+（⛏️作成中です）
+
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
