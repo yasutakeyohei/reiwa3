@@ -1,5 +1,28 @@
 <p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="./index.md">令和3年小平市議会まとめ</a> > 議決結果一覧</p>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "小平市議 安竹洋平公式サイト",
+    "item": "https://yasutakeyohei.com/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "令和3年小平市議会まとめ",
+    "item": "https://yasutakeyohei.com/books/reiwa3/"
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "議決結果一覧"
+  }]
+}
+</script>
+
+
 {{first:2021-04-17}}
 
 # 議決結果・賛否一覧表
