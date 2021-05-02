@@ -39,7 +39,7 @@
   - [⛏️議員提出議案第32号　水道水源井戸に有機フッ素化合物が流入した原因究明と汚染物質除去を求める意見書提出について](./20210219_teireikai/giin-gian-32.md)
   - [⛏️請願第5号　旧佐川邸の土地を売らないことも含め、市民の意見を聞きながら公園整備を行うことについて](./20210219_teireikai/seigan-5.md)
   - [⛏️代表質問](./20210219_teireikai/daihyo-situmon.md)
-  - [⛏️一般質問](./20210219_teireikai/gian-.md)
+  - [⛏️一般質問](./20210219_teireikai/ippan-situmon.md)
 
 - [4月23日：4月臨時会](./20210423_rinjikai/index.md)
   - [諸報告](./20210423_rinjikai/syohoukoku.md)
