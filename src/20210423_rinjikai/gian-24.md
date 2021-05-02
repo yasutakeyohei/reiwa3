@@ -1,4 +1,6 @@
-{{first:2021-04-08}}
+<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">4月臨時会</a> > 議案第24号</p>
+
+{{first:2021-04-24}}
 
 # ⛏️議案第24号　専決処分（小平市税条例の一部を改正する条例）の承認を求めることについて
 

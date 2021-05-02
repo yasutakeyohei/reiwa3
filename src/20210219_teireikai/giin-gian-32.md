@@ -1,3 +1,5 @@
+<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">3月定例会</a> > 議員提出議案第32号</p>
+
 {{first:2021-04-17}}
 
 # ⛏️議員提出議案第32号　水道水源井戸に有機フッ素化合物が流入した原因究明と汚染物質除去を求める意見書提出について

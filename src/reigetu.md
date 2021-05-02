@@ -1,3 +1,6 @@
+<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="./index.md">令和3年小平市議会まとめ</a> > 例月現金出納検査</p>
+
+
 {{first:2021-04-05}}
 
 {{description:令和3年1月～12月に報告された小平市の現金出納検査結果です。基金残高の推移などをグラフで分かりやすく表示しています。}}

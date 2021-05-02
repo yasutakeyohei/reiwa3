@@ -1,3 +1,5 @@
+<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="./index.md">令和3年小平市議会まとめ</a> > 議決結果一覧</p>
+
 {{first:2021-04-17}}
 
 # 議決結果・賛否一覧表
@@ -459,7 +461,7 @@
 
 ＊なお、議長は採決に参加しません。可否同数のときに議長採決となります。
 
-## 種類・議案名等
+## 議案一覧
 
 <div class="sortable-wrapper">
 <table class="sortable gian-ichiran">
@@ -502,7 +504,7 @@
 
 ⏳＝継続審議
 
-## 請願名
+## 請願一覧
 
 <div class="sortable-wrapper">
 <table class="sortable gian-ichiran">

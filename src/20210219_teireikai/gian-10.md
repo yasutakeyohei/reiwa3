@@ -1,3 +1,5 @@
+<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">3月定例会</a> > 議案第10号</p>
+
 {{first:2021-04-17}}
 
 # ⛏️議案第10号　小平市個人番号カードの利用に関する条例を廃止する条例
