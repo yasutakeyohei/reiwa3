@@ -6,6 +6,8 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 即決
 
+（⛏️作成中です）
+
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
@@ -152,6 +154,7 @@ tips
 
 全議員が賛成⭕️でした。
 
-## 原案に対する賛否
-[賛否一覧はこちらをご覧ください。](./index.md#賛否)
+## 議決結果
+
+[議決結果一覧](../kekka-ichiran.md)をご参照ください。
 

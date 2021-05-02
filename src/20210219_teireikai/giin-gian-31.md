@@ -6,6 +6,8 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 生活文教委員会付託
 
+（⛏️作成中です）
+
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
