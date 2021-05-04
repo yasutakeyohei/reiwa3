@@ -8,13 +8,15 @@
 
 （⛏️作成中です）
 
+<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
   </legend>
   <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
+    <li class="chk">コロナワクチン接種事業経費、繰越明許、補正予算4号（コロナ対策事業）の過不足調整</li>
+    <li class="chk">コロナワクチン接種事業は全額国の負担で約12.9億円</li>
     <li class="chk"></li>
   </ul>
 </fieldset>
@@ -24,10 +26,13 @@
     <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
   </legend>
   <ul>
-    <li></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
+    <li>ワクチン接種事業について、次を検討し、⭕️の意義が大きいと考え賛成</li>
+    <li class="bad">コロナウイルスワクチンは感染を防ぐものではないことが正しく認識されていない</li>
+    <li class="bad">そもそもPCR検査は偽陽性率が非常に高い可能性があり、感染者数には疑いがある</li>
+    <li class="bad">コロナに対し、薄い科学的根拠に基づいて人々を分断する施策が進んでいることに反対</li>
+    <li class="good">接種を希望する市民は現実に多く、反対</li>
+    <li>キャッシュレスポイント事業について、次を検討し、⭕️の意義が大きいと考え賛成</li>
+    <li class="bad">
   </ul>
 </fieldset>
 
