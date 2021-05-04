@@ -35,7 +35,7 @@
 ## 各議員の賛否
 
 <div class="sortable-wrapper">
-<table class="sortable">
+<table class="sortable sanpi">
   <caption style="text-align:left;" class="sticky">〇：賛成、❌：反対</caption>
   <thead>
     <tr>
