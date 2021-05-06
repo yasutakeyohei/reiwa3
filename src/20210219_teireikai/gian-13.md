@@ -4,9 +4,13 @@
 
 # ⛏️議案第13号　小平市指定地域密着型サービスの事業の人員、設備及び運営の基準に関する条例の一部を改正する条例
 
+＊第１４、１５，１６，は関連があるため一括議題
+
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
 （⛏️作成中です）
+
+<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
 
 <fieldset class="point">
   <legend>
@@ -39,3 +43,6 @@
 > 
 
 </details>
+
+
+本会議での質疑なし

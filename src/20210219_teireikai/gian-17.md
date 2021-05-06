@@ -6,6 +6,8 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
+<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
