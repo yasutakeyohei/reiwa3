@@ -56,4 +56,11 @@
 			"滝澤 健康福祉部長"
 		]
 	},
+	"川上": {
+		"scope": "markdown",
+		"prefix": "kawakami",
+		"body": [
+			"川上 教育部長"
+		]
+	}
 }
