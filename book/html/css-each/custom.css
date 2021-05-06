@@ -59,11 +59,13 @@ table td {
 }
 
 /* point, nittei, sanpi, summary */
-fieldset.point,
+fieldset.point {
+  margin-top:0;
+}
 fieldset.nittei,
 fieldset.sanpi,
 fieldset.summary {
-  margin-top:0;
+  margin-top:4rem;
 }
 fieldset.sanpi,
 fieldset.summary {
@@ -107,6 +109,11 @@ fieldset.summary {
 .sanpi li.ng::before,
 .summary li.ng::before {
   content: "⚠️ ";
+}
+.point li.good::before,
+.sanpi li.good::before,
+.summary li.good::before {
+  content: "⭕️ ";
 }
 .point li.bad::before,
 .sanpi li.bad::before,
@@ -550,10 +557,16 @@ p.img-wrapper {
 .balloon.bl-left > div {
   background-color: var(--situgi-q-bg);
 }
+blockquote .balloon.bl-left > div {
+  background-color: var(--bg);
+}
 .balloon.bl-left > div:after {
   border-width: 7px 15px 7px 0;
   border-color: transparent var(--situgi-q-bg) transparent transparent;
   left: -15px;
+}
+blockquote .balloon.bl-left > div:after {
+  border-color: transparent var(--bg) transparent transparent;
 }
 .balloon.bl-right {
   margin: 0 4% 1rem 26%;
