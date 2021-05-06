@@ -53,7 +53,7 @@
 ## 主な質疑（発言順）
 {{#include ../partials/situgi_hanrei.md}}
 
-### 本会議での質疑
+### ① 本会議での質疑
 
 <div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
@@ -68,7 +68,7 @@
 
 </div></div>
 
-### 総務委員会での質疑
+### ② 総務委員会での質疑
 
 総務委員会には、一人会派の会から橋本久雄議員が委員として参加しています。
 

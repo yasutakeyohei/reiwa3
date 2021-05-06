@@ -177,7 +177,7 @@
 ## 主な質疑（発言順）
 {{#include ../partials/situgi_hanrei.md}}
 
-### 本会議での質疑
+### ① 本会議での質疑
 
 <div class="balloon bl-left">他会派の議員<br><div>
 

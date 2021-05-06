@@ -35,9 +35,6 @@
 
 ## 概要
 
-<details>
-<summary>市長提案説明（クリックで開きます）</summary>
+### 市長提案説明
 
-> 
-
-</details>
+>

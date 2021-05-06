@@ -33,11 +33,7 @@
   </ul>
 </fieldset>
 
-## 概要
+### 市長提案説明
 
-<details>
-<summary>市長提案説明（クリックで開きます）</summary>
+>
 
-> 
-
-</details>
