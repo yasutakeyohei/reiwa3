@@ -70,5 +70,12 @@
 		"body": [
 			"川上 教育部長"
 		]
+	},
+	"篠宮": {
+		"scope": "markdown",
+		"prefix": "shinomiya",
+		"body": [
+			"篠宮 健康・保険担当部長"
+		]
 	}
 }
