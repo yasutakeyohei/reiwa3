@@ -8,7 +8,7 @@
 
 （⛏️作成中です）
 
-<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
+<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="point">
   <legend>
