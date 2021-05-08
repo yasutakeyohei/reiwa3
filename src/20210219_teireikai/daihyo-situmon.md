@@ -4,8 +4,6 @@
 
 # ⛏️代表質問
 
-<p class="read-kaigiroku"><a href="">📄会議録を見る（まだ公開されていません）</a></p>
-
 代表質問は次のとおり行われました。当会派からは中江美和議員が代表して質問を行いました。
 
 <table class="bordered slim">
