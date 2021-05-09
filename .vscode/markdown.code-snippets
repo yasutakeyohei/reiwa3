@@ -47,7 +47,19 @@
 			"",
 			"$2",
 			"",
-			"</div></div>$2"
+			"</div></div>$3"
+		],
+	},
+	"tipsタグ": {
+		"scope": "markdown",
+		"prefix": "tips",
+		"body": [
+			"<div class=\"balloon bl-left bl-tips\"><div>",
+			"<strong>🕵 $1</strong>",
+			"",
+			"$2",
+			"",
+			"</div></div>$3"
 		],
 	},
 	"岡田": {
@@ -83,6 +95,13 @@
 		"prefix": "shirakura",
 		"body": [
 			"白倉 総務部長"
+		]
+	},
+	"尾崎": {
+		"scope": "markdown",
+		"prefix": "ozaki",
+		"body": [
+			"尾崎 財政課長"
 		]
 	}
 }
