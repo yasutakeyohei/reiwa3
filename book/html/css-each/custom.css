@@ -337,7 +337,7 @@ div.redbox:before {
 }
 
 div.tips {
-  border: 2px dashed #174894;
+  border: 2px dashed var(--fg);
 }
 div.tips p:first-of-type {
   margin-top:0;
