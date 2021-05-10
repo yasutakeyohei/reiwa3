@@ -27,14 +27,10 @@
   </ul>
 </fieldset>
 
-## 概要
-
-### 市長提案説明
-
+## 市長提案説明
 >
 
 ## 解説
-
 
 ## 主な質疑（発言順）
 {{#include ../partials/situgi_hanrei.md}}
