@@ -46,7 +46,7 @@
 
 ### ① 本会議での質疑
 
-<div class="balloon bl-left">橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
 
 中国武漢を由来としているとあるが、どういうことか。
 
@@ -70,7 +70,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
 
 COVID-19ウイルスを実際に見た人はいないと聞いている。新型コロナウイルスがあるという科学的根拠はどこかにあるか。
 
@@ -82,7 +82,7 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-<div class="balloon bl-left">伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
 
 ということは、ウイルスが実在するかどうかを科学的に証明しているものはなく、あるかどうかわからないものを条例に入れていく、ということでよいか。
 

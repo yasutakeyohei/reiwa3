@@ -75,7 +75,7 @@
 
 ### 本会議での質疑
 
-<div class="balloon bl-left">橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
 
 これは小平市の責任もある。チェックできていなかった。どうしたら今後こういうことが起きなくなるか。
 
@@ -144,7 +144,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
 
 訴訟費用はどれくらいで、どこの負担になるか。その分が市民の損失になるが。
 
@@ -176,7 +176,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
 
 この事件にかかわらず、いろいろなことで情報提供が遅い。悪く見れば、隠ぺい体質と感じられる。情報提供は速やかにするべきで、再発防止にもつながると考える。どうか。
 
