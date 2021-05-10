@@ -543,7 +543,7 @@ p.img-wrapper {
   top: 30px;
 }
 .balloon.bl-left {
-  margin: 0 26% 1rem 4%;
+  margin: 1rem 26% 1rem 4%;
 }
 .balloon.bl-left > div {
   background-color: var(--situgi-q-bg);
@@ -560,7 +560,7 @@ blockquote .balloon.bl-left > div:after {
   border-color: transparent var(--bg) transparent transparent;
 }
 .balloon.bl-right {
-  margin: 0 4% 1rem 26%;
+  margin: 1rem 4% 1rem 26%;
   text-align: right;
 }
 .balloon.bl-right > div {
@@ -595,6 +595,9 @@ blockquote .balloon.bl-left > div:after {
   color:red;
 }
 
+hr.balloon-divider {
+  margin: 3rem 1rem;
+}
 
 table.bordered thead th {
   white-space:nowrap;
