@@ -31,9 +31,7 @@
   </ul>
 </fieldset>
 
-## 概要
-
-### 市長提案説明
+## 市長提案説明
 
 > 本案は、[小平市立障害者福祉センター](http://www.syakaifukushi.kodaira.tokyo.jp/modules/facilities/index.php?id=2)の正式名称を、現在使用している愛称に変更するとともに、当該施設に児童発達支援センターを設置し、新たな事業を実施するため、改正するものです。
 >
