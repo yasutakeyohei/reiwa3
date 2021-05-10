@@ -313,11 +313,6 @@ div.tips {
   padding: 1rem 2rem;
 }
 
-div.redbox p:last-of-type,
-div.tips p:last-of-type {
-  margin-bottom:0;
-}
-
 div.redbox:before,
 div.tips:before {
   font-weight: bold;
@@ -338,10 +333,6 @@ div.redbox:before {
 
 div.tips {
   border: 2px dashed var(--fg);
-}
-div.tips p:first-of-type {
-  margin-top:0;
-  margin-bottom:0;
 }
 
 p.situgi-comment {
@@ -586,8 +577,16 @@ blockquote .balloon.bl-left > div:after {
   background-color: unset;
   border: 6px solid var(--situgi-q-bg);
 }
-.balloon.bl-left.bl-tips > div:after {
+.balloon.bl-right.bl-tips > div {
+  background-color: unset;
+  border: 6px solid var(--situgi-a-bg);
+}
+.balloon.bl-left.bl-tips > div:after,
+.balloon.bl-right.bl-tips > div:after {
   border:none;
+}
+.balloon.bl-tips > div p:first-of-type {
+  margin-top: 2rem;
 }
 
 .balloon span.yasutake {
