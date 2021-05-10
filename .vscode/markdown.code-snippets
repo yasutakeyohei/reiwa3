@@ -21,12 +21,17 @@
 		"scope": "markdown",
 		"prefix": "hitori",
 		"body": [
-			"<div class=\"balloon bl-left\">$1議員（一人会派の会）<br><div>",
+			"<div class=\"balloon bl-left\">👍 $1議員（一人会派の会）<br><div>",
 			"",
 			"$2",
 			"",
 			"</div></div>$3"
 		],
+	},
+	"イイね": {
+		"scope": "markdown",
+		"prefix": "iine",
+		"body": "👍",
 	},
 	"他会派議員の質問タグ": {
 		"scope": "markdown",
