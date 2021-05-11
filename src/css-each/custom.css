@@ -621,6 +621,14 @@ table.slim caption {
   margin-bottom:1rem;
 }
 
+th.aleft,
+td.aleft {
+  text-align:left;
+}
+th.aright,
+td.aright {
+  text-align:right;
+}
 
 /* variables */
 .light {
