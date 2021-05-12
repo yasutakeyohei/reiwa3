@@ -542,6 +542,12 @@ p.img-wrapper {
   border-style: solid;
   top: 30px;
 }
+div.balloon.hitori {
+  font-weight: bold;
+}
+div.balloon.hitori > div {
+  font-weight: normal;
+}
 .balloon.bl-left {
   margin: 1rem 26% 1rem 4%;
 }
