@@ -55,7 +55,7 @@
 
 ### ① 本会議での質疑
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 教育関係の扶助費で想定人数985人が893人に減っている理由は。
 
@@ -188,7 +188,7 @@
 </div></div>
 
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 小川駅西口の公共床について、男女共同参画に関わっている事業は、元気村で部屋をもって活動していた。移転することになり、その活動の方は個室が欲しいという話だったが、どういう経緯で個室を設けない判断になったか。
 
@@ -205,7 +205,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 元気村での活動実態は。（年間で）何日使われたか。
 
@@ -217,7 +217,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 市長が替わって、個室が必要となった場合、担当部局としてどう対応するか。
 
@@ -229,7 +229,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 人工芝以外に事業の延期をした事例は。
 
@@ -241,7 +241,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 この1年間で、コロナ関連の事業に充てた財政調整基金の額は。
 
@@ -253,7 +253,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 萩山公園プールの耐用年数と利用人数は。
 
@@ -265,7 +265,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 土木費の自転車駐車場整備の検討にある1,298万円とは。
 
@@ -277,7 +277,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 鷹の台駅前広場の詳細設計について、大きな桜をほぼ全部切る立場だと思うが、木を切らないでほしいという声も根強くある。どういうコンセプトで設計するか。
 

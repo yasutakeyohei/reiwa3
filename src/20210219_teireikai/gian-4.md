@@ -238,7 +238,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 すべての事業を見直すとのこと、見直したのはどういう事業か。
 

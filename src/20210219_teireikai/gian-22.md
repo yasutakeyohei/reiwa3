@@ -27,7 +27,7 @@
   </legend>
   <ul>
     <li>次の疑念はあるものの、内容として問題がないため賛成しました</li>
-    <li class="ng">新型コロナウイルスの科学的根拠があいまい</li>
+    <li class="ng">新型コロナウイルス関連のさまざまな施策は、科学的根拠があいまい</li>
   </ul>
 </fieldset>
 
@@ -44,7 +44,7 @@
 
 ### ① 本会議での質疑
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 中国武漢を由来としているとあるが、どういうことか。
 
@@ -56,7 +56,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 小平市として、何が対応として変わってくるか。
 
@@ -68,7 +68,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
 COVID-19ウイルスを実際に見た人はいないと聞いている。新型コロナウイルスがあるという科学的根拠はどこかにあるか。
 
@@ -80,7 +80,7 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
 ということは、ウイルスが実在するかどうかを科学的に証明しているものはなく、あるかどうかわからないものを条例に入れていく、ということでよいか。
 

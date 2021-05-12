@@ -74,7 +74,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 要は、証明書を発行してもらうため、マイナンバーと一体化すると。自動交付機が使えなくなってから、マイナンバーカードを持っていない人はどうするか。
 
@@ -86,7 +86,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 小平市のマイナンバーカード交付率は。
 

@@ -175,7 +175,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 小平市内で発達障害の児童数はどれくらいか。また、今後の推移想定は。
 
@@ -191,7 +191,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 児童発達支援センター利用定員数の想定は。あすの子園の利用定員と同じか。
 
@@ -203,7 +203,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 あすの子園で実施している、機能訓練、言語訓練、音楽活動の実施回数は。たとえば1人当たりの言語訓練は1ヵ月に1回1時間の枠と思われるが、その実施回数と時間は。
 
@@ -217,7 +217,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 あすの子園の音楽活動は、音楽室を使ってのことだったか。音楽室がなくなることで影響は。
 
@@ -229,7 +229,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 市民の方から、重要な役割を担う「言語訓練」でリソースが足りていないという御意見がある。
 
@@ -247,7 +247,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 教育委員会と児童発達支援センターの連携ができていないと、2年間で言語訓練が終わった後、たとえば小学校1年生～2年生の時点で、また一から説明するなど、状況を分かってもらわなくてはならない。
 
@@ -263,7 +263,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 就学後に気付く発達障害だと、障がい者支援課と接点がなくなってしまう。教育委員会と障がい者支援課が密接に連携していただきたい。全国で6割以上の自治体が導入している「教育支援センター」の設置を、小平市は視野に入れているのか。
 
@@ -287,7 +287,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 言語訓練は月に1回1時間しかできない。リソースが限られているなら、集中と選択を進めればよい。たとえば、発達障害が分かったばかりのお子さんは週に1回など、回数を増やす。その後、様子を見て回数を減らしていけばよい。また、同じような状況のお子さんは2人同時に見られるようする。そういった意見があるが、どうか。
 
@@ -311,7 +311,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 言語訓練は、お子さんに応じて時間を決めているということは、月に1回1時間という枠があるわけではないということなのか。お子さんによって月に数時間の枠が取れたり、そういう状況なのか。
 
@@ -323,7 +323,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 本来、（潜在人数2,000人の）すべての発達障害のお子さんを支援する状態が望ましい。そうすると利用定員24人では足りなくなるのでは。
 
@@ -343,7 +343,7 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 言語訓練は、全員受けさせたいけれども予算がないということなのだろう。言語訓練をちゃんと受けられないことで、学校に行けなくなることもある。
 

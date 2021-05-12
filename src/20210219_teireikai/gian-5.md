@@ -54,7 +54,7 @@
 
 ### ① 本会議での質疑
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
 コロナ禍で国保加入者の収入に変動があったと予想されるが、どう見立てているか。
 
@@ -68,7 +68,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
 厳しい状況において、段階的に保険料を上げていく計画、ここであえて減額する検討はあったか。
 
@@ -80,7 +80,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
 以前から言っているとおり、国保は制度自体にかなり無理がある。小平市の裁量や責任ではいかんともしがたい部分がある。将来的な国保制度についての見解は。
 

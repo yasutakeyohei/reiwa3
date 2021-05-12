@@ -97,7 +97,7 @@
 
 ---
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 オリンピックを東京に招致する話が上がったとき、小平市で招致決議を上げようということがあった。私と共産党と生活者ネットは、東京オリンピックの招致に反対だった。
 
@@ -127,7 +127,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 そもそもなぜこのような条例を作る必要があったのか、私には理解できないが、どう考えているか。
 
@@ -140,7 +140,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 継続審査という声もあるようだ。継続すると6月議会でまたやることになる。私は継続ではなくちゃんと判断すべきと思うが、どう考えるか。
 
@@ -187,7 +187,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 東京都の自治体で、どうような基金条例を持っていることろはあるか。
 
@@ -199,7 +199,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 ほかの自治体に、市長会か何かでこういう基金をやると言ったら、すごいねというふうに言われた。でも、どこの自治体も追随しなかった。ほかの自治体はなぜ小平市のまねをして条例を作らなかったと思うか。
 
@@ -221,7 +221,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 仮にオリンピックをやったとしても、当然人数制限がされる。チケットも東京都が無料配布をやめる可能性も高い。
 
@@ -237,7 +237,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 （東京都から）チケットの配布がない場合、どれくらいのコストがかかるか。
 
@@ -249,7 +249,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 パブリックビューイングを2ヵ所でやると。家族同伴というのは一般会計の特別委員会で初めて聞いたが。
 
@@ -263,7 +263,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 1,250万円の根拠は。1回に何人で、何回やるのか。親子同伴というのも、どういう意味か。全市民が対象か。
 
@@ -287,7 +287,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 東京都からのチケットの配布がなくなった場合は、市としていくらかかるか。
 
@@ -306,7 +306,7 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
 私立学校や特別支援学校の生徒は観戦に連れて行かない。その子たちへの対応はどうなるか。
 
