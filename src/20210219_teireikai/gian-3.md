@@ -6,8 +6,6 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
-（⛏️作成中です）
-
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="point">
@@ -15,9 +13,9 @@
     <h2> ポイント </h2>
   </legend>
   <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
-    <li class="chk"></li>
+    <li class="chk">広域連合の納付金決算見込みが出たため、所要額に合わせて予算補正を行うもの</li>
+    <li class="chk">約45億円の補正前予算に対し、約3,575万円（0.8％）の減額</li>
+    <li class="chk">コロナの影響は特になし</li>
   </ul>
 </fieldset>
 
@@ -26,10 +24,7 @@
     <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
   </legend>
   <ul>
-    <li></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
+    <li>特に問題がないため賛成しました。</li>
   </ul>
 </fieldset>
 
@@ -38,6 +33,18 @@
 > 今回の補正予算は、東京都後期高齢者医療広域連合による本年度の広域連合納付金の決算見込みに基づき、所要額につきまして、一般会計繰入金、受託事業収入、広域連合納付金、及び葬祭事業費を補正するものです。
 > 
 > 歳入につきましては、一般会計繰入金を減額するとともに、受託事業収入を増額し、歳出につきましては、広域連合納付金を減額するとともに、葬祭事業費を増額するものです。
+
+## 概要
+
+<table class="slim bordered">
+<tr><th class="aleft">補正前の額</th><td class="aright">44億9,143万9千円</td></tr>
+<tr><th class="aleft">補正額</th><td class="aright">△3,575万円<br>（△0.80％）</td></tr>
+<tr><th class="aleft">補正後の額</th><td class="aright">44億5,568万9千円</td></tr>
+</table>
+
+補正予算の内容についてはこちらをご参照ください。
+
+[3月補正予算・令和2年度後期高齢者医療特別会計補正予算書（第2号）](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
 ## 主な質疑（発言順）
 {{#include ../partials/situgi_hanrei.md}}
@@ -73,10 +80,10 @@
 広域連合の見立てで、7割軽減、5割軽減、2割軽減の方の状況を見ている。それぞれ次のとおり。
 
 <table class="bordered slim">
-<thead><tr>軽減割合</tr><td>増加分（約）</td></thead>
-<tr><th>7割</th><td>634万円</td></tr>
-<tr><th>5割</th><td>3,200万円</td></tr>
-<tr><th>2割</th><td>150万円</td></tr>
+<thead><tr><th>軽減割合</th><th>増加分（約）</th></tr></thead>
+<tr><th>7割</th><td class="aright">634万円</td></tr>
+<tr><th>5割</th><td class="aright">3,200万円</td></tr>
+<tr><th>2割</th><td class="aright">150万円</td></tr>
 </table>
 
 </div></div>
