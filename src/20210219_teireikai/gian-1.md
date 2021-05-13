@@ -277,35 +277,6 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 （⛏️作成中です）
 
-<!--
-<div class="balloon bl-right">岡田 障がい者支援課長<br><div>
-
-A
-
-</div></div>
-
-<div class="balloon bl-left" style="margin-top:5rem;"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
-
-Q
-
-</div></div>
-
-<div class="balloon bl-right">岡田 障がい者支援課長<br><div>
-
-A
-
-</div></div>
-
-
-<div class="balloon bl-left bl-tips"><div>
-
-<strong>🕵 教育支援センターを設置している周辺自治体の例</strong>
-
-tips
-</div></div>
-
--->
-
 #### 総務委員会での採決
 
 全委員が賛成⭕️
