@@ -1,5 +1,7 @@
 <p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">5月臨時会</a> > 議案第27号</p>
 
+test
+
 {{first:2021-05-13}}
 
 # ⛏️議案第27号　令和3年度小平市一般会計補正予算（第3号）
