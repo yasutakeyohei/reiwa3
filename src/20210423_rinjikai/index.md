@@ -6,6 +6,8 @@
 
 # 令和3年4月臨時会
 
+令和3年4月23日（金）に開催された、小平市議会（臨時会）のまとめです。
+
 <fieldset class="summary">
   <legend>
     <h2 class="summary">主な内容</h2>
