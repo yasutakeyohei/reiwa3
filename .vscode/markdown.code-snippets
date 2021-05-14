@@ -108,5 +108,12 @@
 		"body": [
 			"尾崎 財政課長"
 		]
+	},
+	"赤坂（麻由）": {
+		"scope": "markdown",
+		"prefix": "akasakama",
+		"body": [
+			"赤坂 高齢者支援課長補佐"
+		]		
 	}
 }
