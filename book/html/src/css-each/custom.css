@@ -52,6 +52,7 @@ p.breadcrumbs a {
   color: var(--sidebar-fg);
 }
 
+/* table */
 table th,
 table td {
   padding: 10px;
@@ -155,18 +156,9 @@ p.read-kaigiroku {
   margin: 0;
 }
 
-.warn {
-  color:red;
-  line-height: 1.8em;
-  border: 3px solid red;
-  text-align: center;
-  padding: 0.5em;
-}
-
 li.chapter-item {
   white-space: nowrap;
 }
-
 li.chapter-item strong {
   display: none;
 }
@@ -178,64 +170,11 @@ ol.section li.chapter-item:before {
   padding-right:5px;
 }
 
-.qanda i {
-  font-size:2.5em;
-}
-.qanda i.hitori {
-  font-size:2.5em;
-  color: #3f51b5;
-}
-i.hitori {
-  color: #3f51b5;
-}
-i.hitori.yasutake {
-  color: #ff9800;
-}
-
-i.si-toben {
-  font-size:2em;
-  color: #3f51b5;
-}
-
-table.qanda {
-  margin: unset;
-}
-
-table.qanda td {
-  border: none;
-}
-
-table.qanda td:nth-child(1) {
-  padding: 0 10px 0 5px;
-}
-
-div.q-mark-notes p {
-  text-align: right;
-}
-
-.yasutake-note {
-  color: #ff9800;
-}
-
-img.yasutake-face {
-  width: 38px;
-}
-
-table.additional {
-  margin:0;
-  font-size:0.8em;
-}
-
-table.additional thead {
-  color: white;
-  background-color: #9cbaff;
-}
-
+/* gridjs */
 table.gridjs-table {
   border: '3px solid #ccc';
   table-layout: auto;
 }
-
 table.gridjs-table th,
 table.gridjs-table td
 {
@@ -243,20 +182,16 @@ table.gridjs-table td
   padding:2px;
   line-height:inherit;
 }
-
 table.gridjs-table th {
   background-color: #f1f6f9;
   text-align: center;
 }
 table.gridjs-table th:hover {
   background-color: #c8e4f5;
-
 }
-
 table.gridjs-table tr:nth-child(odd) td {
-background: #f3f3f3;
+  background: #f3f3f3;
 }
-
 table.gridjs-table td:nth-of-type(1),
 table.gridjs-table td:nth-of-type(2),
 table.gridjs-table td:nth-of-type(3),
@@ -268,43 +203,26 @@ table.gridjs-table th:nth-of-type(4)
 {
   font-size: 1.2rem;
 }
-
 .gridjs-wrapper,
 .gridjs-footer {
   border-radius:0;
 }
-
 button.gridjs-sort {
   background-color: #0000;
   border-width:0;
 }
-
 #saisyutu-detail table.gridjs-table td:nth-of-type(7) {
   text-align: right;
 }
-
 input.gridjs-input {
   border-radius: 0;
 }
-
 #gridjs-kan-select {
   padding: 10px 14px;
   font-size:1.4rem;
   font-family: inherit;
 }
 
-table.simple {
-  border: 1px solid rgb(189, 189, 189);
-  padding: 0;
-  margin: 0;
-}
-
-table.simple th,
-table.simple td {
-  border: 1px solid rgb(189, 189, 189);
-  padding: 0.8rem;
-  line-height: 2rem;
-}
 
 div.redbox,
 div.tips {
@@ -312,25 +230,21 @@ div.tips {
   margin: 0;
   padding: 1rem 2rem;
 }
-
 div.redbox:before,
 div.tips:before {
   font-weight: bold;
   display: block;
 }
-
 div.redbox ul,
 div.tips ul {
   margin-bottom: 0;
 }
-
 div.redbox {
   border: 1px dashed red;
 }
 div.redbox:before {
   content: "🤔気になるコト（要確認事項）";
 }
-
 div.tips {
   border: 2px dashed var(--fg);
 }
@@ -338,11 +252,11 @@ div.tips {
 p.situgi-comment {
   color: red;
 }
-
 p.situgi-comment span {
   font-size: 3rem;
 }
 
+/* published at, updated at */
 ul.published-at-updated-at {
   display: flex;
   justify-content: flex-end;
@@ -351,7 +265,6 @@ ul.published-at-updated-at {
   font-size: 1.5rem;
   color: gray;
 }
-
 ul.published-at-updated-at>li:first-of-type {
   margin-right: 2rem;
 }
