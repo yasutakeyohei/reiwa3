@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">5月臨時会</a> > 議案第29号</p>
-
 {{first:2021-05-13}}
 
 # ⛏️議案第29号　小平市体育施設条例の一部を改正する条例

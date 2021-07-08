@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > 令和3年小平市議会まとめ</p>
-
 {{first:2021-04-18}}
 
 {{description:令和3年（1月～12月）の小平市議会に関する情報をまとめています。}}

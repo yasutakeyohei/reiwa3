@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > 3月定例会</p>
-
 {{first:2021-04-15}}
 
 {{description:小平市議会・令和3年3月定例会のまとめです。議案29件（補正予算5、予算5、条例13、訴えの提起1、損害賠償1、意見書4）の審議が中心です。}}

@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="./index.md">令和3年小平市議会まとめ</a> > 議決結果一覧</p>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

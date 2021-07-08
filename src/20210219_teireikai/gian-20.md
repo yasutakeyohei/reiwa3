@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">3月定例会</a> > 議案第20号</p>
-
 {{first:2021-04-17}}
 
 # ⛏️議案第20号　令和2年度小平市一般会計補正予算（第10号）

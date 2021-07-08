@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > 4月臨時会</p>
-
 {{first:2021-04-22}}
 
 {{description:小平市議会・令和3年4月臨時会のまとめです。議案3件（補正予算1、同意1、専決条例1）の審議が中心です。}}

@@ -1,5 +1,3 @@
-<p class="breadcrumbs"><a href="https://yasutakeyohei.com/">小平市議 安竹洋平公式サイト</a> > <a href="../index.md">令和3年小平市議会まとめ</a> > <a href="./index.md">3月定例会</a> > 議員提出議案第31号</p>
-
 {{first:2021-04-17}}
 
 # ⛏️議員提出議案第31号　国民の命を守る新型コロナウイルス感染症対策の実施を求める意見書提出について
