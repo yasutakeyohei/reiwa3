@@ -10,9 +10,11 @@
 
 [💰 令和3年の例月現金出納検査](./reigetu.md)
 
+<!--
 [4月23日：4月臨時会](./20210423_rinjikai/index.md)
 
 [2月19日-3月26日：3月定例会](./20210219_teireikai/index.md)
+-->
 
 ## 最近の更新
 <!-- recent updates -->
