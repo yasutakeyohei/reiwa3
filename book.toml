@@ -7,10 +7,10 @@ title = "令和3年 小平市議会 まとめ"
 description = "令和3年（1月～12月）の小平市議会で起きていることを、情報公開と自身の勉強を兼ねてまとめています。議案の内容、主な質疑、一般質問、私（安竹）のコメント等です。"
 
 [output.html]
-theme = "theme"
+theme = "src/theme"
 git-repository-url="https://github.com/yasutakeyohei/reiwa3"
 google-analytics="UA-144705402-1"
-additional-css=["./src/css-each/custom.css"]
+# additional-css=["./src/css-each/custom.css"]
 mathjax-support = true
 
 [output.html.fold]
@@ -24,5 +24,5 @@ enable = false
 enable = false
 
 [output.z]
-command = "python ../../postprocess.py"
+command = "python -B ../../src/mdbook-shared/postprocess.py"
 optional = true
