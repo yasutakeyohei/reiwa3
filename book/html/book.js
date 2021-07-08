@@ -1,7 +1,9 @@
 "use strict";
 
 // Fix back button cache problem
-window.onunload = function () { };
+//window.onunload = function () { };
+const terminationEvent = 'onpagehide' in self ? 'pagehide' : 'unload';
+addEventListener(terminationEvent, () => {}, {capture: true});
 
 // Global variable, shared between modules
 function playground_text(playground) {
@@ -137,6 +139,7 @@ function playground_text(playground) {
         .catch(error => result_block.innerText = "Playground Communication: " + error.message);
     }
 
+    /*
     // Syntax highlighting Configuration
     hljs.configure({
         tabReplace: '    ', // 4 spaces
@@ -269,6 +272,7 @@ function playground_text(playground) {
             });
         }
     });
+    */
 })();
 
 (function themes() {
@@ -306,7 +310,7 @@ function playground_text(playground) {
 
     function set_theme(theme, store = true) {
         let ace_theme;
-
+/*
         if (theme == 'coal' || theme == 'navy') {
             stylesheets.ayuHighlight.disabled = true;
             stylesheets.tomorrowNight.disabled = false;
@@ -328,7 +332,7 @@ function playground_text(playground) {
         setTimeout(function () {
             themeColorMetaTag.content = getComputedStyle(document.body).backgroundColor;
         }, 1);
-
+*/
         if (window.ace && window.editors) {
             window.editors.forEach(function (editor) {
                 editor.setTheme(ace_theme);
@@ -348,7 +352,7 @@ function playground_text(playground) {
     // Set theme
     var theme = get_theme();
 
-    set_theme(theme, false);
+    //set_theme(theme, false); /* CUSTOM: ここをコメントアウト */
 
     themeToggleButton.addEventListener('click', function () {
         if (themePopup.style.display === 'block') {
@@ -555,7 +559,7 @@ function playground_text(playground) {
         }
     });
 })();
-
+/*
 (function clipboard() {
     var clipButtons = document.querySelectorAll('.clip-button');
 
@@ -592,7 +596,7 @@ function playground_text(playground) {
         showTooltip(e.trigger, "Clipboard error!");
     });
 })();
-
+*/
 (function scrollToTop () {
     var menuTitle = document.querySelector('.menu-title');
 
