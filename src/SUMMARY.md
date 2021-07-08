@@ -53,5 +53,5 @@
   - [⛏️請願第5号　旧佐川邸の土地を売らないことも含め、市民の意見を聞きながら公園整備を行うことについて](./20210219_teireikai/seigan-5.md)
   - [⛏️代表質問](./20210219_teireikai/daihyo-situmon.md)
   - [⛏️一般質問](./20210219_teireikai/ippan-situmon.md)
-
+- [このサイトのアクセシビリティツールについて](./about-a11y.md)
   
