@@ -6,7 +6,7 @@
 
 （⛏️作成中です）
 
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=48&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1205&schedule_id=2&minute_id=62&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=88&is_search=true">委員会後</a>）</p>
 <fieldset class="point">
   <legend>
     <h2> ポイント </h2>
@@ -23,7 +23,8 @@
     <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
   </legend>
   <ul>
-    <li>ワクチン接種事業について、次を検討し、悩んだ末に賛成しました。</li>
+    <li>悩んだ末に賛成しました。</li>
+    <li>ワクチン接種事業については、次のように検討しました。</li>
     <li class="bad">コロナ禍に対し、たとえばPCR検査の偽陽性率が非常に高い可能性があったり、「陽性」が「感染」と解釈されていたり、さまざまな場面で科学的根拠が薄いまま、人々を分断する施策が続いている。mRNAワクチンに関しても、一部の専門家から安全性に対する懸念が強く指摘されているなど、私は個人的に、当初から「全体としてあまりにも過剰な対応が行われている」という認識でいる。発症を抑えるワクチンも、高齢者や基礎疾患のある方々へ接種することは分かる。しかし、ワクチンが感染を防ぐ効果については厚労省も<a href="https://www.mhlw.go.jp/content/10601000/000680224.pdf">実証がほぼ不可能</a>としている<a href="#kome">*</a>。高齢者以外の年齢層で重症化率は非常に低いにもかかわらず、検証期間が十分に取られていない、まったく新しいタイプのワクチンを、健康な若年層まで含めた市民全員に接種する分のワクチンを用意する必要性はないと考える</li>
     <li class="good">発症後の重症化を抑える効果はあるため、高齢者や基礎疾患のある方には期待値が高い</li>
     <li class="good">接種は任意であり、接種したくない人は打たなくてもよい</li>
@@ -45,6 +46,10 @@
 > 
 > 財源構成といたしまして、事業費の増減に伴い、国、及び都支出金を補正するとともに、財政調整基金からの繰入金で対応いたします。
 
+### 資料
+
+- [令和2年度一般会計補正予算書（第8号）](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
+- [令和2年度一般会計補正予算（第8号）の概要](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
 ## 主な質疑（発言順）
 {{#include ../partials/situgi_hanrei.md}}
@@ -273,7 +278,58 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 総務委員会には、一人会派の会から橋本久雄議員が委員として参加しています。
 
-（⛏️作成中です）
+<div class="balloon bl-left">他会派の議員<br><div>
+
+ワクチンの安全性、有効性、副反応などのリスクについて、データの蓄積は。
+
+</div></div>
+
+<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+
+今、日本に入ってきているファイザーのワクチンが、先日薬事承認された。順次国からワクチンに対する詳細等が通知されと考えている。
+
+詳細な内容が示され次第、市ホームページ等で市民の皆様に広報していく。
+
+</div></div>
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+小平市中小企業等支援給付金事業の、PayPay、auPayの効果は。
+
+</div></div>
+
+<div class="balloon bl-right">齋藤 産業振興課長<br><div>
+
+<table class="slim bordered">
+<thead>
+<tr><th>決済</th><th>最大参加店舗数</th></tr>
+</thead>
+<tbody>
+<tr><th>auPay</th><td>474</td></tr>
+<tr><th>PayPay</th><td>865</td></tr>
+</tbody>
+</table>
+
+確定していないが、10月から1月までauPay, PayPayを使って決済された金額が約15億2,600万円、キャッシュバックポイント付与分（小平市がポイント付与に出している額）3億9,460万円。4億円で15億円以上の決済をできたので、かなりの効果はあったのではないか。
+
+</div></div>
+
+<div class="tips"><div>
+<strong>😇 キャッシュレス事業の効果はまったく不明</strong>
+
+齋藤課長の「効果があった」という答弁は、市の答弁としては間違いです。事業が市民の福祉にどれだけ貢献しているかが重要なのに、その視点がまったくありません。
+
+- キャッシュレス導入で市民にどういう恩恵があるのか
+- その恩恵を、どれだけの「小平」市民が享受できたのか
+- 新規需要としての経済波及効果額はいくらなのか
+
+少なくとも、こういった観点でのデータが必要です。
+
+国がキャッシュレス決済の導入を推進しているからといって、何のポリシーもなく進めることは、怠慢です。また、ほかにもお金を投じなければならないことが多くあるにもかかわらず、このような、効果が不明な単一事業に、自由度の高い財源から巨費を投じるのは、市民に対する裏切りです。
+
+今回はポイント付与の不足分に対する追加分の補正予算であり「結局支払わなければならないもの」であることから賛成しましたが、このようなやり方を改めるよう訴えるため、反対してもよかったと思っています。
+
+</div></div>
 
 #### 総務委員会での採決
 
