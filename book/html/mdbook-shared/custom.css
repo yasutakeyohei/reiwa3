@@ -342,6 +342,12 @@ div.tips>p:first-child {
   font-weight:bold;
 }
 
+div.note {
+  border: 1px dashed var(--fg);
+  padding: 0 3rem;
+  margin-bottom: 4rem;
+}
+
 p.situgi-comment {
   color: red;
 }
@@ -1005,11 +1011,12 @@ li:last-child {
 .situgi h4 {
   font-size: var(--font-size);
   line-height: var(--line-height);
-  background: var(--situgi-q-bg);
+  border: 1px solid var(--fg);
+  border-radius: 10px;
   font-weight: bold;
   text-align: center;
   margin: 2rem 0;
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 .situgi h4 {
   padding: 0;
@@ -1185,15 +1192,22 @@ input[type="checkbox"]{
   text-decoration: none;
   display: inline-block;
   font-size: var(--font-size);
-  margin: 4px 2px;
+  margin: 3rem 2px 0;
   transition-duration: 0.4s;
   cursor: pointer;
-  border: 2px solid var(--fg);
+  border: 1px solid var(--fg);
+  border-radius: 5px;
 }
-
+.pdf-view-button i {
+  color: red;
+  transition-duration: 0.4s;
+}
 .pdf-view-button:hover {
-  background-color: #4CAF50;
-  color: white;
+  background-color: var(--links);
+  color: var(--bg);
+}
+.pdf-view-button:hover i {
+  color: var(--bg);
 }
 
 
@@ -1219,4 +1233,29 @@ div.recent-updated ul li {
 }
 #menu-bar i, #menu-bar .icon-button {
   transition: unset;
+}
+
+
+#toc {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin: 0 auto 3rem;
+  padding: 2rem;
+  width: auto;
+}
+.toc-title {
+  font-weight: bold;
+  text-align: center;
+}
+#toc>p {
+  margin: 0;
+}
+#toc>ul {
+  padding: 0 2rem;
+}
+#toc li, #toc ul, #toc ul li{
+  list-style: outside none none !important;
+  margin-bottom:0;
 }
