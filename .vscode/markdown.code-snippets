@@ -60,7 +60,8 @@
 		"prefix": "tips",
 		"body": [
 			"<div class=\"balloon bl-left bl-tips\"><div>",
-			"<strong>🕵 $1</strong>",
+			"",
+			"🕵 $1",
 			"",
 			"$2",
 			"",
@@ -71,50 +72,63 @@
 		"scope": "markdown",
 		"prefix": "okada",
 		"body": [
-			"岡田 障がい者支援課長"
+			"障がい者支援課長（岡田）"
 		]
 	},
 	"滝澤": {
 		"scope": "markdown",
 		"prefix": "takizawa",
 		"body": [
-			"滝澤 健康福祉部長"
+			"健康福祉部長（滝澤）"
 		]
 	},
 	"川上": {
 		"scope": "markdown",
 		"prefix": "kawakami",
 		"body": [
-			"川上 教育部長"
+			"教育部長（川上）"
 		]
 	},
 	"篠宮": {
 		"scope": "markdown",
 		"prefix": "shinomiya",
 		"body": [
-			"篠宮 健康・保険担当部長"
+			"健康・保険担当部長（篠宮）"
 		]
 	},
 	"白倉": {
 		"scope": "markdown",
 		"prefix": "shirakura",
 		"body": [
-			"白倉 総務部長"
+			"総務部長（白倉）"
 		]
 	},
 	"尾崎": {
 		"scope": "markdown",
 		"prefix": "ozaki",
 		"body": [
-			"尾崎 財政課長"
+			"財政課長（尾崎）"
 		]
 	},
 	"赤坂（麻": {
 		"scope": "markdown",
 		"prefix": "akasakama",
 		"body": [
-			"赤坂 高齢者支援課長補佐"
-		]		
+			"高齢者支援課長補佐（赤坂）"
+		]
 	},
-	
+	"齋藤": {
+		"scope": "markdown",
+		"prefix": "saitou",
+		"body": [
+			"産業振興課長（齋藤）"
+		]
+	},
+	"櫻井": {
+		"scope": "markdown",
+		"prefix": "sakurai",
+		"body": [
+			"健康推進課長（櫻井）"
+		]
+	},
 }
