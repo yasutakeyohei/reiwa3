@@ -1,19 +1,17 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第14号　小平市指定地域密着型介護予防サービスの事業の人員、設備及び運営並びに指定地域密着型介護予防サービスに係る介護予防のための効果的な支援の方法の基準に関する条例の一部を改正する条例
+# 🚧議案第14号　小平市指定地域密着型介護予防サービスの事業の人員、設備及び運営並びに指定地域密着型介護予防サービスに係る介護予防のための効果的な支援の方法の基準に関する条例の一部を改正する条例
 
 ＊議案[第13号](./gian-13.md)、[第14号](gian-14.md)、[第15号](gian-15.md)、[第16号](gian-16.md)は同種のものなので一括議題
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -38,7 +36,7 @@
 [議案第13号の提案説明時](./gian-13.md#市長提案説明)と同時に行われました。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -48,7 +46,7 @@
 
 厚生委員会には、一人会派の会から、私（安竹洋平議員）が委員として参加しています。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 

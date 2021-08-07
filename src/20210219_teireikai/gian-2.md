@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">歳入・歳出の過不足調整、計数の整理、基金残高の回復のための補正予算</li>
     <li class="chk">コロナ禍での交付金減に対応する、約1.8億円の減収補てん債を起債</li>
@@ -49,7 +47,7 @@
 
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -59,7 +57,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">川上 教育部長<br><div>
+<div class="balloon bl-right">教育部長（川上）<br><div>
 
 扶助は、近年、雇用の醸成や景気の動向で減少傾向だった。
 今回コロナの影響でプラスに転じることも想定されたが、基準が前年度の所得で判定するため、今年度に関しては直結した形で反映しなかった。

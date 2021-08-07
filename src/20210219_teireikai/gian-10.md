@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">マイナンバーカードを登録して証明書自動交付機で証明書等の交付ができるようにするサービスの終了に伴い、該当の条例を廃止するもの</li>
     <li class="chk">すでに登録していた人は、引き続き証明書自動交付機を利用できる</li>
@@ -43,7 +41,7 @@
 [小平市個人番号カードの利用に関する条例](https://web.archive.org/web/20210510082941/https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001171.html)を廃止するもの。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 

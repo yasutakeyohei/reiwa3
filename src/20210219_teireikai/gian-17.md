@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">初の「児童発達支援センター」を小平市障害者福祉センター内に新設するための条例改正</li>
     <li class="chk">機能が追加されるため、小平市障害者福祉センターを「たいよう福祉センター」に改名</li>
@@ -83,7 +81,7 @@
 </p>
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 ① 本会議での質疑はありませんでした。

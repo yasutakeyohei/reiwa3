@@ -8,10 +8,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">議案第9号の「小平市公文書等の管理に関する条例」制定に当たって、小平市情報公開条例中の表記を変更するもの</li>
   </ul>
@@ -34,7 +32,7 @@
 議案第9号の「小平市公文書等の管理に関する条例の制定」に当たり、小平市情報公開条例中の表記を変更するものです。たとえば「市政情報」を「公文書」にするなど。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 

@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">広域連合の納付金決算見込みが出たため、所要額に合わせて予算補正を行うもの</li>
     <li class="chk">約45億円の補正前予算に対し、約3,575万円（0.8％）の減額</li>
@@ -45,7 +43,7 @@
 [3月補正予算・令和2年度後期高齢者医療特別会計補正予算書（第2号）](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 なし

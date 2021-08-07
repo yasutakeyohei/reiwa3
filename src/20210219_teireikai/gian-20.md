@@ -1,17 +1,15 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第20号　令和2年度小平市一般会計補正予算（第10号）
+# 🚧議案第20号　令和2年度小平市一般会計補正予算（第10号）
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -40,7 +38,7 @@
 > 主な財源といたしまして、国庫支出金、及び基金繰入金を増額いたします。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -50,7 +48,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 いままで、コロナ対策、生活支援を含め、10号補正までで約45億円程度、特別定額給付金を除いたところでやっている。そのうち、経営支援が19億円、生活困窮者への生活支援として7億円程度行っている。
 
@@ -63,7 +61,7 @@
 
 総務委員会には、一人会派の会から、橋本久雄議員が委員として参加しています。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 

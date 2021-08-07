@@ -1,17 +1,15 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第21号　令和3年度小平市一般会計補正予算（第1号）
+# 🚧議案第21号　令和3年度小平市一般会計補正予算（第1号）
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -42,7 +40,7 @@
 > 主な財源といたしまして、都支出金を増額いたします。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -52,7 +50,7 @@
 
 総務委員会には、一人会派の会から、橋本久雄議員が委員として参加しています。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 

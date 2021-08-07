@@ -1,17 +1,15 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第18号　小平市立体育施設条例の一部を改正する条例
+# 🚧議案第18号　小平市立体育施設条例の一部を改正する条例
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 生活文教委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -41,7 +39,7 @@
 
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -72,7 +70,7 @@
 
 生活文教委員会には、一人会派の会から、中江美和議員が委員長として参加しています。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 

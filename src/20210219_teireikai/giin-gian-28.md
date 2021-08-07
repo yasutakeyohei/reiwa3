@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">コロナでオリ・パラ「観戦事業」の見通しが立たない中、財源を固定してしまう基金の廃止を求める、3度目の提案</li>
     <li class="chk">オリ・パラ開催の可否を巡る提案ではない</li>
@@ -62,7 +60,7 @@
 > ご審査のほどよろしくお願いいたします。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -179,7 +177,7 @@
 
 ---
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 市はこれまで何度も補正予算を組んで、コロナに関連する対策事業を打っている。この条例を廃止しないとコロナ対策が打てないというような市の状況はない。そのため、この基金条例の必要性については、市としては従前どおり、夏に予定されているオリパラ大会に向けてしっかり確保していきたい。
 

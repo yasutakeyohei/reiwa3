@@ -1,17 +1,15 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第4号　令和3年度小平市一般会計予算
+# 🚧議案第4号　令和3年度小平市一般会計予算
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 一般会計予算特別委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -171,7 +169,7 @@
 </blockquote>
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -181,7 +179,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 どのような予算編成をするかは庁内で毎回議論している。
 
@@ -226,7 +224,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 過去の例として、肉付け予算は事業費ベースで約10億円程度。
 
@@ -242,7 +240,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 経常収支比率が95％前後で高止まりしている。財源確保は、経常経費を精査していくということで、-6％のシーリングをかけている。市民サービスに影響が出ないところで削減を図っている。
 
@@ -262,7 +260,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">津嶋 企画政策部長<br><div>
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
 
 暫定予算では、清掃の業務なども2ヵ月単位で業者に請け負ってもらわないとならない。業者は次も仕事が取れるか分からない。いくらで人を集められるか、事務的な経費も追加でかかる可能性もある。
 
@@ -273,12 +271,12 @@
 
 一般会計予算特別委員会には、一人会派の会から、伊藤央議員と中江美和議員が委員として参加しました。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 
 ### 討論
-あり（⛏️作成中です）
+あり（🚧作成中です）
 
 ### 採決
 一人会派の会（安竹、伊藤、橋本）と政和会が反対。それ以外の議員は賛成でした。

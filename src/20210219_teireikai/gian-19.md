@@ -6,10 +6,8 @@
 
 <p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=16&is_search=true">初日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">学童クラブ指定管理料の過払い分について、事業者に不当利得返還請求の訴えをするもの</li>
     <li class="chk">市の過誤で過払いしていた消費税増税分を事業者が返還に応じないことから訴えに発展</li>
@@ -67,7 +65,7 @@
 ---
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### 本会議での質疑
 

@@ -1,17 +1,15 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第22号　小平市国民健康保険条例の一部を改正する条例
+# 🚧議案第22号　小平市国民健康保険条例の一部を改正する条例
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 即決
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -38,7 +36,7 @@
 > 施行期日につきましては、公布の日を予定いたしております。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -48,7 +46,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 中国武漢が由来（とされている）のウイルスについて、変異株も対象となると聞いている。これは、今後、（中国武漢由来）以外の新型コロナウイルスが出た場合は、傷病手当の対象とはしない、という区分けをしているもの。
 
@@ -60,7 +58,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 支給要件その他、対応が変わるところはない。
 
@@ -72,7 +70,7 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 私どもも報道等で知る限り。特段、市で把握していることはない。
 
@@ -84,7 +82,7 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 国保で傷病手当を支給するところで位置付けをしている。内容については国からの指示灯を受けて対応している。
 

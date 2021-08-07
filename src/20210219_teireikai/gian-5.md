@@ -1,19 +1,17 @@
 {{first:2021-04-17}}
 
-# ⛏️議案第5号　令和3年度小平市国民健康保険事業特別会計予算
+# 🚧議案第5号　令和3年度小平市国民健康保険事業特別会計予算
 
 ＊議案[第5号](./gian-5.md)、[第6号](gian-6.md)、[第7号](gian-7.md)、[第8号](gian-8.md)は同種のものなので一括議題
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 特別会計・下水道事業会計予算特別委員会付託
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -48,7 +46,7 @@
 > なお、前年度に比べ、平均被保険者数は、300人減の3万8千300人、平均世帯数は、10世帯減の2万5千690世帯を見込んでおります。
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### ① 本会議での質疑
 
@@ -58,7 +56,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 事業収入等、厳しい状況は把握している。今回予算編成において国保税収入も約1.6億円減ると見込んでいる。
 国保財政を健全に安定的に運営していくところで、前年度2千2百万円を入れたところ、今回1.5億円入れ安定化を図っている。
@@ -72,7 +70,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 これまでも国保についてはコロナ減免等も行っており、小平市の国保税が高いこともないので、税の引き下げの検討はしていない。
 
@@ -85,7 +83,7 @@
 </div></div>
 
 
-<div class="balloon bl-right">篠宮 健康・保険担当部長<br><div>
+<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
 
 
 国民皆保険の位置付けもある。これをどう安定的に運営するかは市の課題。市単独では解決できないので、都とともに考えていくことも必要。
@@ -96,7 +94,7 @@
 
 特別会計・下水道事業会計予算特別委員会には、一人会派の会から、私（安竹洋平議員）と橋本久雄議員が委員として参加しました。
 
-（⛏️作成中です）
+（🚧作成中です）
 
 ## 本会議でのやりとり
 
