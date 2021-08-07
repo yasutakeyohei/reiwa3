@@ -1,15 +1,13 @@
 {{first:2021-04-24}}
 
-# ⛏️議案第24号　専決処分（小平市税条例の一部を改正する条例）の承認を求めることについて
+# 🚧議案第24号　専決処分（小平市税条例の一部を改正する条例）の承認を求めることについて
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 即決
 
-（⛏️作成中です）
+（🚧作成中です）
 
-<fieldset class="point">
-  <legend>
-    <h2> ポイント </h2>
-  </legend>
+<fieldset class="pnt">
+  <legend><h2> ポイント </h2></legend>
   <ul>
     <li class="chk">国の地方税法改正に合わせて小平市の条例を改正するもの</li>
     <li class="chk">固定資産税と都市計画税の負担調整措置を継続</li>
@@ -102,11 +100,11 @@
 
 
 ## 主な質疑（発言順）
-{{#include ../partials/situgi_hanrei.md}}
+{{#include ../partials/situgi-note.md}}
 
 ### 本会議での質疑
 
-（⛏️作成中です）
+（🚧作成中です）
 
 <!--
 <div class="balloon bl-left">他会派の議員<br><div>
