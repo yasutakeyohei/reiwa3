@@ -179,7 +179,6 @@ fieldset.summary {
   padding-left: 1.5rem;
 }
 
-
 .point li:not([class]),
 .sanpi li:not([class]),
 .summary li:not([class]) {
@@ -230,6 +229,15 @@ fieldset.summary {
   font-family: FontAwesome;
   margin-right: 1rem;
 }
+
+.sanpi-note {
+  border-top: 1px solid var(--links);
+  margin-top: 3rem;
+  color: var(--links);
+  font-size: calc(var(--font-size)*0.8);
+  text-align: left;
+}
+
 
 fieldset.nittei {
   min-width: auto;
@@ -1357,14 +1365,13 @@ div.recent-updated ul li {
   margin: 3rem 0;
   color: var(--links);
 }
-#toc>p.toc-hanrei {
+#toc>p.toc-note {
   border-top: 1px solid var(--links);
   margin-top: 3rem;
   color: var(--links);
   font-size: calc(var(--font-size)*0.8);
-  text-align: right;
 }
-#toc>p.toc-hanrei i {
+#toc>p.toc-note i {
   color: royalblue;
 }
 
