@@ -1328,7 +1328,7 @@ div.recent-updated ul li {
   padding: 2rem;
   width: auto;
 }
-.toc-title {
+#toc>p:first-of-type {
   font-weight: bold;
   text-align: center;
 }
