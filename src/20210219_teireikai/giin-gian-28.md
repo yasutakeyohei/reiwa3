@@ -189,7 +189,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">尾崎 財政課長<br><div>
+<div class="balloon bl-right">財政課長（尾崎）<br><div>
 
 基金を作る際に確認したときはなかったと記憶している。その後調査していないため回答できない。
 
@@ -201,7 +201,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">尾崎 財政課長<br><div>
+<div class="balloon bl-right">財政課長（尾崎）<br><div>
 
 我々も事業があって、その財源を確保するためにこの基金を作った。他市のほうで、たとえば長年をかけてこういった観戦事業をしていくという事業展開をしているか、していないかで違いが出るのでは。
 
@@ -320,7 +320,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">尾崎 財政課長<br><div>
+<div class="balloon bl-right">財政課長（尾崎）<br><div>
 
 廃止になる。ただし、これまでも話しているように、基金の残額はそのまま一般会計に繰り入れるのではなく、子どもたちのために使うか、コロナのために使うのか、検討が必要。
 
