@@ -4,26 +4,39 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=130&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会（未）</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=59&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
-  <ul>
-    <li class="chk">マイナンバーカードを登録して証明書自動交付機で証明書等の交付ができるようにするサービスの終了に伴い、該当の条例を廃止するもの</li>
-    <li class="chk">すでに登録していた人は、引き続き証明書自動交付機を利用できる</li>
-  </ul>
+  <legend><h2>ポイント</h2></legend>
+
+- マイナンバーカードを登録して証明書自動交付機で証明書等の交付ができるようにするサービスの終了に伴い、該当の条例を廃止するもの
+- すでに登録していた人は、引き続き証明書自動交付機を利用できる
+
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
-  <ul>
-    <li>次のような理由から、反対するものではないと判断し、賛成しました。</li>
-    <li class="good">このサービスをすでに使っていた人は、今後も利用できる</li>
-    <li>なお、今回の議案とは直接関係がありませんが私は、マイナンバーの推進で個人情報の統合が進む流れには反対です。ただし、そういった懸念や、情報漏洩のリスクが担保されれば、社会全体のコストが下がることはよいことと考えています。</li>
-  </ul>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
+
+- 次のような理由から、反対するものではないと判断し、賛成しました。
+- good:このサービスをすでに使っていた人は、今後も利用できる
+- なお、今回の議案とは直接関係がありませんが私は、マイナンバーの推進で個人情報の統合が進む流れには反対です。ただし、そういった懸念や、情報漏洩のリスクが担保されれば、社会全体のコストが下がることはよいことと考えています。
+
 </fieldset>
+
+<div class="toc">
+
+目次
+
+- [市長提案説明](#市長提案説明)・[概要](#概要)
+- [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
+- [付託委員会での取り扱い](#付託委員会での取り扱い)
+  - [採決](#採決)
+- [本会議での主なやり取り](#本会議での主なやり取り)
+  - [討論](#討論)
+  - [採決](#採決-1)
+- [賛否一覧](#賛否一覧)
+
+</div>
 
 ## 市長提案説明
 
@@ -40,16 +53,40 @@
 
 [小平市個人番号カードの利用に関する条例](https://web.archive.org/web/20210510082941/https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001171.html)を廃止するもの。
 
-## 主な質疑（発言順）
+<div class="situgi">
+
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
-### ① 本会議での質疑
+<div class="toc">
+
+主な質疑の目次
+
+**[1. 本会議での主な質疑](#1-本会議での主な質疑)**
+
+- なし
+
+**[2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)**
+
+- hitori:[経過措置はいつまでを予定しているか](#経過措置はいつまでを予定しているか)
+  - tips:[リースが終わると自動交付機が使えなくなるのか](#リースが終わると自動交付機が使えなくなるのか)
+- hitori:[小平市のマイナンバーカード交付率は](#小平市のマイナンバーカード交付率は)
+
+{{#include ../partials/toc-note.md}}
+
+</div>
+
+### 1. 本会議での主な質疑
 
 なし
 
-### ② 総務委員会での質疑
+### 2. 付託委員会での主な質疑
 
-総務委員会には、一人会派の会から、橋本久雄議員が委員として参加しています。
+この議案は総務委員会に付託されました。主な質疑を記します。
+
+一人会派の会からは、橋本久雄議員が総務委員として参加しました。
+
+#### 経過措置はいつまでを予定しているか
 
 <div class="balloon bl-left">他会派の議員<br><div>
 
@@ -63,24 +100,15 @@
 
 </div></div>
 
-<div class="balloon bl-left bl-tips"><div>
-<strong>🕵 リースが終わると自動交付機が使えなくなるのか</strong>
+<div class="tips" id="リースが終わると自動交付機が使えなくなるのか">
+
+🕵 リースが終わると自動交付機が使えなくなるのか
 
 [令和元年9月定例会の答弁](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1078&schedule_id=15&minute_id=70&is_search=true)では、自動交付機は、令和4年9月末にリース・保守契約が終了するので、そのタイミングでコンビニ交付を考えているという答弁がありました。現時点で確定したものではないようです。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
-
-要は、証明書を発行してもらうため、マイナンバーと一体化すると。自動交付機が使えなくなってから、マイナンバーカードを持っていない人はどうするか。
-
-</div></div>
-
-<div class="balloon bl-right">山本 市民課長<br><div>
-
-窓口で交付の手続きをお願いすることになる。
-
-</div></div>
+#### 小平市のマイナンバーカード交付率は
 
 <div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
@@ -94,8 +122,15 @@
 
 </div></div>
 
+</div>
 
-## 本会議でのやりとり
+## 付託委員会での取り扱い
+## 採決
+
+全委員が賛成⭕️
+
+
+## 本会議での主なやり取り
 
 ### 討論
 
@@ -106,5 +141,5 @@
 全議員が賛成⭕️
 
 
-## 原案に対する賛否
+## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)
