@@ -7,7 +7,7 @@
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
+  <legend><h2>ポイント</h2></legend>
   <ul>
     <li class="chk">初の「児童発達支援センター」を小平市障害者福祉センター内に新設するための条例改正</li>
     <li class="chk">機能が追加されるため、小平市障害者福祉センターを「たいよう福祉センター」に改名</li>
@@ -16,9 +16,7 @@
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
   <ul>
     <li>以下の問題はあるものの、まずは児童発達支援センターの導入が必要であるため賛成</li>
     <li class="ng">言語訓練のリソース不足に対する対策が取られていない</li>
@@ -80,15 +78,15 @@
 <img src="./images/gian-17-3.svg" alt="児童発達支援センター相談機能について">
 </p>
 
-## 主な質疑（発言順）
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
-### ① 本会議での質疑
-① 本会議での質疑はありませんでした。
+### 1. 本会議での主な質疑
+1. 本会議での主な質疑はありませんでした。
 
-### ② 厚生委員会での質疑
+### 2. 付託委員会での主な質疑
 
-厚生委員会には、一人会派の会から私（安竹洋平議員）が委員として参加しています。
+厚生委員会には、一人会派の会から私（安竹洋平議員）が委員として参加しました。
 
 <div class="balloon bl-left">他会派の議員<br><div>
 
@@ -408,6 +406,6 @@
 
 全議員が賛成⭕️
 
-## 原案に対する賛否
+## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)
 

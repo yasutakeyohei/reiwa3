@@ -7,7 +7,7 @@
 <p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=16&is_search=true">初日</a>）</p>
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
+  <legend><h2>ポイント</h2></legend>
   <ul>
     <li class="chk">学童クラブ指定管理料の過払い分について、事業者に不当利得返還請求の訴えをするもの</li>
     <li class="chk">市の過誤で過払いしていた消費税増税分を事業者が返還に応じないことから訴えに発展</li>
@@ -15,9 +15,7 @@
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
   <ul>
     <li>この件については昨年12月にワーカーズコープの方々からお話を伺い、レポートにまとめました。市の対応について次の懸念や問題点はあるものの、市の税金を守る立場の一議員としては「すぐにでもお金を返していただきたい」と判断しているため、賛成しました。</li>
     <li class="bad">収支計画書や決算報告書といった書類の確認や事前説明がしっかりなされていない</li>
@@ -64,7 +62,7 @@
 
 ---
 
-## 主な質疑（発言順）
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
 ### 本会議での質疑
@@ -212,7 +210,7 @@
 
 </div></div>
 
-## 本会議でのやりとり
+## 本会議での主なやり取り
 
 ### 討論
 なし
@@ -220,5 +218,5 @@
 ### 採決
 全議員が賛成⭕️
 
-## 原案に対する賛否
+## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)

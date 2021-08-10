@@ -9,7 +9,7 @@
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
+  <legend><h2>ポイント</h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -18,9 +18,7 @@
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
   <ul>
     <li></li>
     <li class="ng"></li>
@@ -37,14 +35,14 @@
 >
 > 示談につきましては、相手方との交渉の結果、このたび損害賠償の額、184万5千200円で合意に達したものです。
 
-## 主な質疑（発言順）
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
 ### 本会議での質疑
 
 なし
 
-## 本会議でのやりとり
+## 本会議での主なやり取り
 
 ### 討論
 
@@ -54,5 +52,5 @@
 
 全議員が賛成⭕️
 
-## 原案に対する賛否
+## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)

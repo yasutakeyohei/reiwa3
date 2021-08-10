@@ -7,7 +7,7 @@
 （🚧作成中です）
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
+  <legend><h2>ポイント</h2></legend>
   <ul>
     <li class="chk">国の地方税法改正に合わせて小平市の条例を改正するもの</li>
     <li class="chk">固定資産税と都市計画税の負担調整措置を継続</li>
@@ -16,9 +16,7 @@
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
   <ul>
     <li>次の問題があったものの、内容自体は市民の負担を軽減するものであるため賛成</li>
     <li class="bad">部長が基本的な数値や条例の内容を把握せずに審議の場に臨んでいる</li>
@@ -99,7 +97,7 @@
 
 
 
-## 主な質疑（発言順）
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
 ### 本会議での質疑

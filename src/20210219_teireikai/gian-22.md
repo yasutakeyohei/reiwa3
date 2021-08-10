@@ -9,7 +9,7 @@
 <p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="pnt">
-  <legend><h2> ポイント </h2></legend>
+  <legend><h2>ポイント</h2></legend>
   <ul>
     <li class="chk"></li>
     <li class="chk"></li>
@@ -18,9 +18,7 @@
 </fieldset>
 
 <fieldset class="sanpi">
-  <legend>
-    <h2>⭕️ 私（安竹洋平）の判断：賛成 </h2>
-  </legend>
+  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
   <ul>
     <li>次の疑念はあるものの、内容として問題がないため賛成しました</li>
     <li class="ng">新型コロナウイルス関連のさまざまな施策は、科学的根拠があいまい</li>
@@ -35,10 +33,10 @@
 >
 > 施行期日につきましては、公布の日を予定いたしております。
 
-## 主な質疑（発言順）
+## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
-### ① 本会議での質疑
+### 1. 本会議での主な質疑
 
 <div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
@@ -88,7 +86,7 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-## 本会議でのやりとり
+## 本会議での主なやり取り
 
 ### 討論
 なし
@@ -97,5 +95,5 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 全議員が賛成⭕️
 
-## 原案に対する賛否
+## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)
