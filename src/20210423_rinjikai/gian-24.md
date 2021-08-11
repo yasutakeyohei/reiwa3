@@ -111,7 +111,7 @@ Q
 
 </div></div>
 
-<div class="balloon bl-right">岡田 障がい者支援課長<br><div>
+<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
 
 A
 
@@ -123,7 +123,7 @@ Q
 
 </div></div>
 
-<div class="balloon bl-right">岡田 障がい者支援課長<br><div>
+<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
 
 A
 
