@@ -25,6 +25,8 @@
 - ng:図書館移管までの期間30年は長すぎないか
 - ng:何が対象に保存されるか不明瞭
 
+{{#include ../partials/sanpi-note.md}}
+
 </fieldset>
 
 <div class="toc">
