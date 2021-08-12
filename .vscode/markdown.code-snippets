@@ -145,4 +145,18 @@
 			"文化スポーツ課長（島田）"
 		]
 	},
+	"国冨": {
+		"scope": "markdown",
+		"prefix": "kunitomi",
+		"body": [
+			"教育指導担当部長（国冨）"
+		]
+	},
+	"飯島": {
+		"scope": "markdown",
+		"prefix": "iijima",
+		"body": [
+			"学務課長（飯島）"
+		]
+	},
 }
