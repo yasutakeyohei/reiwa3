@@ -1,31 +1,38 @@
 {{first:2021-04-17}}
 
-# 🚧議案第23号　損害賠償の額の決定等について
+# 議案第23号　損害賠償の額の決定等について
 
-<i class="fa fa-gavel" aria-hidden="true"></i> 即決
+<i class="fa fa-gavel" aria-hidden="true"></i> 最終日上程・即決
 
-（🚧作成中です）
-
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=27&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
-  <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
-    <li class="chk"></li>
-  </ul>
+
+- 市有自動車による交通事故に関して、184万5千200円の損害賠償支払い
+- 全額保険で賄われる
+
 </fieldset>
 
 <fieldset class="sanpi">
   <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
-  <ul>
-    <li></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-  </ul>
+
+特に問題がないため賛成しました。
+
 </fieldset>
+
+<div class="toc">
+
+目次
+
+- [市長提案説明](#市長提案説明)
+- [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
+- [本会議での主なやり取り](#本会議での主なやり取り)
+  - [討論](#討論)
+  - [採決](#採決-1)
+- [賛否一覧](#賛否一覧)
+
+</div>
 
 ## 市長提案説明
 
@@ -35,17 +42,16 @@
 >
 > 示談につきましては、相手方との交渉の結果、このたび損害賠償の額、184万5千200円で合意に達したものです。
 
+<div class="situgi">
+
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
-### 本会議での質疑
-
+### 本会議での主な質疑
 なし
 
 ## 本会議での主なやり取り
-
 ### 討論
-
 なし
 
 ### 採決

@@ -1,29 +1,42 @@
 {{first:2021-04-17}}
 
-# 🚧議案第22号　小平市国民健康保険条例の一部を改正する条例
+# 議案第22号　小平市国民健康保険条例の一部を改正する条例
 
-<i class="fa fa-gavel" aria-hidden="true"></i> 即決
+<i class="fa fa-gavel" aria-hidden="true"></i> 最終日上程・即決
 
-（🚧作成中です）
-
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=7&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
-  <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
-    <li class="chk"></li>
-  </ul>
+
+- 国の法律改正により、新型コロナウイルス感染症の定義を改めるもの
+- コロナウイルス感染症の定義を「令和2年1月に中国から人に伝染する能力を有することが新たに報告されたもの」に限定するもの
+
 </fieldset>
 
 <fieldset class="sanpi">
   <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
-  <ul>
-    <li>次の疑念はあるものの、内容として問題がないため賛成しました</li>
-    <li class="ng">新型コロナウイルス関連のさまざまな施策は、科学的根拠があいまい</li>
-  </ul>
+
+次の疑念はあるものの、内容として特に問題がないため賛成しました
+
+- ng:新型コロナウイルス関連のさまざまな施策は、科学的根拠があいまい
+
+{{#include ../partials/sanpi-note.md}}
+
 </fieldset>
+
+<div class="toc">
+
+目次
+
+- [市長提案説明](#市長提案説明)・[概要](#概要)
+- [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
+- [本会議での主なやり取り](#本会議での主なやり取り)
+  - [討論](#討論)
+  - [採決](#採決-1)
+- [賛否一覧](#賛否一覧)
+
+</div>
 
 ## 市長提案説明
 
@@ -33,10 +46,36 @@
 >
 > 施行期日につきましては、公布の日を予定いたしております。
 
+## 概要
+
+[小平市国民健康保険条例](https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00000270.html)の一部を次のように改正するもの。
+
+附則第16項中「新型インフルエンザ等対策特別措置法（平成24年法律第31号）附則第1条の2第1項に規定する新型コロナウイルス感染症（以下「新型コロナウイルス感染症」という」を「新型コロナウイルス感染症（病原体がベータコロナウイルス属のコロナウイルス（令和2年1月に、中華人民共和国から世界保健機関に対して、人に伝染する能力を有することが新たに報告されたものに限る。）である感染症をいう。以下同じ」に改める。
+
+この条例は、公布の日から施行する。
+
+<div class="situgi">
+
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
-### 1. 本会議での主な質疑
+<div class="toc">
+
+主な質疑の目次
+
+**[本会議での主な質疑](#1-本会議での主な質疑)**
+
+- hitori:[中国武漢を由来とはどういうことか](#中国武漢を由来とはどういうことか)
+- hitori:[小平市として何が対応として変わるか](#小平市として何が対応として変わるか)
+- hitori:[COVID-19ウイルスがあるという科学的根拠はあるか](#covid-19ウイルスがあるという科学的根拠はあるか)
+
+{{#include ../partials/toc-note.md}}
+
+</div>
+
+### 本会議での主な質疑
+
+#### 中国武漢を由来とはどういうことか
 
 <div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
 
@@ -50,6 +89,8 @@
 
 </div></div>
 
+#### 小平市として何が対応として変わるか
+
 <div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
 
 小平市として、何が対応として変わってくるか。
@@ -61,6 +102,8 @@
 支給要件その他、対応が変わるところはない。
 
 </div></div>
+
+#### COVID-19ウイルスがあるという科学的根拠はあるか
 
 <div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
@@ -86,13 +129,13 @@ COVID-19ウイルスを実際に見た人はいないと聞いている。新型
 
 </div></div>
 
-## 本会議での主なやり取り
+</div>
 
+## 本会議での主なやり取り
 ### 討論
 なし
 
 ### 採決
-
 全議員が賛成⭕️
 
 ## 賛否一覧
