@@ -1,31 +1,43 @@
 {{first:2021-04-17}}
 
-# 🚧議案第20号　令和2年度小平市一般会計補正予算（第10号）
+# 議案第20号　令和2年度小平市一般会計補正予算（第10号）
 
-<i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
+<i class="fa fa-gavel" aria-hidden="true"></i> 最終日上程・総務委員会付託
 
-（🚧作成中です）
-
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=93&is_search=true">最終日①</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=2&minute_id=2&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=106&is_search=true">最終日②</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
-  <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
-    <li class="chk"></li>
-  </ul>
+
+- 国の補助金を活用した、ICT関連の教職員研修と、コロナ対策備品の経費増額補正
+- ICT関連の教職員研修は1校当たり10万円で、計270万円
+- コロナ対策備品は1校当たり80万円から135万円で、計3,570万円
+- 歳入と調整の予備費80万円（財政調整基金の端数をなくすため？）
+- 合計3,920万円（国庫補助金1,920万円 + 財政調整基金2,000万円）
+
 </fieldset>
 
 <fieldset class="sanpi">
   <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
-  <ul>
-    <li></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-  </ul>
+
+特に問題がないため賛成しました。
+
 </fieldset>
+
+<div class="toc">
+
+目次
+
+- [市長提案説明](#市長提案説明)・[資料](#資料)
+- [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
+- [付託委員会での取り扱い](#付託委員会での取り扱い)
+  - [採決](#採決)
+- [本会議での主なやり取り](#本会議での主なやり取り)
+  - [討論](#討論)
+  - [採決](#採決-1)
+- [賛否一覧](#賛否一覧)
+
+</div>
 
 ## 市長提案説明
 
@@ -35,10 +47,36 @@
 >
 > 主な財源といたしまして、国庫支出金、及び基金繰入金を増額いたします。
 
+## 資料
+
+[令和2年度補正予算](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
+
+<div class="situgi">
+
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
+<div class="toc">
+
+主な質疑の目次
+
+**[1. 本会議での主な質疑](#1-本会議での主な質疑)**
+
+- [ここで市独自の経済対策を出さないのは、十分に行ってきたという認識によるものか](#ここで市独自の経済対策を出さないのは十分に行ってきたという認識によるものか)
+
+**[2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)**
+
+- [学習保障支援に係る経費とは](#学習保障支援に係る経費とは)
+- [教職員研修・研究活動事業270万円の詳細は](#教職員研修研究活動事業270万円の詳細は)
+- [各校への配分額はどう決めているか](#各校への配分額はどう決めているか)
+
+{{#include ../partials/toc-note.md}}
+
+</div>
+
 ### 1. 本会議での主な質疑
+
+#### ここで市独自の経済対策を出さないのは、十分に行ってきたという認識によるものか
 
 <div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
 
@@ -50,6 +88,10 @@
 
 いままで、コロナ対策、生活支援を含め、10号補正までで約45億円程度、特別定額給付金を除いたところでやっている。そのうち、経営支援が19億円、生活困窮者への生活支援として7億円程度行っている。
 
+</div></div>
+
+<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+
 まだこれからも必要な部分がある。国や都の支援策も踏まえて、小平市独自として必要なものはしっかり打っていく。来年度に向けてさまざまな情報収集をしながら補正予算に向けて取り組みを進めている。
 
 </div></div>
@@ -57,18 +99,92 @@
 
 ### 2. 付託委員会での主な質疑
 
+この議案は総務委員会に付託されました。主な質疑を記します。
+
 総務委員会には、一人会派の会から、橋本久雄議員が委員として参加しました。
 
-（🚧作成中です）
+#### 学習保障支援に係る経費とは
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+概要資料の、ポイント②にある「小・中学校の感染症対策及び子ども達の学習保障支援に係る経費の増額」とはなにか。
+
+</div></div>
+
+<div class="balloon bl-right">学務課長（飯島）<br><div>
+
+密を避けるための消耗品と備品。換気をしながら教育活動を続けるため、次のようなものが対象。
+
+- ディスプレイ
+- テレビ
+- ビデオカメラ
+- サーキュレーター
+- 空気清浄機
+
+</div></div>
+
+#### 教職員研修・研究活動事業270万円の詳細は
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+教職員研修・研究活動事業270万円の詳細は。
+
+</div></div>
+
+<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+
+1校当たり10万円配当し、各校の教職員はこの費用を活用した研修に参加できる。
+
+</div></div>
+
+<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+
+研修の内容は校長の裁量の範囲。たとえば次のような研修に使える。
+
+- ICT機器の使用方法・取扱い
+- その機器をどう教科の指導に生かすか
+
+</div></div>
+
+#### 各校への配分額はどう決めているか
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+今回の補正予算額について、各校への配分は。
+
+</div></div>
+
+<div class="balloon bl-right">学務課長（飯島）<br><div>
+
+国の補助基準額があり、児童・生徒数によって次の3段階がある。
+
+- 1人から300人
+- 301人から500人
+- 501人以上
+
+その中で、市教育委員会で、教員の研修と消耗品・備品に振り分けている。
+
+</div></div>
+
+<div class="balloon bl-right">学務課長（飯島）<br><div>
+
+備品は、児童・生徒数に応じ、1校当たり80万円から135万円程度で配分する予定。
+
+</div></div>
+
+</div>
+
+
+## 付託委員会での取り扱い
+## 採決
+全委員が賛成⭕️
 
 ## 本会議での主なやり取り
 
 ### 討論
-
 なし
 
 ### 採決
-
 全議員が賛成⭕️
 
 
