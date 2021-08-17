@@ -16,7 +16,7 @@
 
 <fieldset class="sanpi">
   <legend>
-    <h2>❌ 私（安竹洋平）の判断： </h2>
+    <h2>❌ 私（安竹洋平）の判断： 反対</h2>
   </legend>
 
 [第30号の方に記載した判断理由](./giin-gian-30.md#sanpi)に加え、次の問題があるため反対です。
