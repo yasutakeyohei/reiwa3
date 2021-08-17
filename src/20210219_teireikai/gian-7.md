@@ -8,7 +8,7 @@
 
 （🚧作成中です）
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=196&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=2&minute_id=302&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=196&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=4&minute_id=332&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
