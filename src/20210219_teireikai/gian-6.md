@@ -1,26 +1,28 @@
 {{first:2021-04-17}}
 
-# 🚧議案第6号　令和3年度小平市後期高齢者医療特別会計予算
+# 議案第6号　令和3年度小平市後期高齢者医療特別会計予算
 
 ＊議案[第5号](./gian-5.md)、[第6号](gian-6.md)、[第7号](gian-7.md)、[第8号](gian-8.md)は同種のものなので一括議題
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 特別会計・下水道事業会計予算特別委員会付託
 
-（🚧作成中です）
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=196&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=2&minute_id=302&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=196&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=3&minute_id=116&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
 
-- 
+- 後期高齢者医療特別会計の予算
+- 例年と大きく変わるところはなし
 
 </fieldset>
 
 <fieldset class="sanpi">
   <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
 
-- 🚧作成中です
+次の問題はありますが、特に問題がないため賛成しました。
+
+- bad:広域連合納付金の適正さが確認できない仕組みになっている
 
 </fieldset>
 
@@ -70,7 +72,10 @@
 
 **[2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)**
 
-- 🚧作成中です。
+- [広域連合納付金が適正かを確認しているか](#広域連合納付金が適正かを確認しているか)
+- [3割負担と1割負担の対象者の人数は](#3割負担と1割負担の対象者の人数は)
+- [特別徴収と普通徴収の割合は](#特別徴収と普通徴収の割合は)
+- [軽減を受けている人数は](#軽減を受けている人数は)
 
 {{#include ../partials/toc-note.md}}
 
@@ -84,7 +89,94 @@
 
 特別会計・下水道事業会計予算特別委員会には、一人会派の会から、私（安竹洋平議員）と橋本久雄議員が委員として参加しました。
 
-（🚧作成中です）
+#### 広域連合納付金が適正かを確認しているか
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+市が払う広域連合納付金が適正かの確認はどう行っているか。
+
+</div></div>
+
+<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+
+市区町村の負担金が12月末ぐらいに案として東京都後期高齢者医療広域連合のほうから示される。それでほとんど積算をしている状態。
+
+積算根拠について、細かいところの数字について特に知らせがないので、個別に確認はしたが、特に細かい数字までは全市区町村に示してはいないというところで、広域連合の担当者が示したもので協力いただいているというところで、負担金というのが成り立っているという確認は取っている。
+
+</div></div>
+
+<div class="balloon bl-left bl-tips"><div>
+
+これ問題では
+
+</div></div>
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+詳細をもらえるようにしてもらいたいが。
+
+</div></div>
+
+<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+
+担当課長会、部長会のほうに意見等は報告していきたいと思っている。予算の案件に関しては、東京都後期高齢者医療広域連合の議会を通しているので、そのような場でも意見を伝えられるように、担当課長会、部長会のほうで話していきたい。
+
+</div></div>
+
+<div class="balloon bl-left bl-tips"><div>
+
+ちゃんと伝えることができたのか、確認が必要ですね
+
+</div></div>
+
+#### 3割負担と1割負担の対象者の人数は
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+3割負担と1割負担の対象者の人数は。
+
+</div></div>
+
+<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+
+令和元年度の決算ベースで、
+
+- 3割負担：2,907人
+- 1割負担：2万427人
+
+</div></div>
+
+#### 特別徴収と普通徴収の割合は
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+特別徴収と普通徴収の割合は。
+
+</div></div>
+
+<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+
+令和元年度のデータで、特別徴収が63.4%、普通徴収で36.6%。
+
+</div></div>
+
+#### 軽減を受けている人数は
+
+<div class="balloon bl-left">他会派の議員<br><div>
+
+軽減を受けている人数は。
+
+</div></div>
+
+<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+
+軽減者の合計は約1万3,000人で、
+- 7.75割軽減：約3,700人
+- 7割軽減：約5,300人
+- 5割軽減：約2,000人
+- 2割軽減：約2,000人
+
+</div></div>
 
 </div>
 
