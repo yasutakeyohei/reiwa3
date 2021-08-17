@@ -4,27 +4,25 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=217&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=217&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会（未）</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日（未）</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
-  <ul>
-    <li class="chk"></li>
-    <li class="chk"></li>
-    <li class="chk"></li>
-  </ul>
+
+- PFOS、PFOAが高濃度で検出され取水停止している井戸の状況が不明なことなどから以下を都に求めるもの
+- 有機フッ素化合物の拡散している原因究明と情報開示、撤去方法の確立、揚水によるPFOS、PFOAの拡散防止
+
 </fieldset>
 
 <fieldset class="sanpi">
   <legend>
-    <h2> 私（安竹洋平）の判断： </h2>
+    <h2>⭕️ 私（安竹洋平）の判断： 賛成</h2>
   </legend>
-  <ul>
-    <li></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-    <li class="ng"></li>
-  </ul>
+
+揚水による拡散防止をいつまで続けるかなど詳細は分かりませんでしたが、情報公開の推進につながることなので賛成です。
+
+なお、継続審査のため賛否表明の場はありませんでした。
+
 </fieldset>
 
 ## 提出者代表議員の説明
@@ -49,10 +47,9 @@
 
 **[本会議での主な質疑](#本会議での主な質疑)**
 
-PFOS、PFOAの日本名はあるか。有機フッ素化合物はこれ以外にも恐らくあるんですよね。その中の二つが検出されたという意味なので、日本名を入れたほうがいいような気もしますが、それが一つです。
-　それから、高い濃度が検出されたという、小平市も情報提供は、東京都の情報提供は我々議員も受けていますが、その後どうなったのか、今どういう状況になっているのかということが、そういうのも書いてもらうとよかったなと思うんですが、分かれば教えてください。
-　東京都は原因を明らかにしていないと。情報も開示していないという理解でいいんですか。明らかにし開示するということを書いてありますが。
-　それから、これは生活者ネットワークの皆さんが提案をして、ほかの会派が乗っているわけですが、生活者ネットワークの議員がいる自治体では、一斉にこの意見書は出されているという理解でいいんですか。既に採択をした意見書もあるようですが、そこの確認もさせていただきたいと思います。
+- hitori:[高濃度検出があってから後の状況は](#高濃度検出があってから後の状況は)
+- hitori:[取水停止している井戸を調査する目的は](#取水停止している井戸を調査する目的は)
+- hitori:[揚水はいつまで続けることを想定しているか](#揚水はいつまで続けることを想定しているか)
 
 {{#include ../partials/toc-note.md}}
 
@@ -61,8 +58,73 @@ PFOS、PFOAの日本名はあるか。有機フッ素化合物はこれ以外に
 
 ### 本会議での主な質疑
 
+#### 高濃度検出があってから後の状況は
 
+<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
 
+東京都から、高い濃度が検出されたという情報提供を議員も受けているが、その後どうなったか書いてもらうとよかったと思うが、分かれば。
+
+</div></div>
+
+<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+
+また、東京都は原因を明らかにしていない、情報も開示していないという理解でよいか。
+
+</div></div>
+
+<div class="balloon bl-right">山浦まゆみ<br><div>
+
+東京都水道局でも原因については明らかにされている。情報についても、適宜、どのぐらいの基準のものが検出されているかは、情報を開示している。
+
+</div></div>
+
+<div class="balloon bl-right">山浦まゆみ<br><div>
+
+ただ、今、取水井戸を止めている状況があるので、それについてはその後の状況が分からない。なので、こういったところも含め、どうしていくのか、揚水を行ったほうがよいのではというところの、原因究明も含めた情報開示をしてほしいというのがこの意見書の趣旨。
+
+</div></div>
+
+<div class="balloon bl-right">山浦まゆみ<br><div>
+
+取水停止井戸の数値については公表されていないので、この部分については情報はない。私たちには分からない。
+
+</div></div>
+
+#### 取水停止している井戸を調査する目的は
+
+<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+
+取水停止で、使わなくしている井戸を調査する、これを求める目的は。
+
+</div></div>
+
+<div class="balloon bl-right">山浦まゆみ<br><div>
+
+止めて蓋をして終わりになると、この後の汚染の流れが分からなくなってしまう。一度無関心になると、汚染については分からなくなる。関心がなくなり、その後調べられず使われなくなってしまう。地下水の汚染の実態についても分からなくなってしまう。飲用として使っていきたいという思いで、ずっと調査を続けていくこと、関心を持ち続けていくということが大切だと考えている。
+
+</div></div>
+
+#### 揚水はいつまで続けることを想定しているか
+
+<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+
+暫定目標値未満であっても、揚水して拡散防止を図るということか。それとも何か基準を設け、「1リットル当たりどれぐらいまで下がってくれば揚水しなくてよい」などとするものか。
+
+</div></div>
+
+<div class="balloon bl-right">山浦まゆみ<br><div>
+
+今の時点では50ナノグラム／リットル以上の値が出た場合には、取水井戸を止めるとか、そういった措置を取っている。
+
+</div></div>
+
+<div class="balloon bl-left bl-tips"><div>
+
+答弁がかみあいませんでした
+
+津本議長から大綱ではないというような発言があり遮られたので、結局よく分からないままでしたが、実施する際は基準を設けることになるでしょうから、よいと思います。
+
+</div></div>
 
 
 </div>
