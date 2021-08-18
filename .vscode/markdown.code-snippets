@@ -180,4 +180,25 @@
 			"保険年金課長（澁谷）"
 		]
 	},
+	"星野": {
+		"scope": "markdown",
+		"prefix": "hoshino",
+		"body": [
+			"高齢者支援課長補佐（星野）"
+		]
+	},
+	"小野": {
+		"scope": "markdown",
+		"prefix": "ono",
+		"body": [
+			"下水道課長補佐（小野）"
+		]
+	},
+	"萩原": {
+		"scope": "markdown",
+		"prefix": "hagiwara",
+		"body": [
+			"下水道課長（萩原）"
+		]
+	},
 }
