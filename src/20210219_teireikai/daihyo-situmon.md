@@ -1,6 +1,6 @@
 {{first:2021-04-12}}
 
-# 🚧代表質問
+# 代表質問
 
 代表質問は次のとおり行われました。当会派からは中江美和議員が代表して質問を行いました。
 
@@ -10,10 +10,10 @@
 <tr><th>会派</th><th>件名</th></tr>
 </thead>
 <tbody>
-<tr><th>一人会派の会<br>（中江美和）<br>⭐️</th><td>
+<tr><th>一人会派の会⭐️<br>（中江美和）<br></th><td>
 
-1. 小平市第三次長期総合計画の総括と<br>小平市第四次長期総合計画の基本目標等について問う
-1. 教育長の任期折り返しに当たり教育行政の<br>これまでの評価と今後の取組方針について問う
+1. [小平市第三次長期総合計画の総括と<br>小平市第四次長期総合計画の基本目標等について問う](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=3&minute_id=38&is_search=true)
+1. [教育長の任期折り返しに当たり教育行政の<br>これまでの評価と今後の取組方針について問う](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=3&minute_id=38&is_search=true)
 
 <tr><th>政和会</th><td>
 
