@@ -1,6 +1,4 @@
-# 🚧一般質問
-（🚧作成中です）
-
+# 一般質問
 
 一般質問は次のとおり行われました。
 
@@ -12,8 +10,10 @@
 <tbody>
 <tr><td>安竹洋平⭐️</td><td>一人会派の会</td><td>
 
-1. カーボンニュートラルの虚実を、まず科学的に捉えよ
-1. 選挙を良くするため、再度問う
+1. [カーボンニュートラルの虚実を、まず科学的に捉えよ](https://yasutakeyohei.com/books/yasutake/ippan/r3/3-gatu/1-carbon-neutral-giman.html)
+1. [選挙を良くするため、再度問う](https://yasutakeyohei.com/books/yasutake/ippan/r3/3-gatu/2-senkyo-yokusuru-again.html)
+
+＊上記リンクをクリックすると、それぞれのまとめページに移動します。
 
 </td></tr>
 <tr><td>伊藤央</td><td>一人会派の会</td><td>
