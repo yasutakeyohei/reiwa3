@@ -598,13 +598,13 @@ const showPDF = (url) => {
 ## 本会議での主なやり取り
 ### 討論
 
-- [公明党の反対討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=166&is_search=true)
-- [政和会の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=167&is_search=true)
-- [フォーラム小平の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=168&is_search=true)
-- [一人会派の会の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=169&is_search=true)
-- [共産党小平市議団の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=170&is_search=true)
-- [生活者ネットワークの賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=171&is_search=true)
-- [まちづくり市民こだいらの賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=172&is_search=true)
+- [❌ 公明党の反対討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=166&is_search=true)
+- [⭕️ 政和会の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=167&is_search=true)
+- [⭕️ フォーラム小平の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=168&is_search=true)
+- [⭕️ 一人会派の会の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=169&is_search=true)
+- [⭕️ 共産党小平市議団の賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=170&is_search=true)
+- [⭕️ 生活者ネットワークの賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=171&is_search=true)
+- [⭕️ まちづくり市民こだいらの賛成討論](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=172&is_search=true)
 
 ### 採決
 
