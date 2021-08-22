@@ -13,18 +13,15 @@
 <th>報告された分</th>
 </tr>
 </thead>
-<tr>
-<td>3月定例会</td>
-<td>
-令和2年10月,11月,12月分
-</td>
-</tr>
+<tr><td>3月定例会</td><td>令和2年10月,11月,12月分</td></tr>
+<tr><td>4月臨時会</td><td>令和3年1月分</td></tr>
+<tr><td>6月定例会</td><td>令和3年2月分,3月分</td></tr>
 </table>
 
 ## 1. 予算現額推移
 参考として、予算額の推移です。年度中の額は補正予算によって変更されます。
 
-令和2年10月から12月分については、特記することはありません。
+令和2年10月から令和3年3月分については、特記することはありません。
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
@@ -35,8 +32,8 @@
 
 <script type="text/javascript">
   //global
-  var startDate = new Date(2019, 6, 0);
-  var endDate =   new Date(2020, 12, 0);
+  var startDate = new Date(2019, 9, 0);
+  var endDate =   new Date(2021, 3, 0);
   var tickDates = [
     {v: new Date(2019, 4, 1), f: '平成31年4月'},
     {v: new Date(2020, 4, 0), f: '令和2年4月'},
@@ -137,6 +134,9 @@
       [new Date(2020, 10, 0), null, 942.6, 171, 44.91, 144.1],
       [new Date(2020, 11, 0), null, 944.4, 171, 44.91, 144.1],
       [new Date(2020, 12, 0), null, 943.7, 171, 44.91, 144.1],
+      [new Date(2021, 1, 0), null, 943.7, 171, 44.91, 144.1],
+      [new Date(2021, 2, 0), null, 956.8, 171, 44.91, 144.1],
+      [new Date(2021, 3, 0), null, 949.4, 171, 44.56, 144.1],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -147,8 +147,6 @@
 ## 2. 収入・支出の推移
 
 ### 2.1. 一般会計
-
-こちらも、現状で特記することはありません。
 
 <div id="ippan-syunyu-syusyutu-dashboard">
   <div id="ippan-syunyu-syusyutu-chart" class="reigetu-chart"></div>
@@ -211,6 +209,9 @@
       [new Date(2020, 10, 0), null, 20.28, 58.81],
       [new Date(2020, 11, 0), null, 33.77, 42.89],
       [new Date(2020, 12, 0), null, 59.63, 71.67],
+      [new Date(2021, 1, 0), null, 50.81, 47.78],
+      [new Date(2021, 2, 0), null, 32.46, 53.91],
+      [new Date(2021, 3, 0), null, 176.8, 94.87],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -219,8 +220,6 @@
 </script>
 
 ### 2.2. 国民健康保険特別会計
-
-昨年に続いて12月に収入が増えている理由は、のちほど確認します。
 
 <div id="kokuho-syunyu-syusyutu-dashboard">
   <div id="kokuho-syunyu-syusyutu-chart" class="reigetu-chart"></div>
@@ -283,6 +282,9 @@
       [new Date(2020, 10, 0), null, 12.64, 15.78],
       [new Date(2020, 11, 0), null, 13.24, 15.97],
       [new Date(2020, 12, 0), null, 23.10, 17.17],
+      [new Date(2021, 1, 0), null, 14.19, 16.47],
+      [new Date(2021, 2, 0), null, 12.61, 16.51],
+      [new Date(2021, 3, 0), null, 13.49, 17.31],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -355,6 +357,9 @@
       [new Date(2020, 10, 0), null, 3.463, 4.316],
       [new Date(2020, 11, 0), null, 4.419, 4.241],
       [new Date(2020, 12, 0), null, 3.810, 4.336],
+      [new Date(2021, 1, 0), null, 5.038, 4.65],
+      [new Date(2021, 2, 0), null, 3.797, 4.306],
+      [new Date(2021, 3, 0), null, 7.812, 7.899],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -427,6 +432,9 @@
       [new Date(2020, 10, 0), null, 15.24, 12.1],
       [new Date(2020, 11, 0), null, 11.27, 11.22],
       [new Date(2020, 12, 0), null, 5.145, 11.75],
+      [new Date(2021, 1, 0), null, 20.67, 11.98],
+      [new Date(2021, 2, 0), null, 7.066, 11.52],
+      [new Date(2021, 3, 0), null, 16.23, 13.39],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -435,8 +443,6 @@
 </script>
 
 ### 2.5. 下水道特別会計
-
-現状で特記することはありません。
 
 <div id="gesuido-syunyu-syusyutu-dashboard">
   <div id="gesuido-syunyu-syusyutu-chart" class="reigetu-chart"></div>
@@ -498,7 +504,10 @@
       [new Date(2020, 9, 0), null, 1.721, 3.077],      
       [new Date(2020, 10, 0), null, 2.048, 3.425],
       [new Date(2020, 11, 0), null, 1.644, 1.736],      
-      [new Date(2020, 12, 0), null, 1.897, 0.5877],      
+      [new Date(2020, 12, 0), null, 1.897, 0.5877],
+      [new Date(2021, 1, 0), null, 1.644, 3.068],
+      [new Date(2021, 2, 0), null, 2.063, 2.1],
+      [new Date(2021, 3, 0), null, 9.622, 8.064],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -573,6 +582,9 @@
       [new Date(2020, 10, 0), null, 25.07],
       [new Date(2020, 11, 0), null, 15.95],
       [new Date(2020, 12, 0), null, 3.912],
+      [new Date(2021, 1, 0), null, 6.95],
+      [new Date(2021, 2, 0), null, -14.5],
+      [new Date(2021, 3, 0), null, 67.39],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -647,6 +659,9 @@
       [new Date(2020, 10, 0), null, 7.528, 0.8475, 7.94, 10.47],
       [new Date(2020, 11, 0), null, 4.795, 1.025, 7.99, 10.37],
       [new Date(2020, 12, 0), null, 10.73, 0.4986, 1.38, 11.68],
+      [new Date(2021, 1, 0), null, 8.438, 0.8864, 10.07, 10.26],
+      [new Date(2021, 2, 0), null, 4.536, 0.3769, 5.611, 10.22],
+      [new Date(2021, 3, 0), null, 0.7234, 0.2895, 8.449, 11.78],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -658,7 +673,9 @@
 
 ## 4. 基金残高
 
-基金残高は変化ありません。
+基金残高はいろいろと変化しました。
+
+オリ・パラ夢未来基金は、端数をそろえるためでしょうか、2,000円積立られています。
 
 このグラフは、マウスホイールを動かすことで拡大・縮小できます。
 
@@ -740,6 +757,9 @@
       [new Date(2020, 10, 0), null, 47.44, 29.01, 20.59, 16.07, 11.37, 6.502, 3.469, 4.016, 1.043, 0.8845, 0.6044, 0.6996, 0.5281, 0.3724, 0.3279, 0.2235, 0.04801, 0],
       [new Date(2020, 11, 0), null, 47.44, 29.01, 20.59, 16.07, 11.37, 6.502, 3.469, 4.016, 1.043, 0.8845, 0.6044, 0.6996, 0.5281, 0.3724, 0.3279, 0.2235, 0.04801, 0],
       [new Date(2020, 12, 0), null, 47.44, 29.01, 20.59, 16.07, 11.37, 6.502, 3.469, 4.016, 1.043, 0.8845, 0.6044, 0.6996, 0.5281, 0.3724, 0.3279, 0.2235, 0.04801, 0],
+      [new Date(2021, 1, 0), null, 47.44, 29.01, 20.59, 16.07, 11.37, 6.502, 3.469, 4.016, 1.043, 0.8845, 0.6044, 0.6996, 0.5281, 0.3724, 0.3279, 0.2235, 0.04801, 0],
+      [new Date(2021, 2, 0), null, 47.44, 29.01, 20.59, 16.07, 11.37, 6.502, 3.469, 4.016, 1.043, 0.8845, 0.6044, 0.6996, 0.5281, 0.3724, 0.3279, 0.2235, 0.04801, 0],
+      [new Date(2021, 3, 0), null, 55.4, 28.38, 18.09, 17.07, 9.947, 5.463, 2.316, 4.016, 0.8644, 1.37, 0.4264, 0.6996, 0.5281, 0.375, 0.2984, 0.1408, 0.04802, 0],
     ]);
     customFormatter.format(data, 0);
     dashboard.bind(control, chart);
@@ -748,3 +768,81 @@
 </script>
 
 
+## 5. 一般会計への資金融通
+
+基金から一般会計への資金融通状況です。
+
+このグラフは、マウスホイールを動かすことで拡大・縮小できます。
+
+<div id="shikin-dashboard">
+  <div id="shikin-chart" class="reigetu-chart"></div>
+  <div id="shikin-control" class="reigetu-control"></div>
+</div>
+
+<script type="text/javascript">
+  google.charts.setOnLoadCallback(drawChart9);
+  function drawChart9() {
+    var dashboard = new google.visualization.Dashboard(document.getElementById('shikin-dashboard'));
+    var control = new google.visualization.ControlWrapper({
+      controlType: 'ChartRangeFilter',
+      containerId: 'shikin-control',
+      options: {
+        filterColumnIndex: 0,
+        ui: {
+          chartType: 'ColumnChart',
+          chartOptions: {
+            chartArea: { width: '95%' },
+            hAxis: { ticks: tickDates },
+            seriesType: 'bars',
+            isStacked: true,
+          },
+          chartView: {
+            columns: [0, 2, 3, 4],
+          },
+        }
+      },
+      state: { range: { start: startDate, end: endDate }}
+    });
+    var chart = new google.visualization.ChartWrapper({
+      chartType: 'ColumnChart',
+      containerId: 'shikin-chart',
+      options: Object.assign({}, chartOptions, { seriesType: "bars", isStacked: true, explorer: { axis: 'vertical', keepInBounds: true, maxZoomIn: 20.0, maxZoomOut: 1} }),
+      view: { columns: [chartViewColumn0, 1, 2, 3, 4] }
+    });
+    const data = new google.visualization.DataTable();
+    data.addColumn('date', '年月');
+    data.addColumn({ type: 'string', role: 'annotation' });
+    data.addColumn('number', '財政調整基金');
+    data.addColumn('number', '都市計画事業基金');
+    data.addColumn('number', '公共施設基金');
+    data.addRows([
+      [new Date(2019, 4, 0), "平成31年4月", 30, 5, 0],
+      [new Date(2019, 5, 0), null, 30, 15, 0],
+      [new Date(2019, 6, 0), null, 0, 0, 0],
+      [new Date(2019, 7, 0), null, 0, 0, 0],
+      [new Date(2019, 8, 0), null, 0, 0, 0],
+      [new Date(2019, 9, 0), null, 0, 0, 0],
+      [new Date(2019, 10, 0), null, 15, 0, 0],
+      [new Date(2019, 11, 0), null, 15, 0, 0],
+      [new Date(2019, 12, 0), null, 28, 0, 20],
+      [new Date(2020, 1, 0), null, 28, 0, 20],
+      [new Date(2020, 2, 0), null, 28, 0, 30],
+      [new Date(2020, 3, 0), null, 0, 0, 0],
+      [new Date(2020, 4, 0), "令和2年4月", 29, 0, 20],
+      [new Date(2020, 5, 0), null, 29, 0, 20],
+      [new Date(2020, 6, 0), null, 10, 0, 0],
+      [new Date(2020, 7, 0), null, 10, 0, 0],
+      [new Date(2020, 8, 0), null, 10, 0, 0],
+      [new Date(2020, 9, 0), null, 10, 0, 0],
+      [new Date(2020, 10, 0), null, 0, 0, 0],
+      [new Date(2020, 11, 0), null, 0, 0, 0],
+      [new Date(2020, 12, 0), null, 29, 0, 0],
+      [new Date(2021, 1, 0), null, 29, 0, 0],
+      [new Date(2021, 2, 0), null, 29, 17, 5],
+      [new Date(2021, 3, 0), null, 0, 0, 0],
+    ]);
+    customFormatter.format(data, 0);
+    dashboard.bind(control, chart);
+    dashboard.draw(data);
+  }
+</script>
