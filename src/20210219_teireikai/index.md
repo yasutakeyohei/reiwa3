@@ -5,22 +5,14 @@
 # 令和3年3月定例会
 
 <fieldset class="summary">
-  <legend>
-    <h2 class="summary">主な内容</h2>
-  </legend>
-  <ul>
-    <li class="play">議案29件（補正5、予算5、条例13、訴え1、損害賠償1、意見書4）と、請願1件の審議</li>
-  </ul>
-  <!--<p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 補正予算は、一般会計と、国民健康保険事業特別会計</p>
-  <p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 学校給食センターの更新にかかる契約議案は、委員会で否決ののち、本会議で可決</p>
-  <p class="summary"><i class="fa fa-play" aria-hidden="true"></i> 四次長総基本構想は委員会で賛否同数で委員長採決の可決ののち、本会議で可決</p>-->
+  <legend><h2>主な内容</h2></legend>
+
+- 議案29件（補正5、予算5、条例13、訴え1、損害賠償1、意見書4）と、請願1件の審議
+
 </fieldset>
 
 <fieldset class="nittei">
-  <legend>
-    <h2> 主な議事 </h2>
-  </legend>
-  <div>
+  <legend><h2>主な議事</h2></legend>
 
 1. [諸報告（初日・最終日）](./syohokoku.md)
 1. &nbsp;
@@ -57,7 +49,6 @@
 1. &nbsp;
 1. [請願第5号 旧佐川邸の土地を売らないことも含め、市民の意見を聞きながら公園整備を行うことについて](./seigan-5.md)
 
-</div>
 </fieldset>
 
 ## 議決結果
