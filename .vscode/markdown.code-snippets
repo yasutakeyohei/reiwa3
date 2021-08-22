@@ -215,4 +215,18 @@
 			"市長（小林洋子）"
 		]
 	},
+	"余語": {
+		"scope": "markdown",
+		"prefix": "yogo",
+		"body": [
+			"地域振興部長（余語）"
+		]
+	},
+	"有川": {
+		"scope": "markdown",
+		"prefix": "arikawa",
+		"body": [
+			"企画政策部長（有川）"
+		]
+	},
 }
