@@ -184,7 +184,6 @@
 </div></div>
 
 
-
 #### なぜ女性を登用しなかったか
 
 <div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
