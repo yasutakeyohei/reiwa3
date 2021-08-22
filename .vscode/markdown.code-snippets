@@ -201,4 +201,18 @@
 			"下水道課長（萩原）"
 		]
 	},
+	"柳瀨": {
+		"scope": "markdown",
+		"prefix": "yanase",
+		"body": [
+			"市民部長（柳瀨）"
+		]
+	},
+	"市長": {
+		"scope": "markdown",
+		"prefix": "sityo",
+		"body": [
+			"市長（小林洋子）"
+		]
+	},
 }
