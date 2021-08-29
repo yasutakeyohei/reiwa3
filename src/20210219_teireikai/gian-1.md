@@ -397,6 +397,8 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 キャッシュレス事業の穴埋めの分をどこから出したのか。次のようになります。
 
+＊金額の単位は千円です。
+
 <div class="table-wrapper">
 <table class="slim bordered">
 <caption>一般財源の流用</caption>
