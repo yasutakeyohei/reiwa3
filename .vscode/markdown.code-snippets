@@ -229,4 +229,18 @@
 			"企画政策部長（有川）"
 		]
 	},
+	"松尾": {
+		"scope": "markdown",
+		"prefix": "matuo",
+		"body": [
+			"市民協働・男女参画推進課長（松尾）"
+		]
+	},
+	"照井": {
+		"scope": "markdown",
+		"prefix": "terui",
+		"body": [
+			"公共交通課長（照井）"
+		]
+	},
 }
