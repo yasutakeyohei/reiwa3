@@ -6,7 +6,7 @@
 
 （🚧作成中です）
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=171&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1199&schedule_id=2&minute_id=57&is_search=true">委員会①</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?tenant_id=165&council_id=1199&schedule_id=6">委員会②</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?tenant_id=165&power_user=false&view_years=&council_id=1199&schedule_id=9&is_search=false">委員会③</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=114&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=171&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1199&schedule_id=2&minute_id=57&is_search=true">委員会①</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?tenant_id=165&council_id=1199&schedule_id=6">委員会②</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?tenant_id=165&power_user=false&view_years=&council_id=1199&schedule_id=9&is_search=false">委員会③</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=114&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>

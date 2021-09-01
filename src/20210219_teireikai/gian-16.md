@@ -6,7 +6,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=144&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1203&schedule_id=2&minute_id=478&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=73&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=144&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1203&schedule_id=2&minute_id=478&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=73&is_search=true">最終日</a>）</p>
 
 ---
 

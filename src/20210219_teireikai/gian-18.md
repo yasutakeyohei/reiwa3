@@ -4,13 +4,14 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 生活文教委員会付託
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=159&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1198&schedule_id=2&minute_id=173&is_search=true">委員会</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=159&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1198&schedule_id=2&minute_id=173&is_search=true">委員会</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
 
 - 花小金井武道館を閉鎖することに伴い、条例の関係部分を削除する改正
 - 武道館をなくすことに反対の委員が多く、継続審査に
+- 5月臨時会で撤回し、期日を改めて[議案第29号](../20210514_rinjikai/gian-29.md)として再提出
 
 </fieldset>
 
@@ -720,6 +721,8 @@ I<sub>s</sub> = E<sub>0</sub> × S<sub>D</sub> × T
 ## 本会議での主なやり取り
 
 付託委員会で継続審査となったため、本会議での討論・採決はありませんでした。
+
+その後、理事者側は5月臨時会でこの議案を撤回し、期日を改めて[議案第29号](../20210514_rinjikai/gian-29.md)として再提出しました。
 
 ## 賛否一覧
 [賛否一覧はこちらをご覧ください。](../kekka-ichiran.md#賛否)

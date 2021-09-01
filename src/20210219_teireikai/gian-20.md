@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 最終日上程・総務委員会付託
 
-<p class="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=93&is_search=true">最終日①</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=2&minute_id=2&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=106&is_search=true">最終日②</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=93&is_search=true">最終日①</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=2&minute_id=2&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=106&is_search=true">最終日②</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
