@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p class="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -22,6 +22,21 @@
     <li class="ng">🚧作成中</li>
   </ul>
 </fieldset>
+
+<div class="toc">
+
+目次
+
+- [提案理由の説明（市長）](#提案理由の説明市長)・[資料](#資料)
+- [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
+- [付託委員会での取り扱い](#付託委員会での取り扱い)
+  - [採決](#採決)
+- [本会議での主なやり取り](#本会議での主なやり取り)
+  - [討論](#討論)
+  - [採決](#採決-1)
+- [賛否一覧](#賛否一覧)
+
+</div>
 
 ## 提案理由の説明（市長）
 > 本案は、本年度の当初予算を骨格予算として編成いたしましたことから、市長選挙を終えて、当初予算に計上を留保した事業などを予算化するものです。
@@ -66,11 +81,9 @@
 >
 > このほか、本庁舎のエレベーターについて、安全性の向上と、新型コロナウイルス感染症対策として換気設備を維持するための改修を行うとともに、防災拠点となる本庁舎の自家発電設備を強化いたします。
 
-## 解説
+## 資料
 
-補正予算の内容についてはこちらをご参照ください。
-
-[令和3年度一般会計補正予算（第3号）](https://www.city.kodaira.tokyo.jp/kurashi/088/088685.html)＊まだアップロードされていません
+[令和3年度一般会計補正予算（第4号）](https://www.city.kodaira.tokyo.jp/kurashi/088/088685.html)
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -81,7 +94,8 @@
 ### 2. 付託委員会での主な質疑
 総務委員会には、一人会派の会から橋本久雄議員が委員として参加しました。
 
-#### 総務委員会での賛否
+## 付託委員会での取り扱い
+### 採決
 🚧作成中
 
 <!--全委員が賛成⭕️-->
@@ -91,7 +105,7 @@
 ### 討論
 🚧作成中
 
-### 賛否
+### 採決
 🚧作成中
 <!--全議員が賛成⭕️-->
 
