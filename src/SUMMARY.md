@@ -65,9 +65,7 @@
   - [🚧議案第29号　小平市体育施設条例の一部を改正する条例](./20210514_rinjikai/gian-29.md)
 
 - [4月23日：4月臨時会](./20210423_rinjikai/index.md)
-  - [諸報告](./20210423_rinjikai/syohoukoku.md)
-<!--  - [🚧市長の所信表明](./20210423_rinjikai/syosin-hyomei.md) -->
-<!--  - [🚧緊急質問](./20210423_rinjikai/kinkyu-situmon.md) -->
+  - [諸報告](./20210423_rinjikai/syohoukoku.md)<!--  - [🚧市長の所信表明](./20210423_rinjikai/syosin-hyomei.md)  - [🚧緊急質問](./20210423_rinjikai/kinkyu-situmon.md) -->
   - [議案第24号　専決処分（小平市税条例の一部を改正する条例）の承認を求めることについて](./20210423_rinjikai/gian-24.md)
   - [議案第25号　令和3年度小平市一般会計補正予算（第2号）](./20210423_rinjikai/gian-25.md)
   - [議案第26号　小平市副市長の選任につき同意を求めることについて](./20210423_rinjikai/gian-26.md)
