@@ -2,7 +2,7 @@
 
 # 🚧議案第46号　令和3年度小平市下水道事業会計補正予算（第1号）
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+<i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
 <p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
@@ -36,9 +36,13 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 今回の補正予算は、小川駅西口地区市街地再開発事業において、小川駅西口地区市街地再開発組合が施行する公共施設の整備として、下水道工事等にかかる市の負担金につきまして、債務負担行為を設定するものです。
+>
+> 期間は、令和4年度から令和11年度までとなり、限度額は、4億1千万円です。
+>
+> なお、下水道事業会計における再開発組合への支払いは、令和4年度以降となることから、本年度中の支払いはありません。
 
-## 解説
+## 資料
 
 <div class="situgi">
 
@@ -52,6 +56,7 @@
 
 [1. 本会議での主な質疑](#1-本会議での主な質疑)
 
+- なし
 
 [2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)
 
@@ -61,7 +66,7 @@
 </div>
 
 ### 1. 本会議での主な質疑
-🚧作成中
+なし
 
 ### 2. 付託委員会での主な質疑
 🚧作成中

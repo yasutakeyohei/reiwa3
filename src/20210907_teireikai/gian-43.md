@@ -2,7 +2,7 @@
 
 # 🚧議案第43号　令和3年度小平市国民健康保険事業特別会計補正予算（第1号）
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+<i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
 <p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
@@ -36,7 +36,9 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 今回の補正予算は、前年度の事業費の確定に伴う繰越金の補正、及び前年度の都補助金雲の精算に伴う歳出の補正を行うものです。
+>
+> 歳入では、前年度からの繰越金を増額し、歳出では、前年度に超過交付となった保険給付費等交付金の返還金を増額するとともに、今後の国民健康保険事業の円滑な運営に資するために、国民健康保険事業運営基金に、積み立てを行うものです。
 
 ## 解説
 
@@ -52,6 +54,7 @@
 
 [1. 本会議での主な質疑](#1-本会議での主な質疑)
 
+- なし
 
 [2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)
 
@@ -61,7 +64,7 @@
 </div>
 
 ### 1. 本会議での主な質疑
-🚧作成中
+なし
 
 ### 2. 付託委員会での主な質疑
 🚧作成中

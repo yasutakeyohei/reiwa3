@@ -2,7 +2,9 @@
 
 # 🚧議案第51号　市道路線の認定について
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+＊議案[第51号](./gian-51.md)、[第52号](./gian-52.md)、[第53号](./gian-53.md)、[第54号](./gian-54.md)は同種のものなので一括議題
+
+<i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
 <p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
@@ -36,7 +38,7 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> これらの議案は、いずれも都市計画法に基づく開発行為により整備され、市が寄附を受けた道路を、市道として認定するものです。
 
 ## 解説
 
@@ -61,7 +63,7 @@
 </div>
 
 ### 1. 本会議での主な質疑
-🚧作成中
+なし
 
 ### 2. 付託委員会での主な質疑
 🚧作成中

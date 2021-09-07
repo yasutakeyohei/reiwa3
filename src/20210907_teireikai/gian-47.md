@@ -2,7 +2,9 @@
 
 # 🚧議案第47号　小平市印鑑条例の一部を改正する条例
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+＊議案[第47号](./gian-47.md)、[第50号](./gian-50.md)は同種のものなので一括議題
+
+<i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
 <p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
@@ -36,7 +38,11 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 本案は、来年2月から、個人番号カードを利用して、コンビニエンスストア等に設置されている多機能端末機により印鑑登録証明書の交付を開始するとともに、同年9月末で証明書自動交付機での印鑑登録証明書の交付を終了することに伴い、改正するものです。
+>
+> 改正の主な内容ですが、第1条では、個人番号カードを有する者は、多機能端末機を使用して印鑑登録証明書の交付を申請することができる規定を定め、第2条では、証明書自動交付機の利用にかかる部分を削るものです。
+>
+> 施行期日につきましては、第1条は、来年2月1日、第2条は、同年10月1日を予定いたしております。
 
 ## 解説
 

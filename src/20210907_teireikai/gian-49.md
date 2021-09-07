@@ -2,7 +2,7 @@
 
 # 🚧議案第49号　小平市立学校冷暖房設備整備基金条例
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+<i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
 <p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
@@ -36,7 +36,11 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 本案は、早期かつ円滑な小平市立学校の体育館への冷暖房設備の導入に向けた新たな冷暖房設備の設置、及び維持管理、並びに小平市立学校の既存の冷暖房設備の維持管理に要する財源を確保するために、小平市立学校冷暖房設備整備基金を設置するものです。
+>
+> 基金として積み立てる額は、毎年度、一般会計歳入歳出予算で定めるものとし、本年度においては、一般会計補正予算第8号に7億2千500万円を計上いたしております。
+>
+> 施行期日につきましては、公布の日を予定いたしております。
 
 ## 解説
 
