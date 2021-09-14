@@ -2,9 +2,9 @@
 
 # 議案第33号　小平市税条例の一部を改正する条例
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+<i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=224&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -36,9 +36,25 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 本案は、本年度の地方税制の改正等に伴い、小平市税条例の改正を行うものでございます。
+>
+> 改正の主な内容でございますが、初めに個人市民税関係の改正でございます。
+>
+> 第１点目は、新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律の改正により、所得税における住宅借入金等特別税額控除、いわゆる住宅ローン控除につきまして、新たに加えられた一定の要件を満たす場合にも、控除期間を１３年間とする等の特例措置が講じられたことに伴い、小平市税条例の関係規定の整備を行うものでございます。
+>
+> 第２点目は、所得税法の改正により、所得税における特定公益増進法人等に対する寄附金の寄附金控除及び所得税額の特別控除につきまして、その対象となる寄附金から出資に関する業務に充てることが明らかな寄附金を除外する措置が講じられたことに伴い、小平市税条例の関係規定の整備を行うものでございます。
+>
+> 第３点目は、地方税法の改正により、特定一般用医薬品等購入費を支払った場合の医療費控除の特例、いわゆるセルフメディケーション税制につきまして、その適用期限を５年延長するものでございます。
+>
+> 次に、軽自動車税関係の改正でございます。
+>
+> 地方税法の改正により、種別割におけるグリーン化特例につきまして、営業用乗用車にかかる現行のグリーン化特例の税率区分を見直した上で、その適用期限を２年延長するとともに、軽貨物自動車のうち電気軽自動車等にかかる税率を７５％軽減するグリーン化特例を創設するものでございます。
+>
+> 施行期日につきましては、特に定めるもののほか、公布の日を予定いたしております。
 
-## 解説
+## 資料
+
+- [資料1](https://ssp.kaigiroku.net/dnp/search/minutes/download?tenant_id=165&council_id=1228&schedule_id=58&minute_id=1)
 
 <div class="situgi">
 
@@ -52,6 +68,7 @@
 
 [1. 本会議での主な質疑](#1-本会議での主な質疑)
 
+なし
 
 [2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)
 
@@ -61,7 +78,7 @@
 </div>
 
 ### 1. 本会議での主な質疑
-🚧作成中
+なし
 
 ### 2. 付託委員会での主な質疑
 🚧作成中
