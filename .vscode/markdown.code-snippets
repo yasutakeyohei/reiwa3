@@ -264,4 +264,18 @@
 			"市民課長（山本）"
 		]
 	},
+	"原": {
+		"scope": "markdown",
+		"prefix": "hara",
+		"body": [
+			"総務課長（原）"
+		]
+	},
+	"市川": {
+		"scope": "markdown",
+		"prefix": "ichikawa",
+		"body": [
+			"教育総務課長（市川）"
+		]
+	},
 }
