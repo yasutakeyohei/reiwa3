@@ -242,10 +242,6 @@ const showPDF = (url) => {
 会のサイトをつくっており、情報はそこにどんどん集約していく予定になっている。16ページに[sagawa-park.yasu.tk](https://sagawa-park.yasu.tk/)という暫定的なアドレス（今は[https://sagawa-aiki-park.com](https://sagawa-aiki-park.com)に変更）で、サイトをつくっているので、ご興味をお持ちの方はご覧ください。
 
 
-</div>
-
-<div class="situgi">
-
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
 
