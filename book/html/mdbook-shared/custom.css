@@ -669,10 +669,9 @@ blockquote .balloon.bl-left>div:after {
 }
 
 .balloon span.yasutake {
-  /*font-size: var(--font-size);*/
-  font-size: calc(var(--font-size)*0.77);
+  font-size: var(--font-size);
   font-weight: bold;
-  color: var(--fg);
+  color: red;
 }
 
 hr.balloon-divider {
