@@ -52,7 +52,7 @@
 >
 > 施行期日につきましては、本年5月31日を予定いたしております。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -82,13 +82,13 @@
 
 #### 事務的に条例を出し直すだけでよいのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 利用者の中には、使えるだけ使って、建て替えてほしいといった意見がある。ただ事務的に条例を出し直すということでよいのか。市長はどう考えるか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 市としては、市民の皆様に安全に施設を使ってもらいたい。耐震補強を平成28年、29年にかけて行ったが、延命化はしていない。新しい施設でスポーツを楽しんでいただきたい。
 
@@ -96,25 +96,25 @@
 
 #### 耐震補強でいつまで使えるようになったか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 耐震補強でいつまで使えるようになったのか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 目標耐用年数40年は過ぎている。耐震化工事で数値が0.61になった。0.6を下回る場合は危険と言われているので、この数値はギリギリ。その後3年余り経つ。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 アスベスト等を含んでいることも判明しているので、市民が安全に使うというところでこの状態は望ましくない。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 請願をいただき、積極的に対応したつもりだが、不十分ということであれば、今後の課題として捉えている。市としては請願によって今まで以上に市民の方とそういう関係を築けたと考えている。
 
@@ -122,19 +122,19 @@
 
 #### 前回の提案から新たに検討したり、状況は変わったか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 前回の議案を提案してから、撤回して今回新しく出し直すまでに、新しく検討したり、考え直したり、状況が変わったことはあるか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 3月議会で継続審査になってから、もし使えるならどういう方法があるか、建物を診断する部署等も検討を重ねた。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 ただ、令和2年度について、アスベスト等もあり、全体的に建物が傷んでいるため、継続は難しいという結論になっている。改修する場合どうなるかも含めて検討した。
 
@@ -142,13 +142,13 @@
 
 #### 建て替えは検討したか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 建て替えは検討したか。
 
 </div></div>
 
-<div class="balloon bl-right">行政経営担当部長（足立）<br><div>
+<div class="bln bright" data-speaker="行政経営担当部長（足立）">
 
 施設全体が都市計画公園に計画決定されていることから、建て替えについては検討していない。
 
@@ -156,19 +156,19 @@
 
 #### 移動手段の確保は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 弓道場の代替として中央体育館ということだが、移動手段の確保は行ったか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 武道館も比較的駅から距離があった。中央体育館は、鷹の台駅が最寄り駅で駅から近いこともあり、ほかの交通を考えたところはない。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 花小金井南中学校体育館も、路線バス等が多数走っており、花小金井駅からの距離は武道館までの距離とそんなに変わらないため、新たな交通を考えたところはない。
 
@@ -176,13 +176,13 @@
 
 #### 広域対応施設として、移動手段の整備は考えるのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 公共施設マネジメントにおいて、広域対応施設という場合、移動手段のことも考える必要があると思うが、どうか。
 
 </div></div>
 
-<div class="balloon bl-right">行政経営担当部長（足立）<br><div>
+<div class="bln bright" data-speaker="行政経営担当部長（足立）">
 
 公共施設マネジメントにおいては、施設については、
 - 徒歩等で利用できる：地域対応型施設

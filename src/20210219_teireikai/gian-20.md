@@ -51,7 +51,7 @@
 
 [令和2年度補正予算](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -78,23 +78,23 @@
 
 #### ここで市独自の経済対策を出さないのは、十分に行ってきたという認識によるものか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 経済対策、エッセンシャルワーカー、生活困窮者への支援等、市独自に加えることもタイミング的にはできると思っているが、このタイミングで出してこないのは市として十分な取り組みをしてきたという認識があるからか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 いままで、コロナ対策、生活支援を含め、10号補正までで約45億円程度、特別定額給付金を除いたところでやっている。そのうち、経営支援が19億円、生活困窮者への生活支援として7億円程度行っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 まだこれからも必要な部分がある。国や都の支援策も踏まえて、小平市独自として必要なものはしっかり打っていく。来年度に向けてさまざまな情報収集をしながら補正予算に向けて取り組みを進めている。
 
-</div></div>
+</div>
 
 
 ### 2. 付託委員会での主な質疑
@@ -105,13 +105,13 @@
 
 #### 学習保障支援に係る経費とは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 概要資料の、ポイント②にある「小・中学校の感染症対策及び子ども達の学習保障支援に係る経費の増額」とはなにか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 密を避けるための消耗品と備品。換気をしながら教育活動を続けるため、次のようなものが対象。
 
@@ -121,40 +121,40 @@
 - サーキュレーター
 - 空気清浄機
 
-</div></div>
+</div>
 
 #### 教職員研修・研究活動事業270万円の詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 教職員研修・研究活動事業270万円の詳細は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 1校当たり10万円配当し、各校の教職員はこの費用を活用した研修に参加できる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 研修の内容は校長の裁量の範囲。たとえば次のような研修に使える。
 
 - ICT機器の使用方法・取扱い
 - その機器をどう教科の指導に生かすか
 
-</div></div>
+</div>
 
 #### 各校への配分額はどう決めているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今回の補正予算額について、各校への配分は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 国の補助基準額があり、児童・生徒数によって次の3段階がある。
 
@@ -164,13 +164,13 @@
 
 その中で、市教育委員会で、教員の研修と消耗品・備品に振り分けている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 備品は、児童・生徒数に応じ、1校当たり80万円から135万円程度で配分する予定。
 
-</div></div>
+</div>
 
 </div>
 

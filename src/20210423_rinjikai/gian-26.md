@@ -44,7 +44,7 @@
 > 窺副市長の伊藤俊哉氏が､来る4月30日をもちまして任期満了を迎えますが、引き続き伊藤俊哉氏を選任いたしたいと考えております。
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -82,13 +82,13 @@
 
 #### 副市長に対するこの4年間の評価は
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 副市長は庁内マネジメントの最高責任者。この4年間の評価は。
 
 </div></div>
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 特に気になる点として次があるが、それを踏まえて。
 - 3月末で21人もの退職者があった
@@ -96,7 +96,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 高く評価しているのは次のとおり。
 
@@ -130,25 +130,25 @@
 
 #### 副市長の家族採用を問題と考えないのか
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 学童クラブの指定管理者選定における選定委員のメンバーに、副市長の身内を充てていることが、選定の公平性に問題があると疑念を呈され、議会においても複数の会派から指摘があった。
 
 </div></div>
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 疑念が生じているにもかかわらず、この体制を続けることに問題はないのか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 市として疑念が生じているとは捉えていないので、問題ない。
 
 </div></div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 😩 問題大ありです
 
@@ -156,13 +156,13 @@
 
 </div></div>
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 議会の審議で、選定の公平性に問題があると疑念を呈されたのは事実。疑念が生じないために具体的にどう改善するのか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 疑念がないと捉えている。
 
@@ -170,13 +170,13 @@
 
 #### 家庭内庁議という言葉を聞いたことがあるか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長は家庭内庁議という言葉を聞いたことがあるか。私は市の職員からちょくちょくこの言葉を聞く。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 聞いたことがない。
 
@@ -185,25 +185,25 @@
 
 #### なぜ女性を登用しなかったか
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 市長は、女性活躍、女性管理職5割を目指すと当選した。今回の人事で女性の登用はすぐにできたのではないか。なぜしなかったか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 男性、女性という捉え方で選んでいるのではなく、副市長にふさわしいと総合的に判断して選んでいる。
 
 </div></div>
 
-<div class="balloon bl-left">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 中江美和議員（一人会派の会）">
 
 女性の副市長を実現する予定はあるか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 今後特命的な施策を展開する必要があると捉えた場合は2人目の副市長を置くという選択肢もある。その人が女性である可能性もある。
 
@@ -211,37 +211,37 @@
 
 #### 女性の副市長を具体的に検討したのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 女性副市長（の採用）を具体的に検討したのか。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 自治研究センターや地方自治総合研究所、そういうところにアクセスすれば、女性の副市長にふさわしい人などはいくらでも紹介してもらえる。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 そういうことをなぜしなかったのか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 市長になって12日目、10日ほどで、人選をする時間が少し足りなかった。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 今後検討していく中で、よい人材がいれば、お願いすることも考えている。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 お薦めの人材がいたら紹介してほしい。
 
@@ -257,20 +257,20 @@
 
 </div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 これだけ財政状況が厳しい中で2人の副市長は無理。
 
 </div></div>
 
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 これだけ優秀な職員がいるのだから、副市長が市長を十分にサポートして回すことなんていくらだってできる。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 要するに市長の覚悟の問題。4年間で87の政策を実現するんだと。そのためには今までのようなやり方ではダメだという認識に立っていない。
 
@@ -279,37 +279,37 @@
 
 #### 性別で選ばないとしながら、どう女性5割を目指すのか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 そもそも男性、女性という視点で選んでいないというのは大きな発言。5割、3割という話が根底から覆る。これは性別を意識しなければできるわけがない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 「男性、女性という視点で選んでいない」の発言は残るが、本当によいのか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 あくまで今回の人事についての説明。2人目という範囲内において女性副市長を期待する声もあるので、そういったときは改めて考える。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 副市長は性別で選ばないが、職員は性別で判断すると。これは何か。意味が分からないが、その理由を教えてほしい。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 繰り返しになるが、今回の人事は性別ではなく現在の経験値で選んだ。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 今後女性副市長を望む声があるのであれば、しっかり考えていく。
 
@@ -317,13 +317,13 @@
 
 #### 副市長候補のあても準備もなく市長選に臨んでいたのか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長になってまだ10日目といったが、こういうのは市長選挙の前から準備するもの。大体そういう人脈を持っている人が市長になる。何のあてもなく、準備もなく臨んだということでよいか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 私としては、当選してから考えた。
 
@@ -331,26 +331,26 @@
 
 #### 今の市役所の体制をつくった責任者が副市長であると認識しているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 本人の人格にも関わることだから、あまり私はこういうことを聞きたくないが、今まで私のところにいろいろな匿名のメールで、職員本人から、いろいろな声が入ってきている。今の市役所の体制について問題になっている、長期休みになる人が多いとか、若い人が早期に退職していくとか、それをつくった実務の責任者が今の副市長だということは認識しているか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 個人的なことなので答弁は控える。
 
 </div></div>
 
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 人事についても、能力より好き嫌いで決まっている、そういう話が漏れ聞こえるが、市長はそういったことを聞いているか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 その方の個人的な感想なのかは分からないが、私はそのように捉えていない。
 
@@ -358,49 +358,49 @@
 
 #### 副市長による議会軽視が続く状況のままでよいか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 副市長が本会議や予算特別委員会、決算特別委員会などで議長や委員長に対して何やらささやき、よく聞こえないが、「通告外」とかいろいろなことを言って、議員の質問を遮ろうとしたり、執行部が、理事者が答弁しようとしているのを押しとどめたりしいる光景を自席から何度も見ている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 これは市長が考える「行政と議会の在り方」の中でふさわしいか。これを続けるということでよいか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 こちら側の答えとして調整が入ったところもあるのかなと思っている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 議会に対するこれまでの副市長の対応を、市長は認めているということでよいか。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 私は非常に気に入らない。大きく意見が分かれる議案などのとき、個別に特定会派と接触したりして、最終的には強引に多数決で通すという行政だった。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 長期総合計画も多数の反対があり、普通ならその状態で採決までいかず、取り下げる。市民みんなで共有すべきものと言ってきた長期総合計画が、議会の中で大きく意見が分かれたまま、採決まで行った。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 こういう行政運営を、今までの副市長とともに引き継いでいくということか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 行政は提案をし、議会に審査をしてもらう、議会からは立法というところで条例等の提案等もしてもらえると考えている。
 
@@ -408,13 +408,13 @@
 
 #### 風通しが悪くなることについてどう考えるか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長や副市長といった権力が集中するところで、長年同じ人がやっていると、風通しが悪くなっていく。周りがイエスマンになる。どこの組織でもそうなる。市長はこれに対してどんな見解か。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 市長が変わったので、その点については一新させていただけると思っている。あくまでも副市長はサポートで、その部分は私と風通しをよくして、87の政策をサポートしてもらいたいと考えている。
 
@@ -422,13 +422,13 @@
 
 #### 副市長を再任するデメリットをどう考えているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 副市長を再選するメリットについては話があったが、デメリットを市長はどう考えているか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 硬直化するという指摘もあったが、市長が替わるので、そういった部分についてはメリットの方が大きいと判断した。
 
@@ -436,13 +436,13 @@
 
 ##### どうやって硬直化を防ぐか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 どうやって硬直化しないようにしていくか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 トップが変わることで硬直化しないのではないかということ。
 
@@ -450,7 +450,7 @@
 
 #### 市長に投票しなかった人たちの考えはどう尊重するのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 選挙で対立候補だった磯山氏に投票した市民も多い。票差は3000票ちょっと。
 
@@ -458,31 +458,31 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 磯山氏に投票した人は、「今までのやり方とは違った、新しいことをやってほしい」と思っているはず。そういった方々に対し、今までの小林前市長を支えてきた副市長を再選することについてはどう考えているか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 選挙なので、私は私に投票していただいた方の思いに答える必要があると考えている。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 ただ、私は別に新しいことをしないとも言っていない。正則前市長のやってきたことをまるっきり同じことをする、それ以上のことは何もしないと言った覚えはない。新しいことをしてほしいという人たちの考え方という部分であれば応えられると思っている。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 問題発言のように感じるが、市長に投票しなかった人たちのことも考えて政策を行っていくのか。それが副市長を選ぶところにどう反映されているのか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 19万市民のことを考えて、市政運営に当たっていく。
 
@@ -490,19 +490,19 @@
 
 #### もう一人副市長を採用するとはどういうことか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 どういった理由で、もう一人副市長を新しく採用することを考えているのか。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 年間数千万円の費用をかけてまで新しく追加で副市長を入れるのか、それとも現在の副市長を途中で入れ替えるということか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 もし置くのであれば特命的な部分になる。たとえば、ICTもしくはDXの推進といった部分の専門分野の方、男女共同参画についての見識がある方。費用対効果の部分で、副市長を設置することにかかるお金よりも大事だと判断した場合には2人目という判断もある。
 
@@ -511,25 +511,25 @@
 
 #### 市長のやりたいことができなくなってもよいということか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 一番のデメリットは、小林新市長のやりたいことができなくなることと思う。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 なぜなら、これまで投資的経費は非常に低かった。ICTも進んでこなかった。あらゆる政策が多摩26市の中で進んでこなかった。先進的な事例や課題解決について、スピード感がなかったことも議会から指摘されていた。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 そのうえでこの人事を進めるという理解でよいか。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 副市長はサポート役で、対等というより、自分の考えを実現してもらうためにサポートしてもらう方。サポートしてもらいたいと考えている。
 

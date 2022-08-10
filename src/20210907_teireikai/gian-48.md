@@ -46,7 +46,7 @@
 
 ## 資料
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -72,13 +72,13 @@
 
 #### 番号利用法の該当号の内容に変更はないか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 一応確認するが、番号利用法で号ずれした分の、号の内容は変わっていないという認識でよいか。
 
 </div></div>
 
-<div class="balloon bl-right">総務部長（白倉）<br><div>
+<div class="bln bright" data-speaker="総務部長（白倉）">
 
 内容に変更はない。
 
@@ -93,36 +93,36 @@
 
 #### デジタル改革関連法案で今後市の条例にどう影響が出るか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今回は個人情報保護条例の関係では、内閣総理大臣が責任者になったという変更だけだが、今後、デジタル改革関連法案をみると、行政が個人情報を収集して、そのデータを企業等に開放していくことが優先されると示されている。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今後、個人情報保護条例や情報公開の条例に何か影響が出てくるのか。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 今回のデジタル改革関連法案の中で、デジタル社会の形成を図るための関係法律の整備に関する法律、いわゆる整備法の中で、個人情報保護法に関しても改正されている。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 地方公共団体の部分については施行期日がはっきり決まっていないが、2年以内に施行される予定。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 今までは、それぞれの自治体がそれぞれの条例で個人情報保護を行っていたが、それが今後国の保護法に一本化される。
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 国から示されている予定は、来年の春に関係する省令やガイドラインが示され、令和5年の春ごろに改正になる。そのころにまた改めて、小平市の個人情報保護条例の改正案も提出する。
 

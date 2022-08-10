@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=226&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1210&schedule_id=2&minute_id=2&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=226&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1210&schedule_id=2&minute_id=2&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=69&is_search=true">6月定例会初日・撤回</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -82,7 +82,7 @@
 >
 > この条例は、公布の日から施行する。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -141,114 +141,114 @@
 
 #### 有料化して2年で減額し生活困窮などに対応しようとする理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 コロナ禍での経済対策や困窮対策として、まだ有料化して2年も経たない手数料・指定収集袋の減額で、生活困窮などに対応しようとする理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">提出者代表議員（比留間）<br><div>
+<div class="bln bright" data-speaker="提出者代表議員（比留間）">
 
 政和会は、コロナ対策に関する補正予算に対して、異議を唱え、いろいろ手を打つように提案してきたが、その案が全部否決されている。そのためひとつでも通る意見を出そうかということで、市民のためになることを考えて、早急に行うことを考え、今回出した。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 補正予算で、ごみの指定収集袋の無料化は提案していたか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">提出者代表議員（比留間）<br><div>
+<div class="bln bright" data-speaker="提出者代表議員（比留間）">
 
 していない。
 
-</div></div>
+</div>
 
 #### 他市の例は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 他市の例として、たとえばごみ袋を配るとか、ごみ袋の無料引換券を配布するところがあったかと思うが。認識は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">提出者代表議員（比留間）<br><div>
+<div class="bln bright" data-speaker="提出者代表議員（比留間）">
 
 調布市、立川市、武蔵野市などでは、プラスチック回収袋は無料。小平市でも可能だと考える。
 
-</div></div>
+</div>
 
 #### 記載漏れがあるなら取り下げるべきでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 この条例に記載するべきだったことを記載漏れだったという答弁があった。そうであれば、提出としては不完全で、取下げの意思があるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">提出者代表議員（比留間）<br><div>
+<div class="bln bright" data-speaker="提出者代表議員（比留間）">
 
 取り下げの考えはない。
 
-</div></div>
+</div>
 
 <a id="理事者への質疑"></a>
 
 **2-2. 理事者への質疑**
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 コロナで昨年より家庭ごみが増加傾向。家庭ごみ有料化・戸別収集に移行してようやく2年、市民にも定着してきた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 このような状況で、家庭ごみの廃棄物手数料を減じること等は、さまざまな観点から影響が大きい。6点ある。
 
-</div></div>
+</div>
 
 #### 理事者が示す課題6点
 ##### 1. 広域支援で、受託拒否されるかも
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 1点目は広域支援の点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 小平・村山・大和（小村大）衛生組合の3号炉の解体更新工事に伴い、近隣へのごみ処理支援の委託が本年4月から開始される。このような状況下で委託する立場の小平市が、ごみ量増加の懸念のある施策を打ち出すことは、委託先の自治体およびその住民にも影響を及ぼすことになり、理解を得ることは非常に困難。このことで、受託拒否等の判断がなされた場合、小平市および東大和市、武蔵村山市のごみ処理が滞ることも考えられる。
 
-</div></div>
+</div>
 
 ##### 2. 事業者に大きな影響が出るなど、相当時間がかかる
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 2点目は、制度移行や条例等の改正には、多くの時間が必要という点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 今回提案された条例改正を行うには、ほかの条文や規則の改正も必要。市民への周知も必要で、大きな混乱を招くおそれがあるほか、購入済みの指定収集袋の活用方法も示す必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 指定収集袋を製造している事業者、販売している各事業者、受注を委託している小平商工会にも事前に説明し、了解を得る必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 指定収集袋の販売利益が主な収入源となっている事業者に対しては、多大な影響を及ぼす。これらのことから、制度移行には相当な時間が必要であると考える。
 
-</div></div>
+</div>
 
 <div class="tips" id="ごみ袋有料化が本来の目的から逸脱している">
 
@@ -264,209 +264,209 @@
 
 ##### 3. 今後の更新工事で混乱を招く恐れがある
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 3点目は、小村大和衛生組合における新焼却施設の更新に影響を与える点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 現在工事中の新焼却施設、焼却炉の規模は、整備に莫大な費用がかかることから、できるだけ小さい規模での建設が求められており、全体の2分の1以上の搬入量を占める小平市の家庭ごみ有料化による削減効果を見込んで決定した。このため、ごみ量が増加する懸念がある施策を、構成市の十分な理解がない中で進めることは、今後の更新工事において混乱を招くおそれがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 これも、分別方法、焼却するもの等の見直しですぐに解決する可能性があります。
 
-</div></div>
+</div>
 
 ##### 4. 市民意見徴収や現状分析のプロセスを経てない
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 4点目は、市民意見聴取や現状分析といったプロセスを経ていない点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 令和5年度を始まりとする次期『一般廃棄物処理基本計画』の策定に向け、小平市廃棄物減量等推進審議会にて協議していくが、その中でごみ処理手数料については、ごみ組成分析による分別状況の検討や、減量持続効果等を分析したうえで検討することになると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 当審議会は、日ごろからごみ減量に対して意識の高い市民公募委員が審議会委員の半数以上おり、このほか学識経験者や市内事業者で構成され、そこでの審議を踏まえたうえで検討していく必要があると考えている。
 
-</div></div>
+</div>
 
 ##### 5. 分別の徹底が不十分
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 5点目は、分別の徹底がまだ十分ではないという点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 プラスチック製容器包装の分別不適正の割合は、最新の組成分析では20%以上。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 分別が大幅に改善したとは言い難く、無料とすることで、さらに分別の徹底が難しくなると考える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 また、不適物が増加した場合、搬入先のスリーハーモニーにおいて、手作業による分別作業が増加し、コスト増にもつながる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 このため、小平市だけでなく、東大和市、武蔵村山市にも影響を与えることに留意する必要がある。
 
-</div></div>
+</div>
 
 ##### 6. 歳入が減少する
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 6点目として、歳入が減少する点。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 燃やすごみ、燃やせないごみを半額、プラスチック製容器包装を無償とした場合、市に与える影響額は、令和元年度決算からの推計では約3億円程度の減となる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 そのほか、ごみ量が増加した場合には、翌々年度以降の小村大衛生組合および他の広域資源循環組合の分担金の増加が見込まれる。このため、今後の市全体の政策にも大きな影響を及ぼすおそれがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 なお、他の広域資源循環組合の分担金については、令和元年度の家庭ごみ有料化に伴うごみ減量などの理由により、令和3年度は前年度に比べおおよそ8,900万円ほどの減額となったところで、これが再び増額となる可能性もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 以上のことなどから、今回提出された条例案を実施する場合、小平市のみならず、広域支援をお願いする各市、小村大衛生組合を構成する東大和市および武蔵村山市にも大きな影響と混乱を与えることになると考える。さらには、市民や関連事業者などにも大きな影響と混乱を及ぼすことが考えられる。
 
-</div></div>
+</div>
 
 #### 受託拒否の例はあるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 受託拒否の例はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 小金井市の例等ある。
 
-</div></div>
+</div>
 
 #### 時間はどれくらいかかるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 時間がかかると言ったが、どれくらいかかるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 現段階ではなんとも言えないが、導入に2年ほどかけたので同程度の時間かと。
 
-</div></div>
+</div>
 
 #### プラスチック製容器包装が有料の理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 プラスチック製容器包装が有料の理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 近年、生活様式の変更によって、ごみとして出される量が増えてきた。資源化しても売却金額が少なく、その割には収集、運搬にかかる費用が増えてくる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 減らしていく施策が何か必要であるということは、日本全国的にもそのような状況のため、あえてほかの資源と区別をつけて、金額をいただくことで、ごみの量を減らすような施策を取っていこうということで有料としている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
-🤔 燃やせるものは、燃やせばよいのでは。
+燃やせるものは、燃やせばよいのでは。
 
-</div></div>
+</div>
 
 #### リットル当たり2円の妥当性は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 リットル当たり2円は妥当と思うか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 何とも言えないが、リットル当たり3円としている市もある。小平市より少ない金額としているところもある。東京都は、物価等、他地域と比べられないような部分もあるので、多摩地域の中で比べるのが妥当と考えている。今は燃やすごみ、燃やさないごみをリットル当たり2円、プラスチック製容器包装を1円にするところが主流。
 
-</div></div>
+</div>
 
 #### ごみ袋の値下げを検討する条件は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ごみ袋の値下げを検討する条件は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 分別の徹底と安定したごみの減少。一般廃棄物処理基本計画の中でごみの数値目標がある。そこをクリアして、安定的にそれが継続できるようになれば、値下げに対しても前向きに考えてもよいと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
-🤔 このやり方には以前から非常に違和感があります
+このやり方には以前から非常に違和感があります
 
-</div></div>
+</div>
 
 #### 税金でごみ処理すべきでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 法律では市町村の廃棄物の運搬処理は行政事務。税金で家庭ごみを処理するのが義務とされている。見解は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">環境部長（田中）<br><div>
+<div class="bln bright" data-speaker="環境部長（田中）">
 
 [地方自治法第227条](https://elaws.e-gov.go.jp/document?lawid=322AC0000000067#Mp-At_227)第1項で、普通地方公共団体は、当該普通地方公共団体の事務で特定の者のためにするものについては、手数料が徴収できることになっている。家庭ごみ有料化については問題ないと考えている。
 
-</div></div>
+</div>
 
 </div>
 

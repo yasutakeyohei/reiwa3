@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=243&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=222&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1222&schedule_id=4&minute_id=169&is_search=true">5/18委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=50&is_search=true">6月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -74,7 +74,7 @@
 >
 > ご審査のほどよろしくお願いいたします。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -127,61 +127,61 @@
 
 #### オリ・パラを中止すべきという見解か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 共産党としてはオリ・パラは中止すべきとしている。同じ見解か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 中止すべきかどうかは我々の判断ではない。今回の基金条例に関しては中止・再延期にかかわらず（廃止して）、コロナに集中すると。もし観戦事業ができるようであれば、補正予算を組んででも対応する、というのが意図。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 他市はすべて一財でやる。小平市だけが非常に特異な基金をつくっている。これは市長の政治的パフォーマンス以外の何物でもない。市長の思いという部分だけでやってきたので、コロナの状況にあっては、できる限り柔軟に使える財源を確保すべきというのがこの条例提案の趣旨。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 オリンピック・パラリンピックの中止を求める趣旨ではない。
 
-</div></div>
+</div>
 
 #### 東京オリンピック招致に反対だった会派が基金に賛成している理由は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 オリンピックを東京に招致する話が上がったとき、小平市で招致決議を上げようということがあった。私と共産党と生活者ネットは、東京オリンピックの招致に反対だった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 だから、招致に反対した会派（共産党、生活者ネット）の皆さんが、この基金に賛成しているのはどうなのか。整合性が取れるのかという思いがある。提出者としてはどう考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 おっしゃるとおり、平成24年3月定例会で東京招致に関する決議があった。そのときに共産党（日本共産党小平市議団）は反対し、オリンピックに使う金があるなら、復興支援に回してほしいということを述べていた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 同様に、生活者ネットワークの反対討論では、2020のことについて「復興の象徴という理念はあまりにも時期尚早」「東京でのオリンピック開催よりもなすべきことが数多くある」と述べた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 被災地等に力を注ぐべきだという趣旨だと思うが、そもそも、招致開催に反対したけれども、観戦はよいと。お金は被災地の復興に使うべきと言っているのに、観戦のためにお金を使うことはよいという主張に関しては、私はまったく理解ができない。
 
-</div></div>
+</div>
 
 <div class="tips" id="一貫性の欠如ダブルスタンダードおためごかし">
 
@@ -199,100 +199,100 @@
 
 #### そもそもなぜこのような条例をつくる必要があったと考えるか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 そもそもなぜこのような条例をつくる必要があったのか、私には理解できないが、どう考えているか。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 観戦事業に参加する多くの自治体は一財でやる。基金をつくる必要性はまったくなく、なくてもよいものをつくるのは単なる政治パフォーマンスだと捉えている。
 
-</div></div>
+</div>
 
 #### 継続審査という声をどう思うか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 継続審査という声もあるようだ。継続すると6月議会でまたやることになる。私は継続ではなくちゃんと判断すべきと思うが、どう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 冗談じゃないという気持ち。コロナで苦しんでいる人たちにも使えるようにしてくれと、そのための財源として使えるようにしたいというのがこの条例提案の趣旨。3ヵ月後でもいいでしょう、そんなに苦しくないでしょうというつもりなのか、私には（継続審査でよいと言う人たちのこと）を、到底理解しがたい。
 
-</div></div>
+</div>
 
 #### 継続審査でもよいではないか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 困っている人に手を差し伸べるということ、これを廃止して、それをすぐに困っている人に使う、それは趣旨としては分かります、ただ、それが継続になったときに、困っている人に手を差し伸べないんですかというと、それはイコールではないと思います。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 <strong>😇 私にはどうも理解できません</strong>
 
 この審査に至るまでには時間がたっぷりあったのに、特に理由なく継続する…。
 
 他会派の議員からこういう発言があるたびに、本当におかしいと感じますが、あまりにも頻繁なので、最近は慣れてきました。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bright" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 3ヵ月後でもよいじゃないかという考え方にはとても私は納得できないし、賛同できない。
 
-</div></div>
+</div>
 
 
 <a id="理事者への質疑"></a>
 
 **2-2. 理事者への質疑**
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 市はこれまで何度も補正予算を組んで、コロナに関連する対策事業を打っている。この条例を廃止しないとコロナ対策が打てないというような市の状況はない。そのため、この基金条例の必要性については、市としては従前どおり、夏に予定されているオリパラ大会に向けてしっかり確保していきたい。
 
-</div></div>
+</div>
 
 #### 東京都の自治体で同様な基金条例のあるところは
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 東京都の自治体で、同様な基金条例を持っていることろはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 基金をつくる際に確認したときはなかったと記憶している。その後調査していないため回答できない。
 
-</div></div>
+</div>
 
 #### ほかの自治体はなぜ真似をして条例をつくらなかったか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 ほかの自治体に、市長会か何かでこういう基金をやると言ったら、すごいねというふうに言われた。でも、どこの自治体も追随しなかった。ほかの自治体はなぜ小平市のまねをして条例をつくらなかったと思うか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 我々も事業があって、その財源を確保するためにこの基金をつくった。他市のほうで、たとえば長年をかけてこういった観戦事業をしていくという事業展開をしているか、していないかで違いが出るのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 小平市としては観戦事業することを複数年かけて財源を確保するところでこの基金を立ち上げた。
 
-</div></div>
+</div>
 
 <div class="tips" id="職員も被害者">
 
@@ -304,67 +304,67 @@
 
 #### コロナでかかる当初想定以上のコストは計算しているか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 仮にオリンピックをやったとしても、当然人数制限がされる。チケットも東京都が無料配布をやめる可能性も高い。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 仮にチケットがすべて無料でバスが出るとしても、3密を防ぐため、想定以上のコストがかかる。そのコストは計算しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 令和3年度予算において約3,700万円で予算を組んだ。
 
 **＊答弁漏れ**
 
-</div></div>
+</div>
 
 #### 東京都からチケット配布がない場合どれくらいコストがかかるか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 （東京都から）チケットの配布がない場合、どれくらいのコストがかかるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 チケット代は現在想定していない。
 
-</div></div>
+</div>
 
 #### パブリックビューイングのコストは
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 パブリックビューイングを2ヵ所でやると。家族同伴というのは一般会計の特別委員会で初めて聞いたが。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 何回も分けてパブリックビューイングを開くことになり、中央体育館とルネこだいらだとして、1回で千人としても、7回くらいやる必要がある。どれくらいのコストになるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 コミュニティライブサイトの費用は、令和3年度予算において、約1,250万円。この予算の範囲内で事業を行う想定。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 1,250万円の根拠は。1回に何人で、何回やるのか。親子同伴というのも、どういう意味か。全市民が対象か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 全市民を対象としている。
 
@@ -380,55 +380,55 @@
 
 **＊答弁漏れ（親子同伴の意味は）**
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 東京都からのチケットの配布がなくなった場合は、市としていくらかかるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 事業を実施する前提なので、想定していない。必要人数×チケット代の想定はできるが、計算等はしていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 <strong>🤔 つまり・・・</strong>
 
 チケット代が出なければ観戦事業は実施しないということですね。
 
-</div></div>
+</div>
 
 #### 対象ではない私立学校や特別支援学校の生徒への対応は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 私立学校や特別支援学校の生徒は観戦に連れて行かない。その子たちへの対応はどうなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">三井 スポーツ振興担当課長<br><div>
+<div class="bln bright" data-speaker="三井 スポーツ振興担当課長">
 
 東京都の方で学校ごとに観戦の対応を図ると聞いている。小平市としては東京都の学校連携観戦プログラムになったので、そちらの児童・生徒については通っている学校で対応する。
 
-</div></div>
+</div>
 
 #### オリ・パラが中止になったらこの基金はどうなるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 オリ・パラが中止になったらこの基金条例はどうなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 廃止になる。ただし、これまでも話しているように、基金の残額はそのまま一般会計に繰り入れるのではなく、子どもたちのために使うか、コロナのために使うのか、検討が必要。
 
-</div></div>
+</div>
 
 </div>
 
@@ -462,7 +462,7 @@
 
 こんなことしている間にも、皆さんの大切な税金が費やされています。
 
-</div></div>
+</div>
 
 
 

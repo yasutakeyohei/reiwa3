@@ -78,7 +78,7 @@
     1. 施行期日
         - 令和3年4月1日とする。ただし、2.3.1については、公布の日、2.3.2については、令和3年10月1日とする。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -120,47 +120,47 @@
 
 #### ハラスメント・虐待の実態を市はどう把握しているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市内介護事業所におけるハラスメント、虐待の事案を市はどう把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 本当の実態までは分からないところ。ただ、実際に市は介護事業所からさまざまな報告をもらっている。たとえば薬の飲み忘れがあったとか、あざができたとかでも報告が来る。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 その施設内で、誰かが何かに気付き、電話をもらえる場合は、現場を確認にも行ったりする。できる限り虐待が続かないよう対処していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 事業所から、事故報告と同じ形で報告がある。その中に含まれていると考えている。
 
-</div></div>
+</div>
 
 #### 今回の法改正に事業者はどう対応すればよいか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今回の法改正に、事業者は具体的にどう対応すればよいのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 3月20日に発出される[国の解釈通知](https://www.mhlw.go.jp/stf/shingi2/0000076613_00001.html)に詳しく出てくる。[ハラスメント対策マニュアル](https://www.mhlw.go.jp/stf/newpage_05120.html)をつくるとのこと。
 
-</div></div>
+</div>
 
 #### 研修について詳しく
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 研修は大きく分けて次のような内容と思うが、どういうものを想定しているか。
 
@@ -168,9 +168,9 @@
 - 虐待の防止等
 - 認知症介護に係る基礎的な研修
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 カリキュラムが6時間あり、
 
@@ -180,115 +180,115 @@
 
 などを学習する内容で、新任の介護職員等が、認知症介護に最低限必要な知識及び技術を習得する内容。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 実際にどういった形で受けるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 都道府県が主体となって年に約20回実施する、それを受けに行く形。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 研修にかかる費用はどうなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 費用については記載がないが、通常この内容であれば無料のことが多い。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 研修中は働いているとみなさない事業者もあるのではないかと思うが、従業員が研修中も報酬を得られるよう担保されるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 報酬等については、それぞれの事業所の判断。こちらでは把握していない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 従業員のことを考えると研修は仕事という形になってくる。ただ、事業所自体も相当疲弊していることがあるので、話を聞いていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 従業員が別の事業所に転職などする際、再度そういった研修を受ける必要はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 通常の東京都の研修なので、一度受ければ、ほかのところに行っても、研修は受けているということになる。
 
-</div></div>
+</div>
 
 #### 議案第13業で介護職員初任研修が必要になるのは何か
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 議案第13号で介護職員の初任者研修が必要になる部分があるが、どういうことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 これまでは訪問系サービスは介護福祉士しかできなかった。それに加えて、初任者研修を受けた者が訪問介護員として従事できるという改正。介護福祉士の資格はハードルが高い。介護人材の裾野を広げるための改正。
 
-</div></div>
+</div>
 
 ##### 初任者研修の受講費用に対する市や都の助成は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 初任者研修の受講費用に対して市の助成はなかったと思うが、正しいか。東京都はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 市は初任者研修についての助成は行っていない。東京都もおそらく補助はない。
 
-</div></div>
+</div>
 
 #### ハラスメントの実態を市はどれだけ把握しているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 セクシャルハラスメント、パワーハラスメントの実例を市はどれくらい把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 数値的なものは手元にない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 セクシャルハラスメント、パワーハラスメント等があって介護離職につながるということで、この話が出てきた。市に事業所から来る報告は、主に実際に入所してサービスを受けている方にマイナスが生じた場合の報告。従業員がセクシャルハラスメント・パワーハラスメントを受けた部分は、私たちが一番把握しづらい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 従業員に対するハラスメント等は、なかなかこちらのほうに出てこないが、その場合、事業所の管理者と調整し、事業所を替えていただくなどの対応が多くなっていると思われる。
 
-</div></div>
+</div>
 
 <div class="tips" id="ハラスメントの対応こそ市が力を注ぐべきことでは">
 
@@ -308,31 +308,31 @@
 
 #### 小規模多機能型居宅介護の改正について詳しく
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 第101条の改正はどういう意味か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 小規模多機能型居宅介護は定員が決まっており、基本的には定員を超えて利用者を受け入れるということは基準上認められていない。そうすると、過疎地域などでは事業所の運営上厳しいこともある。市内でも廃止した事業所等もある。そういった背景もあったと思うが、「登録定員を超過することが必要な場合には認められる」という改正。
 
-</div></div>
+</div>
 
 #### どういったことが虐待になるというガイドラインはあるか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 虐待の防止のための措置は、どういったことが虐待に当たるかという基準としてのガイドラインのようなものはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 虐待については「[高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律](https://elaws.e-gov.go.jp/document?lawid=417AC1000000124)」があり、大きく五つのカテゴリーに分けて示されている。こういったものに沿い、指導しているものと考えている。
 
-</div></div>
+</div>
 
 <div class="tips" id="養介護施設従業者等による虐待5種だけだと抽象的では">
 

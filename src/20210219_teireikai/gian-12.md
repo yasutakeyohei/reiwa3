@@ -70,7 +70,7 @@
     - 令和3年度予算は、改正後の保険料額により編成している。
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -110,24 +110,24 @@
 
 #### 保険料500円アップで被保険者にとってどんなプラスがあるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 保険料が現行の5,300円から500円アップで5,800円になる。被保険者にとってどんなプラスがあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 介護保険事業は、保険料、国や都、市の負担割合が決まっており、社会全体で支えていこうというのが保険事業。
 まず、支援が必要な方にサービスが安定して提供できるというところが一番大きい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 一方で、要介護、要支援の認定を受けていない方は保険料を払っても恩恵がないという声もある。フレイル予防の推進委員、認知症地域支援推進委員の増員もしており、総合事業の中で、介護予防、認知症予防に取り組んでいきたい。
 
-</div></div>
+</div>
 
 ### 2. 付託委員会での主な質疑
 
@@ -137,33 +137,33 @@
 
 #### 値上げが要介護者等に及ぼす影響をどう確認するか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 値上げは低所得者にとっても負担増になるところがある。
 
 要介護者等にどのような影響を及ぼすか、確認する手段はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 基準月額だと年間6,000円増、それぞれの段階で約9.4％増であり、市民の方に重い負担がかかる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 低所得の方には、第7期に引き続き、公費投入で保険料軽減を図っており、ある程度、ほかの方よりも軽減される。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 要介護者は、保険料以外にも介護サービス利用で1割負担があるので、利用控えが出るかもしれない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 利用料は要介護度別に利用できる限度額が決まっている。たとえば令和元年度は、限度額に対しての利用料で：
 
@@ -173,144 +173,144 @@
 
 の利用があった。（こういった利用率も見ながら）利用控え等についても今後検証していく。
 
-</div></div>
+</div>
 
 #### この負担増で、実際に働いている人たちの処遇が改善するのか、確認は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 この負担増により、「介護職の方々等の処遇改善につながる」という話もあった。しかし、事業者が潤い、実際に働いている方々の処遇が改善されない事態も想定される。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 負担増の分が、働いている方々の処遇改善につながっていることの確認は行う予定か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right"><br>高齢者支援課長補佐（赤坂）<div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 今回、介護報酬改定で、国から0.7%増とされた。これが介護従事者に反映しているかを確認するすべは、市として持っていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right"><br>高齢者支援課長補佐（赤坂）<div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 国の審議会等の調査結果などから確認する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right"><br>高齢者支援課長補佐（赤坂）<div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 [処遇改善加算](https://www.city.kodaira.tokyo.jp/kurashi/073/073477.html)などは市に提出してもらっているので、そういった資料からも確認できると捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 その方法が唯一か。それ以外にも把握する方法はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 要介護認定を受けている、受けていないにかかわらず、保険料が納められないような場合は、丁寧に事情を確認し、たとえばコロナ禍によるようなことがあった場合、減免の対応をしているので、そういうことで対応していきたい。
 
-</div></div>
+</div>
 
 
 #### 介護保険料が上昇する原因を市はどう捉えているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 介護保険料が年々上昇していく原因を市はどう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 介護保険料は、どうしても支え合いということで、必要となる「保険給付費」を「第1号被保険者の人数」で割り、算出している。すると、要介護者が増え、介護サービスを利用する方が増えると、保険給付費が増えることは、ある程度仕方がないものと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 介護保険料が年々上昇していく背景には、少子高齢化や核家族化の問題があると思う。そういう対応も含めた、市全体の動きの中で、連携して、解決や改善をしていく、そういう大きな動きが必要なのではと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 子どもを増やす動きや、核家族化が本当によいのかなど、そういったことを全体の政策の中で考えていく必要があると思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 介護保険料を今後どうしていくかとかという話が、市全体の話につながっていくような動きというのは、小平市としてあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 介護保険は、国が制度設計している。かかる費用は、半分が40歳以上の方からの保険料、残りの半分が公費で、国、東京都、市が負担をする仕組み。平成12年に制度が創設され20年経過している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 その中で、40歳以上の方の保険料で賄っている半分も、40歳から64歳の第2号被保険者と65歳以上の第1号被保険者の人数により、3年ごとに国でその負担率が変わってきている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 現在は、平成30年度から、第2号被保険者については27％で、第1号被保険者の方については23％とされているが、そういったことも人口の比率に基づき、国において定めている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 市として、保険料を値上げをしないための取組は、元気な方に引き続き元気でいただくよう、たとえば来年度からは介護予防ボランティアポイント事業などを、健康推進課などと一緒に連携をして取り組んでいくなど、他課との連携などにも引き続き取り組んでいきたい。
 
-</div></div>
+</div>
 
 ##### 「国が決めているから」で終わるのではなく、「市で何ができるか」の視点を
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 国のほうで決まっている制度とはいえ、介護保険や全体の問題は、一つ一つの地方公共団体の働きが影響を及ぼしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 少子高齢化に伴い、「なかなか家族だけでは介護できない状況になってくるから、みんなで支えましょう」という仕組みが介護保険。そういったところで介護保険の負担がどんどん増えていくのであれば、少子高齢化の状況や核家族化についても、ひとつテーマとして取り上げていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 改善というか、状況を変えていく取組等ができないかといったところで、国を助けるような形になると思うが、そういった動きがそれぞれの地方公共団体に必要だと考える。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 市の全体の施策の中で、そういったこともひとつ考えていかなければいけないのではないかと私は思っている。
 
-</div></div>
+</div>
 
 #### 介護保険料が上昇する要因を改善する市の取組は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 介護保険料が年々上昇する要因を、市として変えていく、改善していく取組は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 市としては、第7期から、
 
@@ -319,9 +319,9 @@
 
 などの整備を進めている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 それ以外にも、新たに
 
@@ -329,63 +329,63 @@
 
 など、医療的ニーズに対応する施設もできてきている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 そういったものが整備をされることにより、介護を利用する方が安定的、継続的にサービスを受給できようになるのはメリット。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 介護を利用されない方に負担が生じるということについて、重く受け止めているが、[2025年の地域包括ケアシステム](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/)構築に向け、介護予防や健康づくりの取組などを引き続き取り組んでいきたい。
 
-</div></div>
+</div>
 
 
 #### 第7段階から第9段階の、合計所得の上限と下限が10万円ほど変更されている理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 第7段階から第9段階の合計所得金額の上限値と下限値が10万円ほど変更になっている理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 基本的には厚生労働大臣が定める額。第6段階と第7段階、第7段階と第8段階、第8段階と第9段階の第1号被保険者数の「見込数の割合の均等」が図られることを勘案して定められている。今回定められた額がこの額であった。
 
-</div></div>
+</div>
 
 
 #### 新設された段階の分で見込む増収は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 新設された第16段階から第18段階で、年間どれぐらいの増収を見込んでいるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 約900万円。
 
-</div></div>
+</div>
 
 #### 保険料の基準が第5段階の区分に設定されている理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 保険料の基準は、第5段階の「本人が市民税非課税で世帯内に課税者がいる場合で、合計所得金額プラス公的年金等の収入金額が80万円超え」に設定されている。この第5段階が保険料の基準にされている理由は。全国的に一番人数が多いなどの理由があるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 基準が第5段階なのは、介護保険法で定められたもの。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="どうやら人数が多いところを基準にしているようです">
@@ -406,19 +406,19 @@
 
 #### 10万円控除はどういう理由か
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 「給与所得または公的年金等に係る所得の合計額から10万円を控除して算定するよう改正する」とあるのは、どういうことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 税制改正において、給与所得控除および公的年金等の控除が10万円引き下げられた。介護保険は合計所得で計算しているので影響を受ける。その分の10万円を控除することで元の所得に戻すことになり、影響がない形になる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🕵 税制改正に絡んだ10万円控除について
 
@@ -426,23 +426,23 @@
 
 [平成30年度税制改正に伴う介護保険制度における所得指標の見直しについて](https://kosenchin.jp/kosenchinDefault/2_2020_12_07/vol.904.pdf)
 
-</div></div>
+</div>
 
 #### 国庫負担の引き上げなど、都や国への要望状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 介護保険が始まってから20年間値上がり続けている。利用者負担も1割から3割に。国庫負担の引き上げをするなど、国への要望状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 東京都市長会を通じ、東京都および国に要望している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 要望の内容は、「介護保険制度に係る市町村への支援策の充実」ということで、制度運営に関する事項として、次のようなこと。
 
@@ -450,19 +450,19 @@
 - 障害施策の統合については、今後も保険者の意見も聞き、十分に反映するよう積極的に働きかけること
 - 低所得者対策として、利用者負担の軽減措置を充実させるよう、低所得者対策の抜本的な検討と見直しを国の責任において実施すること
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 また、制度上、財政調整交付金が5%市に交付されることになっているが、実際には5%が交付されない事態が都市部を中心にある。その不足分は保険料で賄っているため、結果的に市民持ち出しが増えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 毎年、「国の法定負担分は確実に交付し、市町村の介護保険料の不均衡解消に努めるよう積極的に働きかけてほしい」と東京都を通じて要望しており、引き続き取り組んでいきたい。
 
-</div></div>
+</div>
 
 <div class="tips" id="財政調整交付金について">
 
@@ -476,19 +476,19 @@
 
 #### 介護給付等準備基金はどう積み立てているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 介護給付費等準備基金は、どう積み立てているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 保険料の余った額を積む。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 毎年の積立額は、
 - 平成24年度：約1億3,000万円
@@ -503,46 +503,46 @@
 
 第8期（令和3年度～令和5年度）は約7億円の取崩しを予定。
 
-</div></div>
+</div>
 
 #### 介護給付等準備基金が足りなくなったらどうするか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 積立が足りなくなったらどうするか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 基金は現在9億円あるので、積極的に使い、保険料の上昇を抑える。万一、急激に保険給付費が伸びた場合に対応するため、約2億5,000万円程度を残している。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 保険料の余りを積む以外に基金を増やす方法は。
 
-</div></div>
+</div>
 
 ##### 第9期には保険料が7,000円程度に
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 たとえば一般会計から繰出しをして基金に積むことは制度上認められていない。第9期には保険料が7,000円程度になると見立てを立てている。
 
-</div></div>
+</div>
 
 #### 給付費の伸びをどう推定しているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 給付費の伸びをどう推定しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（赤坂）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（赤坂）">
 
 それぞれ対前年比で、次のように推定。
 
@@ -550,7 +550,7 @@
 - 令和4年度：2.3%増
 - 令和5年度：3.0%増
 
-</div></div>
+</div>
 
 </div>
 

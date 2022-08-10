@@ -66,7 +66,7 @@
 [令和3年度一般会計補正予算（第3号）](https://www.city.kodaira.tokyo.jp/kurashi/088/088685.html)
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -117,13 +117,13 @@
 
 ### 1. 本会議での主な質疑
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 第3号と第4号補正予算を分離して、こちらの第3号を優先して予算化しなければならなかった理由は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 第4号はいわゆる肉付け補正予算。第3号はコロナ対策。できるだけ速やかに対応する必要があると分離した。
 
@@ -132,19 +132,19 @@
 #### 生理用品配布事業について
 ##### NPO団体から支援の打診はなかったか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 本来なら早い段階で防災備蓄品をNPO団体と協力し、困窮する方々にすばやく配布すればよかったのでは。NPO団体から支援の打診はなかったか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 小平市の防災備蓄品は、1月に社会福祉協議会の方へ提供している。3月には、東京都から寄附された防災備蓄品を大学等へ配布している。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 NPO団体からの話は把握していない。
 
@@ -152,13 +152,13 @@ NPO団体からの話は把握していない。
 
 ##### 事前配布していることなど議会への情報提供をしてほしい
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 大学等へ配布しているということなどは、議会への情報提供をしてほしい。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 今後適切なタイミングで情報提供できるよう努めていく。
 
@@ -166,13 +166,13 @@ NPO団体からの話は把握していない。
 
 ##### 困窮している人が手にしてもらうための周知方法は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 本当に生理用品で、困窮している方に対して、手にしてもらうには周知方法の工夫が必要だと考えるが、どうするのか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 - 市報
 - ホームページ
@@ -185,13 +185,13 @@ NPO団体からの話は把握していない。
 
 ##### このやり方で困っている人に届くのか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 このやり方で困っている人に届くのか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 市民協働・男女参画推進課で配布するほか、公民館、図書館、大学、小・中学校にも配布を予定しているので、困った方に届くと考えている。
 
@@ -199,13 +199,13 @@ NPO団体からの話は把握していない。
 
 ##### 困っている男性は方っておいてよいのか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 困っている男性は放っておいてもよいのか。男女共同参画なら同じようにやればよいのでは。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 コロナ禍で困られている男性も多いと思うが、今回はこの生理用品の配布ということで、市民協働・男女参画推進課では女性への支援ということで補正予算に上げた。
 
@@ -213,31 +213,31 @@ NPO団体からの話は把握していない。
 
 ##### 事業を行う根拠は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 交通体系の整備事業に関しては当事者にヒアリングをしている。生理用品の配布事業について、エビデンスは何か。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 使い捨てを使わない人もいて、製品に対する嗜好もあると思われる中、市が提供する生理用品が、特に困っているような人たちに本当に有効なものなのか。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 生理用品に困っている人が、市が記載するような相談先が必要な状況なのか、そういう背景、根拠があってやっていることなのか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 3月下旬から4月にかけて近隣市で配布が始まり、一定程度配布が進んでいると聞いている。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 - 報道される中で、小平市へも問い合わせがあった
 - NGOで15歳から24歳までのアンケートを取り、親が買ってくれないという人が5%ほどいた、収入が少ないといった人が3割程度いた
@@ -262,19 +262,19 @@ NPO団体からの話は把握していない。
 
 ##### 個包装のマスクを配ることは検討したか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 相談先につなぐのだったら、たとえば、個別包装のマスクにシールを張って、連絡先などを記載して、そういうものを配った方が、より広く多くの人にもらってもらえるのではないか。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 マスクの検討はしたのか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 マスクについては今回検討していない。声を上げられないような困られた方が適切な相談先につながるよう、今後いろいろ研究していく。
 
@@ -282,13 +282,13 @@ NPO団体からの話は把握していない。
 
 #### 交通事業者の窮状について、国や都に手当を依頼しているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 交通体系整備支援事業については、ヒアリングで対象者から結構大変だという声が寄せられると思うが、国や都の方にはその手当を依頼しているのか。
 
 </div></div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 毎年、市の中で地域公共交通会議を開催しており、その中に
 - バス事業者
@@ -300,13 +300,13 @@ NPO団体からの話は把握していない。
 
 </div></div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 その中で、各事業者から困っている情報提供があり、市もそのあと押しをして国や都に伝えている。
 
 </div></div>
 
-<div class="balloon bl-right">都市開発部長（村田）<br><div>
+<div class="bln bright" data-speaker="都市開発部長（村田）">
 
 また、直接担当の方から国土交通省のほうに電話をして、ある程度そういう状況は伝えている。
 
@@ -315,37 +315,37 @@ NPO団体からの話は把握していない。
 
 #### 情報提供がない、遅いのはなぜか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 ワクチンは私は打たない方がよいと思っている立場だが、市民の多くは打ちたいと思っている。小平市は他市と比べて非常に情報提供も遅く、準備も遅い。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長は発信力が売りだったと思うが、なぜよそより遅れてしまうのか。また、市民に対しても議会に対しても、情報提供がない。なぜか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 市としては国や東京都の情報を的確にとらえて情報発信しようと考えて情報提供してきた。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 その中で、国の情報がよく変更になることがある。そのあたりの混乱等も考え情報提供を適宜してきた。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 また、ワクチンの納品状況等も勘案し、あまり早く情報提供すると混乱が起きるということもあり、ワクチン供給量等も鑑みながら適格に情報提供していこうと考えていた。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 周辺市と比べても情報が少なかったり遅かったりということはない。市としてどのような情報発信が適切かを含めて考えていきたい。
 
@@ -353,43 +353,43 @@ NPO団体からの話は把握していない。
 
 #### 毛色のまったく違う補正予算を、抱き合わせのようにして出した理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 3つ事業がある中で、1つ目は国庫支出金の新型コロナウイルスワクチン接種体制確保事業からお金が出ている。残りの2つは地方創生臨時交付金を使っており、市長の思いが強く出るような補正予算。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 なぜ一緒くたに、抱き合わせのようにして出しているのか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 事業の色合いが違うというのはそのとおりかもしれない。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 この段階で、この交付金を利用して事業化していこうと考えたものはこのタイミングではこの2つの事業であったことと、併せてワクチン関係については、早急に対応する必要があるということで、第4号とは分離して、第3号でまとめさせてもらった。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 ちょっとよく分からないが、今回3号で出したものを2つに分け、別にできないのか。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 議案が通りにくくなるところのだろうが、ずいぶん毛色が違うので。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 コロナ対策には、さまざまな分野がある。
 
@@ -402,14 +402,14 @@ NPO団体からの話は把握していない。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 事業化できるものを1本に、この第3号補正予算にまとめさせてもらった。
 
 </div></div>
 
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🤔 やはり単純に分けるべきでは
 
@@ -428,25 +428,25 @@ NPO団体からの話は把握していない。
 
 ##### 訪問介護と通所介護の利用者について
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 訪問介護と通所介護で、自宅から接種会場まで通う謝礼は。
 
 </div></div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 訪問介護系事業者については、該当者を迎えに行き、接種を受けてもらい、帰ってくるまでの同行支援で、1回当たり9,000円、300人、2回。
 
 </div></div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 通所事業所については、本人が通所施設を利用しない日に事業所の職員が本人を迎えに行き、接種を受けてもらい、帰ってくるまでの謝礼で、1回当たり6,500円、100人、2回。
 
 </div></div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 支払いは、行ったタイミングで、個別で。
 
@@ -454,31 +454,31 @@ NPO団体からの話は把握していない。
 
 ##### 福祉障害サービス利用者について
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 障害福祉サービスの利用者に対し、65歳以上で障害のある方に、同行支援、移動支援、行動援護の対象者に対し、事業を実施する。
 
 </div></div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 通所に関しては、日中活動系のサービスで、生活介護、就労移行支援事業、就労継続支援、放課後等デイサービスの中にも対象者がいる。
 
 </div></div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 単価は、介護と同様、訪問系は9,000円、通所系は6,500円。
 
 </div></div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 人数は、訪問系については、昨年の実績に対して8割ぐらいの260人を対象に、2回分。
 
 </div></div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 通所介護については、40の事業所に2人ほど想定し、80人、2回分。
 
@@ -486,25 +486,25 @@ NPO団体からの話は把握していない。
 
 ##### 医療従事者の接種状況を把握しないのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 医療従事者の接種状況は分からないと言ったが、把握している自治体もある。小平市は分からないのか。
 
 </div></div>
 
-<div class="balloon bl-right">新型コロナウイルスワクチン接種担当課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="新型コロナウイルスワクチン接種担当課長（櫻井）">
 
 大まかな状況は聞いている。5月中には多くの医療従事者の接種が進むと考えている。それ以上の細かい数字の算段は予定していない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 医療従事者からまず第一にやり、その次に高齢者をやると言っている。それが順次どういう数字になっているか公表するのは市の責任。把握してもらいたいが、どうか。
 
 </div></div>
 
-<div class="balloon bl-right">新型コロナウイルスワクチン接種担当課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="新型コロナウイルスワクチン接種担当課長（櫻井）">
 
 医療従事者のワクチン接種については、東京都で管理していることになるので、小平市として詳しい調査をする予定はない。これまでどおり、公立昭和病院、小平市医師会と情報交換する中で、概算としてどういう状況で医療従事者の方が進んでいるか把握していきたい。
 
@@ -512,19 +512,19 @@ NPO団体からの話は把握していない。
 
 ##### 副作用が出たときの補償と対応は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチンに関し、副作用が出た場合、その補償を市としてどう対応していくか。コロナワクチンだけではなく、ワクチン全体としても。
 
 </div></div>
 
-<div class="balloon bl-right">新型コロナウイルスワクチン接種担当課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="新型コロナウイルスワクチン接種担当課長（櫻井）">
 
 副反応の保証は、予防接種法に基づいた対応になるので、ほかのワクチンの予防接種と同様。
 
 </div></div>
 
-<div class="balloon bl-right">新型コロナウイルスワクチン接種担当課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="新型コロナウイルスワクチン接種担当課長（櫻井）">
 
 アナフィラキシーについては、中核的な3病院に、もし発生したら、なるべく診てもらう話はしている。東京消防庁に、救急車が来た時の対応についても相談している。
 
@@ -536,13 +536,13 @@ NPO団体からの話は把握していない。
 
 ##### どこに置かれるのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 生理用品は具体的にどこに置かれるのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 - 本庁舎1階の市民協働・男女参画推進課の窓口
 - 本庁舎2階の子育て支援課窓口
@@ -557,13 +557,13 @@ NPO団体からの話は把握していない。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 公共施設で設置がないところは。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 - 図書館分室
 - 地域センター19館
@@ -574,13 +574,13 @@ NPO団体からの話は把握していない。
 
 ##### 配布対象は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 生理用品の配布対象は。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 コロナ禍の影響におけるさまざまな事情で生理用品を用意できない方。
 
@@ -594,19 +594,19 @@ NPO団体からの話は把握していない。
 
 ##### すでに配布されている分はどうなるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 すでに防災備品として、4,500個（150袋分）は、白梅大学短期大学へ渡しており、東京都からの寄附5,400個（180袋分）は、市内3大学等に配布されているが、これらを本事業に反映した点は。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 1月に防災備品から渡した130パックは社会福祉協議会に渡して、ほぼ配布済み。3月の180パックはまだ少し在庫がある。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 立川氏では1日平均3個、西東京市では1日平均1.7個という数字があるので、小平市もそれを参考に算出している。
 
@@ -614,25 +614,25 @@ NPO団体からの話は把握していない。
 
 ##### 目的と手段がリンクしない
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 困っている女性に「情報がここにある」と知らせることが目的で、その手段が生理用品の配布ということだが、どうしてもそこがリンクできない。いろいろな市町村では、生理用品に困っている方に配布しているが。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 どっちが先なのか。本会議での質疑でもあったが、市長の87の政策があって、そこにくっつけてしまえ、という事業に思える。目的は何か。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 目的のひとつは、生理用品が買えない、あるいは親からもらえない背景に、ナイーブな声を出せない状況が潜んでいると感じている。そういった人たちが社会から孤立しないようにしていきたい。
 
 </div></div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🤔 答弁を聞いても、やはり、もっとよいやり方があるとしか思えません
 
@@ -646,19 +646,19 @@ NPO団体からの話は把握していない。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 私も、声に出せない子どもたち、女性たちの相談窓口、ここにこんな相談するところがあるよという事業は大切でやってもらいたいと思っている。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 しかし、一人でも多くの方に届けるのに、本当にこの生理用品で届くのか、大変難しいという気持ちはぬぐえない。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 小学校などではすでに虐待等に関するカードが全員に配られる状況。虐待やそういった中で過ごしている子どもが、家の電話を使ってそこに相談してくる確率は非常に低いと思う。
 
@@ -666,19 +666,19 @@ NPO団体からの話は把握していない。
 
 ##### 具体的にどう周知するのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 どういう風に相談窓口を周知するのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 生理用品30個入りのもの2パックをワンセットにし、袋などで見えないようにしたい。その中に相談先のカードを一緒に同封する形になる予定。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 カードは、次の相談先を明記したもの。
 
@@ -690,61 +690,61 @@ NPO団体からの話は把握していない。
 
 ##### 朝鮮大学校には配布しないのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 今ブームになっているので、どこの自治体でもこういう取組をしていることは分かったが、朝鮮大学校には配布しないのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 朝鮮大学校は含まれていない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 一条校ではないが、学生はいる。小平市の中で、各種学校、一条校、公立、私立、学んでいる人はたくさんいる。そういう人たち全員を対象にしてやらなければならない事業。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 これは本当に抗議したい。朝鮮大学がよいとか悪いとか、いろいろな考えを持っている人はいるが、学んでいる人は一緒。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 学生は一緒。国政、民族、多文化共生の社会をつくるんでしょう。それがこんなことをやってよいのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 市内でも22ヵ所の公共施設でも配布している。そういったところを利用してもらうことは可能と考えている。朝鮮大学校は今回については配布先になっていない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 朝鮮大学校を抜かしたのは、ブルーベリーリーグに入っていないからだと思う。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 この町に暮らしている人で、一条校ではないけど、大学に通っている学生を、ブルーベリーリーグに入っていないからという理由で排除するのはまずいのでは。検討してもらいたいが。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 大学に対しては、ブルーベリーリーグに加盟している大学に声をかけている。また、配ることも大切だが、コロナ禍における何らかの事情で買えない、もらえない、手にすることができない、という方が対象。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 だから大学生がすべてということではない。今回も朝鮮大学校の学生がこの制度を利用できないということにはならない。市内の公共施設を利用していただくことで、それは可能と考えている。
 
@@ -753,38 +753,38 @@ NPO団体からの話は把握していない。
 
 ##### より本質的な問題に小平市はどう対応するのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 今、大人食堂や子ども食堂、相談会をやると、通常の倍くらい人が来る。小平市として、そういう人たちをどうするのか。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 こういった事業をやると、「困った人に対応している」ということだけが取り上げられ、そこが抜け落ちてしまうことがすごく心配。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 生活困窮者に対するアナウンスを、生保も含めて、市報などでちゃんとやったらよいのではないか。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 生理用品1枚で10円や20円。それを飼うことができない、親からお金がもらえないほどに困窮している。そのことをどうしていくのかを考えないというのは本当に問題。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 私は2回目の定額給付金、限定してもよいが、それをやるべきと思っている。そういったことを考えるべきだが、どうか。
 
 </div></div>
 
 
-<div class="balloon bl-right"><br><div>
+<div class="bln bright" data-speaker="">
 
 ＊答弁なし（答弁もれ）
 
@@ -792,19 +792,19 @@ NPO団体からの話は把握していない。
 
 ##### 状況聴取等、実態の把握は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 この事業をするに当たり、状況聴取のようなことはするのか。今後したらどうか。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 配布を予定している小・中学校の児童・生徒、あるいは先生から直接アンケートを取ることはしていない。
 
 </div></div>
 
-<div class="balloon bl-right">市民協働・男女参画推進課長（松尾）<br><div>
+<div class="bln bright" data-speaker="市民協働・男女参画推進課長（松尾）">
 
 今後は、生理用品の配布を通して、相談につながったかどうか、事業効果があるかどうか、状況分析しながら検討していきたい。
 
@@ -812,13 +812,13 @@ NPO団体からの話は把握していない。
 
 #### 地方創生臨時交付金の残額は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 地方創生臨時交付金の残額は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 - 国から示された地方単独分の上限額は約4億2,500万円
 - 第2号補正で約5,400万円
@@ -831,25 +831,25 @@ NPO団体からの話は把握していない。
 
 #### 公共交通事業継続支援金の基準と金額は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 公共交通事業継続支援金の基準は。
 
 </div></div>
 
-<div class="balloon bl-right">公共交通課長（照井）<br><div>
+<div class="bln bright" data-speaker="公共交通課長（照井）">
 
 対象は、市内を運行する乗り合いバス事業者。市内に乗降可能なバス停のある路線を持っている事業者。本店、支店、営業所の所在地が市内にある法人タクシー事業者、個人タクシー事業者。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 公共交通事業継続支援金の金額は。
 
 </div></div>
 
-<div class="balloon bl-right">公共交通課長（照井）<br><div>
+<div class="bln bright" data-speaker="公共交通課長（照井）">
 
 バス事業者については次のとおりで、1事業者の上限150万円。
 
@@ -859,7 +859,7 @@ NPO団体からの話は把握していない。
 </div></div>
 
 
-<div class="balloon bl-right">公共交通課長（照井）<br><div>
+<div class="bln bright" data-speaker="公共交通課長（照井）">
 
 タクシー事業者については、
 

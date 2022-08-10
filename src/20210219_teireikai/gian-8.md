@@ -71,7 +71,7 @@
 
 [小平市：令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -114,65 +114,65 @@
 
 #### 基金に2億円積み立てている理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 一般会計から11億円繰入れ、基金に2億円積み上げている理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 令和2年度末に策定予定の経営戦略でも、基金の在り方は検討しているが、その中で、「下水道事業会計の内部に留保される見込みの現金がおおむね10億円を超える部分を積んでいきたい」と考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 令和3年度末で現金の残高が10億円をかなり超えており、その分で2億円を積み立てるもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 基金への積立金には、一般会計からの繰入金はまったく財源として入っておらず、すべて下水道使用料。
 
-</div></div>
+</div>
 
 #### 基金の今後は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 基金の今後は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 利益が今後上がり、それを基金に積み立てていく。残高のピークは、令和7年度から令和10年度あたりに30億円から35億円ぐらいになると見込んでいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 そこから令和12年度から令和19年度頃にかけて取崩しを行っていく。これにより企業債発行の抑制を図っていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 令和13年度から、老朽化対策工事の実施地区が、一般会計繰入金と下水道使用料の両方を財源とする合流地区から、一般会計繰入金が充当されずに下水道使用料のみを財源とする分流の汚水の地区というふうに変わってくる。ここで、財源が下水道使用料のみで行わなければならず、資金需要が急増するので、そこで使用料を積み立ててきた基金を取り崩し、企業債発行の抑制を図っていく。
 
-</div></div>
+</div>
 
 #### 未水洗世帯118世帯の状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 未水洗世帯が市内であと118世帯残っているが、状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 今日現在で、世帯数としては105世帯。進まない理由として、次を聞いている。
 - 空き家
@@ -181,150 +181,150 @@
 
 空き家は10世帯程度。
 
-</div></div>
+</div>
 
 #### 今後の雨水対策、浸水対策は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今後の雨水対策、浸水対策は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長（萩原）<br><div>
+<div class="bln bright" data-speaker="下水道課長（萩原）">
 
 分流区域における雨水整備率は、まだ約20％と低い状況だが、時間降雨50ミリの降雨に対する浸水シミュレーションでは、分流区域の面積に対しまして道路冠水が想定される面積は約6.7%。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長（萩原）<br><div>
+<div class="bln bright" data-speaker="下水道課長（萩原）">
 
 また、道路冠水以上の浸水が想定される面積については約0.5％で、公共下水が整備される前の在来管が浸水発生の抑制に寄与している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長（萩原）<br><div>
+<div class="bln bright" data-speaker="下水道課長（萩原）">
 
 今後のハード対策には膨大な費用と時間を要することから、浸水シミュレーションを活用し、在来管の効果を最大限に活用するとともに、対策地域の優先度と費用対効果を勘案した、効率的で効果的な計画を立て、対策を実施していきたい。
 
-</div></div>
+</div>
 
 #### 25周年を迎える下水道館の更新や新たな取組は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 令和3年に下水道館が25周年を迎えるということで、展示施設の更新や新たな取組は行うか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長（萩原）<br><div>
+<div class="bln bright" data-speaker="下水道課長（萩原）">
 
 館内の施設、展示物も古くなってきていることから、展示室の一部のリニューアルを今考えている。老朽化対策として行っている管更生工法の紹介のブースを設置し、下水道事業の必要性や大切さを伝えていきたい。
 
-</div></div>
+</div>
 
 #### 移行して2年の公営企業会計に関し、令和3年度の課題は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 下水道事業会計の見える化を図るため、令和元年度に公営企業会計に移行して2年が過ぎようとしている。令和3年度に何か課題があるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 現時点では経営状況は良好と判断しており、大きな課題はないと考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 ただ、過去に借り入れた企業債の償還が早く進んでおり、過去の世代の負担によって、現在の世代の負担が軽減されている。下水道整備が全国13番目と非常に早かったことから、集中的に投資した資産の老朽化が急激に進む一方、人口の減少による下水道使用料の減が予想されている。現在の良好な経営状況は他市よりも早くピークを迎えているとも言え、今後は悪化の一途をたどる見込み。現在の良好な経営状況をできる限り将来世代に引き継ぐためには、体力のあるうちに負担軽減のための対策を計画的に実施する必要があると認識している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 負担軽減の対策を考えていくとはどういうことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 今出ている経営上のもうけの部分を基金に積み立て、これを取り崩す時期がきたら、それによって企業債の借入れの抑制をし、将来世代の負担を軽減していくことを考えている。
 
-</div></div>
+</div>
 
 #### 雨水負担金が3,400万円増の理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 雨水処理負担金が、前年度と比較して3,400万円以上増えている。負担金の小平市の割合はどう決まるか。増えている理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 これは雨水の処理に係る一般会計からの繰入金で、令和2年度、令和元年度とも長雨だったり、令和元年度だと大型の台風が来たりで、この2年は雨水処理の量が非常に多く、年度末になって流用で予算を賄った。これは義務的な経費にもなってくるので、予算を厚めにしている。
 
-</div></div>
+</div>
 
 
 #### 流域下水道維持管理負担金について詳しく
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 流域下水道維持管理負担金の説明に、荒川右岸処理区や北多摩一号処理区と書いてあり、この分が計上されている。前年度と比較して約3,800万円の増ということだが、処理区等のことについて詳しく教えてほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 また、この負担金の小平市の割合はどういうふうに計算されるのか。それぞれの処理区にかけるお金だと思うので、毎年変わってくる金額か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 これは下水処理場での、流れていった下水の処理費用で、北多摩一号と荒川右岸という処理区があり、1立米当たり約38.7円の処理費用がかかってくる。先ほどの雨水処理負担金と同様、雨水の量を増やした関係で、流れていく量も増えることから、こちらの予算が増えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 維持管理負担金の積算は、汚水については排出量に応じて単価を掛ける。雨水については構成市の面積で案分。
 
-</div></div>
+</div>
 
 #### 令和3年の雨水浸透事業でどれくらい下水量を減らせるか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 雨水浸透分について、令和3年度に着工する分で、どれくらい下水に流れる量を減らせるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長（萩原）<br><div>
+<div class="bln bright" data-speaker="下水道課長（萩原）">
 
 合流地区については、現行の小平市下水道プランでも行っていた合流改善を、引き続き貯留浸透施設を設置していく予定。こちらは、令和3年度に基本設計を行い、その中で具体的な数字が出てくると思うが、現在の見込みでは、合流地区については270㎥から480㎥程度、また、分流地区においても、雨水貯留浸透施設で200㎥から400㎥程度ということで見込んでいる。
 
-</div></div>
+</div>
 
 #### 改良負担金とは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 改良負担金とは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 東京都が行う流域下水道事業に支払う負担金。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 流域下水道事業は、
 
@@ -334,45 +334,45 @@
 
 の3事業で構成されている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 このうち維持管理事業の収支がこれまで黒字で利益剰余金が累積しており、これまではこの利益剰余金を改良事業に充当することで、この改良事業における市町村負担がこれまでなかった。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 しかし、労務単価や動力費等の上昇により、近年は維持管理収支が赤字基調で、利益剰余金の枯渇が見込まれている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 流域下水道事業の安定的な今後の運営のためには、利益剰余金を改良事業へ充当することをやめ、令和3年度から新たに改良負担金として、市町村ごとに直接負担することに変更するもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 流域下水道全体の改良費のうち、市町村負担分を、全市町村で、それぞれ流入水量により案分する。
 
-</div></div>
+</div>
 
 #### 下水道使用料の値下げは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 下水道使用料の値下げは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">下水道課長補佐（小野）<br><div>
+<div class="bln bright" data-speaker="下水道課長補佐（小野）">
 
 全国的な傾向として、人口減少を迎える中、下水道管渠の老朽化が進むのは全国共通の課題。これから先、基本的に値下げは難しいと考えている。それをすると、将来にツケを回してしまうだけになる。このあたりは慎重に検討し、市民に納得いただけるような指標を用いるなど、経営の明確化、透明化を図りながらやっていきたい。
 
-</div></div>
+</div>
 
 </div>
 

@@ -85,26 +85,26 @@
 
 </div>
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ### 1. 本会議での主な質疑
 
 #### 利用者の活動の場は確保できているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 平成28年2月に出された「[小平市立花小金井南中学校地域開放型体育館施設建設及び小平市立花小金井武道館機能移転の基本方針](http://www.city.kodaira.tokyo.jp/kurashi/048/048110.html)」について、
 利用者の活動の場の確保はできているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">篠宮 文化スポーツ担当部長<br><div>
+<div class="bln bright" data-speaker="篠宮 文化スポーツ担当部長">
 
 今年度、武道館利用者の38団体・弓道場利用団体の3団体と話し合いをしてきた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">篠宮 文化スポーツ担当部長<br><div>
+<div class="bln bright" data-speaker="篠宮 文化スポーツ担当部長">
 
 次のことにより、一定のご理解をいただいていると考えている。
 
@@ -112,19 +112,19 @@
 - 4団体は人数不足で活動をやめる可能性があり、当分様子見
 - 3団体は現在活動をしていない
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">篠宮 文化スポーツ担当部長<br><div>
+<div class="bln bright" data-speaker="篠宮 文化スポーツ担当部長">
 
 施設の民間借り上げは引き続き調整中。武道館近くでも卓球等にも利用できると調整がついていたが、コロナ禍で民間の貸出もしていない状況。コロナ禍が過ぎれば利用できるかと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">篠宮 文化スポーツ担当部長<br><div>
+<div class="bln bright" data-speaker="篠宮 文化スポーツ担当部長">
 
 平成26年に、目標耐用年数40年も過ぎている。大地震が来ても安全に利用できるよう一部改修はしているが、建物全体の延命措置はしていない。その辺も含め、武道館の閉鎖に至っている。
 
-</div></div>
+</div>
 
 
 ### 2. 付託委員会での主な質疑
@@ -135,41 +135,41 @@
 
 #### 武道館と中央公民館のIs（構造耐震指標）値は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 花小金井武道館の現状のIs値と、取り壊しが決まっている中央公民館のIs値は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 花小金井武道館は0.24だった。中央公民館は平成28年2月時点で0.38。現在の数値は把握していない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 平成29年に耐震補強をし、0.6になったのではないか。0.24ではないはず。悪意を感じる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 耐震診断の結果は0.24だった。その後、耐震補強をして、Is値が0.6を超えるように補強している。現状のIs値は調べていないので分からないが、0.6を超える工事をした。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 0.6以上であれば倒壊するおそれは低い。急ぐことはないのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 目標耐用年数をかなり経過した建物。令和2年度中に解体設計もすでに終了している。速やかに解体するものとして、現在進めている。
 
-</div></div>
+</div>
 
 <div class="tips" id="Is値とは">
 
@@ -211,29 +211,29 @@ I<sub>s</sub> = E<sub>0</sub> × S<sub>D</sub> × T
 
 #### 平成31年に全会一致で採択された請願を無視しているのでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 平成31年に、武道館の継続利用についての請願が出た。この請願は全会一致だったが、無視しているのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 移転に伴う御利用者様や団体の御不安に対し、円滑に移行できるよう努めており、利用時間枠を調整する中で、これまでどおり活動が継続できるよう丁寧な対応をしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 継続利用を望む利用者の声や要望として承っているが、利用者に配慮してできるだけ長く継続利用させてほしいという願意があった。これについては、今後の活動の場の確保の御要望と市としては理解をし、利用者が活動の場に困らないよう、十分な配慮に努めた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 武道館を残すことになると、花小金井南中学校と二重に建物が存在することで、コストが二重にかかるため、どちらかひとつにする必要がある。それが公共施設マネジメントの考え方。コストの関係からも、理にかなっていると考えている。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="請願「花小金井武道館の継続利用について」の中身">
@@ -262,69 +262,69 @@ I<sub>s</sub> = E<sub>0</sub> × S<sub>D</sub> × T
 
 #### 武道館を設置した際の先人の思いや背景を把握しているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 この武道館が設置されたとき、単独の設置条例があったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 明確にあったかどうかは、分からない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 体育館ではなく、どこの市にあるものではない武道館が、小平市に設置された理由の原点は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 当時、武蔵野神社のところに小学校の分校があった経過も聞いており、そのような流れから、何か運動施設ということで、武道場のような形の施設がつくられた認識。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 そういうことは事前に調べないのか。運動施設の中でも武道館、そこに設置したときの思いがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 長年市民に親しまれ利用されてきて、しかも代替施設がない。武道館というのは市内にここ1個しかない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 武道館と名づけて武道館を設置した先人の思いがあるはず。壊そうと思うのなら、そのぐらい調べるべき。それをしないのは先人に対して失礼だし、私は乱暴な行政だと思う。情がない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 利用者が快適かつ安全に利用できる施設環境を確保し、市民の体育、スポーツの振興を図る、としている。サービス内容としては、市民の体育、スポーツレクリエーション、そのほかの社会体育と、健康で文化的な市民生活の向上の場の提供を目指したもの。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 また、昭和50年に建てられた当時はまだ市民総合体育館がなく、市全体のスポーツ人口の増加に対応するために建築したものと理解している。
 
-</div></div>
+</div>
 
 #### 総合体育館と、武道館の、歳入と歳出の差は
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市民総合体育館と、武道館の、歳入と歳出の差（コストと利用料収入）の差は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 市民総合体育館については指定管理に出しており、今手元に歳入歳出の資料がない。
 
@@ -333,245 +333,245 @@ I<sub>s</sub> = E<sub>0</sub> × S<sub>D</sub> × T
 - 使用料歳入：308万2,875円
 - 歳出（維持管理費）：1,071万4,305円
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 公共施設マネジメントの中でやっているのだから、答えられないなら公共施設マネジメント課も出席してほしい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 申し訳ございません。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 歳入歳出の差は約760万円。市民総合体育館のほうがその差は莫大なはず。億近いのでは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 たかだか760万円。しかも、先人の思い、設置されたときの経緯、そういったものが分からず、思いを酌むことなく、非常に冷たい行政と私は思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 こういうことをやっていると、のちのちの公共施設マネジメントに大きな影響が出る。今後もこういうやり方でやっていくのか。そんな公共施設マネジメントは、市民には賛同されない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 血が通った行政に私はしてほしい。情の話をして悪いが、相手にしているのは市民。情で動く。そのあたりはどう捉えてこれまでやってきたか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 これは、今生きている人だけの話をしているわけではない。民主主義だといって、今、生きている人の中で多数決をやって、それが正解だと思っているけれども、亡くなった人の思いや、これから生まれてくる子どもたち、孫たちのためにも考えて判断をするのが政治の仕事。そこをなくして、今生きている人たちだけで、全員参加して多数決をやったって、そんなの私は民主主義じゃないと思う。そういうことも踏まえて、行政の在り方としてどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 今回請願を受けて、私どもも十分重くは受け止めている。その対応として、請願によって、市民の方とよりきめ細かなお話をさせていただくことができた。その中で、各団体の今後の活動の継続性を考えると、新たな体育館で、当初から活動を再開していただくことにより、活動における曜日や時間帯などが定着し、継続的な活動が今後も確保されていくものと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 耐震補強は実施しているものの、老朽化に伴う延命化工事は実施していない。たとえ延命化工事をしても、どの程度の期間、安心して利用できるか不明。また、次世代への負担を先送りしないよう、公共施設に係る負担を減らしていくことも大切な視点。
 
-</div></div>
+</div>
 
 #### 署名をした方々の思いを酌んでいないことをどう捉えているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 請願の趣旨は、継続して武道館を利用させてくれということ。「代替の活動の場をください」というものではない。これに1,400余名の署名もついている。利用者でない方もおそらくいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 「武道館がなくならないよう継続して使えるように請願を出すので、署名してください」と言われればする。そういう人たちの思いは酌んでいない。利用者の方だけと話し合ったと。それをどう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 基本方針を作成する際、パブリックコメントなりを行っており、利用者以外の声も伺って進めてきた経緯がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 パブリックコメントをやったから利用者以外の声も聞いているというのも乱暴。どんなパブリックコメントをやっているかなんて、市民のほとんどが知らない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 それを錦の御旗みたいにして、免罪符にして、市民の意見を聞きましたと言って乱暴なことをやるという行政は、市民意見の尊重でも何でもない。声なき声だって受け止めていかなくちゃ。この武道館の廃止、解体には、そういう小平市の冷たい行政と、市民意見を聞きましたというおためごかし、これに満ちあふれています。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 1,400人の署名をしてくれた人とパブリックコメントは、何も関係ない。1,400人は、引き続き利用をさせてくださいという趣旨で署名している。利用団体とただ話をすればよいというだけではないと私は思う。本当にそういう行政のやり方をやっていてよいのか。
 
-</div></div>
+</div>
 
 #### すぐ新市長に交替するのに、今、政策的な判断をする理由は
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 今年度予算は、政策的なことについては新しい市長に判断を委ねるため、骨格予算として立てている。しかし、武道館を壊すというのは非常に政策的。その政策的なことを、最後っぺのように、最後に予算づけをしたり、条例を改正してから辞めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 こんな政策的なことは、新しい市長の意向を酌む形でやるべき。最後っぺという言葉は悪いかもしれないが、言い換えられる言葉が見つからない。なぜこういうことをするか。私は非常に理解に苦しむが、納得できる説明を。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 平成28年2月に基本方針を策定し、その後、平成31年2月に実行プログラムにおいて、公園に向けた整備の方向性を示している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 その後、解体設計も終了し、花小金井南中学校地域開放型体育館も完成し、利用団体についても、ほぼすべて移転できる見通しも立っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 武道館は、目標耐用年数を経過していることもあり、解体を速やかに進めることで、骨格予算に上げている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 政策転換もあり得るのが市政であり、行政。その政策転換に大きく関わるのは、行政のトップである市長。それがもう目前に変わろうとしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 議会もこの問題に関しては反対意見がかなりある中で、なぜやろうとするのか。多数決で押し切ればよいという話ではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 数ヵ月、延ばせばよい話。これは非常に傲慢なやり方。市長選挙というのは、市民が最も多く参加する市民参加の場所で、パブリックコメントなんて話にならない。40%切るような投票率であっても、市民の30数%が参加するパブリックコメント、意見交換会、説明会はない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 最も多くの市民が意思を示すのが市長選挙なんだから、その結果が出る前に大きな政策判断が伴うようなことをやってはならない。そういうことを重く受け止めているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 長い時間をかけて検討してきた。その中でさまざま準備をし、来年度、新たに公園整備等も予定されている。その辺のスケジュールを鑑み、トータルに考え、今回の条例での廃止と予算を計上している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 給食センターだってずっといろいろ計画し、あれこれうまくいかず、計画変更している。そういうこともある。間違っているとか、反対意見があまりにも多いとか、転換理由があれば、それはスケジュールに沿ってやっているから押し切りますみたいな話ではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 これまでいくらお金をかけてきたことでも、将来にわたって考えたら、ここでやめたほうがメリットが大きいというようなことだったら、途中でやめることだってありだし、それを潔くやめるとか、立ち止まるとか、そういったことをやっていかないと、私は行政として大きな間違いを犯すもとになると思う。そのあたりは理解いただけないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 市において、さまざまな施策、政策等を実現していくとき、立ち止まることも一方で必要ということは認識している。コロナ禍で芝生化なども中止をしている。ただし、この花小金井武道館については、長い時間をかけて準備をしてきたので、最後の集大成として、今回このような対応とした。
 
-</div></div>
+</div>
 
 #### 新市長が方向転換した場合どうなるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 新市長が方向転換を唱えた場合、どういう手続になるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 備品の移動等しており、運営費の予算もないので、4月1日からは臨時休業の扱いになる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 その後、新市長が、そのまま継続するとした場合には、耐用年数が経過したことによって廃止、閉鎖した施設なので、安全性のチェックが必要となる。その安全性の結果から、補修、工事が必要になると想定している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 その後、安全性が確認され、また不足した備品が補充され、運営費の予算措置なども整った段階で、営業を再開する手続になると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🕵 この手法でよい
 
 この手法であれば、新設も不要で、一番お金がかからないと思います。延命化は検討すらしなかったということで、伊藤議員が言うように署名された方々の思いなど、どこに行ってしまったのでしょうか。
 
-</div></div>
+</div>
 
 #### 個人利用者の受け皿は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 花小金井武道館では、今、個人利用ができるが、花小金井南中学校地域開放型体育館では個人利用ができない形になる。今現在、個人利用をされている方は何名か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 令和元年度は5,424人の利用。基本的には、団体利用していない時間を個人利用で使える制度で、個人利用枠は少ない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 個人で利用される方は、花小金井武道館にこだわらず、近隣のスポーツ施設の利用をお願いしたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 個人利用の方には、近隣のスポーツ施設を御案内できるということでしたが、近隣のスポーツ施設としては、どういうところがあるのか確認させてください。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 小金井市、西東京市、東久留米市にスポーツセンターがございますので、そちらを御利用いただくことになろうかと思います。
 
-</div></div>
+</div>
 
 <div class="tips" id="小平周辺市のスポーツ施設
 ">
@@ -642,70 +642,70 @@ I<sub>s</sub> = E<sub>0</sub> × S<sub>D</sub> × T
 
 #### 市民総合体育館までの移動が大変ということに対して見解は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 弓道連盟の会員は現在95人。市民総合体育館までの移動が大変で、自分で車を運転されない、電車、バス、自転車などで、30分ぐらいかけて移動しなければならない方が24人。その内、9人は退会を考えているとのこと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 何とかして弓道を続けたいので、頑張って通うと言っている方もいる。それがいつまで続けられるか、来年4月にどうなっているか不安というご意見もある。市はどう考えるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 たしかに距離があり、大変というとそうかと。できれば引き続き、弓道を楽しんでいただきたい。また小平市の東側地域については、小金井公園もしくは近隣の市で弓道場を持っている体育施設もあるので、そちらで個人利用できることは確認が取れている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 市民総合体育館を含めた広域な施設利用で弓道の継続をしていただきたいと考えている
 
-</div></div>
+</div>
 
 #### 今後、体育施設を新設する可能性はあるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 この条例の改正は、体育施設をひとつ減らすこと。今後、体育施設を増やす可能性は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 体育施設の新設は現在未定。今後、市の財政状況を見ながら、庁内で考えていく必要がある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長（篠宮）">
 
 公共施設マネジメントで、今後、新規整備は原則行わない、というところは変わらない。施設の更新は複合施設とするというところもあり、今後考える機会はあると考えている。
 
-</div></div>
+</div>
 
 #### 安全性からいっても継続利用は可能では、再度確認
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 大まかな耐震補強がしてある。4月からすぐに廃止しなきゃいけない理由として、それほど危険ではないと思うので、継続利用は可能ではないかと思うが、再度どうか。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 耐震補強はしたが、施設の老朽化は止まったわけでなく進んでいる。その辺で、安全性のレベルを維持するためには、より一層の手入れが必要。今、大丈夫だから、この先も大丈夫ということではない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">文化スポーツ課長（島田）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ課長（島田）">
 
 構造上、劣化の程度の判定が非常に難しい。目標耐用年数を経過したものについては、閉鎖する考え方の下、長く使えるような検討は具体的にはしなかった。
 
-</div></div>
+</div>
 
 
 ## 付託委員会での取り扱い

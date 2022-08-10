@@ -52,7 +52,7 @@
 
 ## 資料
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -106,31 +106,31 @@
 
 #### 地方交付税が予算に対し5億7,100万円増の理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 地方交付税が予算に対し5億7,100万円増の理由は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 地方交付税は、国が想定する各自治体の支出想定額（需要額）と収入想定額の差額が、地方交付税と臨時財政対策債として自治体に入って来る。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 支出について、市の見立てより国の見立ての方が約11億5,000万円多い額で算定された。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 収入について、市の見立てより国の見立ての方が約3,000万円多い額で算定された。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 合計で約11億円の分が、地方交付税で約5.7億円、臨時財政対策債が約5.3億円として配分された。
 
@@ -140,13 +140,13 @@
 
 ##### 金額の内訳は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 金額の内訳は。
 
 </div></div>
 
-<div class="balloon bl-right"><br><div>
+<div class="bln bright" data-speaker="">
 
 - 設置にかかる費用（設計・工事）：3億800万円
 - 15年間のランニングコスト：2億7,900万円
@@ -159,19 +159,19 @@
 
 ##### 冷暖房設備の設置スケジュールは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 冷暖房設備の設置スケジュールは。
 
 </div></div>
 
-<div class="balloon bl-right">教育総務課長（市川）<br><div>
+<div class="bln bright" data-speaker="教育総務課長（市川）">
 
 本年中に設計委託を計上し、小・中学校の実施設計まで含めたところの整理をする。
 
 </div></div>
 
-<div class="balloon bl-right">教育総務課長（市川）<br><div>
+<div class="bln bright" data-speaker="教育総務課長（市川）">
 
 工事施行は、全27校分設置で業務量が多く、3期に分けてイメージしている。
 
@@ -183,31 +183,31 @@
 
 ##### 活用するとしている緊急防災・減災地方債の詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 緊急防災・減災地方債事業を活用するということだが詳細は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 確定ではないが、それを使いたいということで、これから申請する。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 市債となるが、工事の対象となるもの、ならないものがある。基本設計は対象にならないが詳細設計は対象になるなど細かいルールがある。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 対象となるものは3割分が市の負担。それ以外でもともと地方債の対象とならないものも市の負担となるものを今回計上している。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 つまり、3割分プラスアルファの工事費として考えている。
 
@@ -215,13 +215,13 @@
 
 ##### ランニングコストの詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ランニングコストの詳細は。
 
 </div></div>
 
-<div class="balloon bl-right">教育総務課長（市川）<br><div>
+<div class="bln bright" data-speaker="教育総務課長（市川）">
 
 類似団体の数値をもとに、15年間分として、次で算出。
 
@@ -232,13 +232,13 @@
 
 ##### 動力源はガスか電気か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 冷暖房の動力源はガスか電気か。
 
 </div></div>
 
-<div class="balloon bl-right">教育総務課長（市川）<br><div>
+<div class="bln bright" data-speaker="教育総務課長（市川）">
 
 決定していない。今後設計委託の中で詰めていく。
 
@@ -248,19 +248,19 @@
 
 ##### 詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 商工会が行う年始キャンペーンの詳細は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 他市の事例もよいということからスクラッチカードを500円以上のお買い上げに対し、1回に1枚進呈する。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 配布期間は令和4年1月1日から2月5日まで。使用期間は1月1日から2月15日まで。
 
@@ -268,13 +268,13 @@
 
 ##### 予算1億円の内訳は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 予算1億円の内訳は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 まだ見積もりの段階だが、大体の金額で、
 
@@ -290,13 +290,13 @@
 
 ##### 対象となるには商工会員になる必要があるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 以前の事業では事業者に商工会員になってもらい5,000円をもらうということがあったが、今回はあるか。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 前回は商工会に手弁当でやってもらったので、対象が基本的に商工会員だった。今回は人件費や手数料を出しており、市全体の事業者が対象で、商工会非会員でも5,000円を取るといったことはない。
 
@@ -305,25 +305,25 @@
 #### モバイルWi-Fiルーター貸与事業について
 
 ##### 詳細は
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 モバイルWi-Fiルーター事業の詳細は。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 GIGAスクール構想の1人1台端末は今年度から活用を初めており、持ち帰りは令和4年度からを予定。その中で通信環境が整っていない家庭に今回購入するWi-Fiルーターを無償で貸与する。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 通信費は家庭に負担していただく。経済的に困難な家庭については、通信費の一部負担を、就学援助などの制度で負担できないか検討している。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 Wi-Fiルーターの台数は、約1,700台。国から10分の10の補助があり、1台上限1万円まで出る。就学援助の人数が基本的な国の対象経費となっており、小平市の場合約1,700人。
 
@@ -331,13 +331,13 @@ Wi-Fiルーターの台数は、約1,700台。国から10分の10の補助があ
 
 ##### 通信契約はどうなるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 Wi-Fiルーターの通信契約はどうなるか。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 各家庭で自由に契約してもらう。市としては、特定の業者への利益供与にならないよう気を付けながら参考例として示していく。
 
@@ -345,19 +345,19 @@ Wi-Fiルーターの通信契約はどうなるか。
 
 #### ICT支援員が不足しているのでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ICT支援員が不足しているのでは。
 
 </div></div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 ICT支援員の主たる職務はICT活用場面における技術的な支援。おそらく支援員が不足しているというのは、授業場面において子どもたちを直接支援する学習補助員等かと。
 
 </div></div>
 
-<div class="balloon bl-right">教育指導担当部長（国冨）<br><div>
+<div class="bln bright" data-speaker="教育指導担当部長（国冨）">
 
 年度当初はクラスルームの作成を手伝ったり、Googleフォームによる出欠席の票を支援員がつくり、それを学校で活用できるような具体的な支援を行っていた。こういった支援の状況について、現在特に不足していることはない。
 
@@ -365,19 +365,19 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 
 #### 新型コロナウイルス感染症対応地方創生臨時交付金は使い切ったか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今回で国の第三次補正予算の臨時交付金は使い切ったか。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 令和2年度に地方単独分として決定され繰り越した分は、今回の8号補正で予算的にはすべて計上した。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 本会議の方で企画政策部長から答弁したとおり、臨時交付金のうち都道府県に交付されていた事業者支援の枠が市町村の方に下りてきた。そちらは現在調整中。
 
@@ -386,13 +386,13 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 #### 小川駅西口新公共施設取得事業費の債務負担行為について
 
 ##### 新公共施設とは
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 新公共施設とは。
 
 </div></div>
 
-<div class="balloon bl-right">公共施設マネジメント課長補佐（横山）<br><div>
+<div class="bln bright" data-speaker="公共施設マネジメント課長補佐（横山）">
 
 小川駅西口の再開発でできる再開発ビルの4階と5階を取得し、次が移転してくる施設のことを新公共施設と言っている。
 
@@ -404,13 +404,13 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 </div></div>
 
 ##### 35億円の内訳は
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 35億円の内訳は。
 
 </div></div>
 
-<div class="balloon bl-right">公共施設マネジメント課長補佐（横山）<br><div>
+<div class="bln bright" data-speaker="公共施設マネジメント課長補佐（横山）">
 
 - 4階と5階の床取得：約25億円6千万円
 - 内装工事費：約10億2千万円
@@ -421,25 +421,25 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 
 #### 報酬審議会の詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 報酬審議会の詳細は。
 
 </div></div>
 
-<div class="balloon bl-right">総務部長（白倉）<br><div>
+<div class="bln bright" data-speaker="総務部長（白倉）">
 
 来年の3月に1回、4年度以降に4回の計5回を想定。
 
 </div></div>
 
-<div class="balloon bl-right">総務部長（白倉）<br><div>
+<div class="bln bright" data-speaker="総務部長（白倉）">
 
 審議会委員は条例で10人となっており、これまで公募委員は入れていなかったが、今回は2人入れる予定。
 
 </div></div>
 
-<div class="balloon bl-right">総務部長（白倉）<br><div>
+<div class="bln bright" data-speaker="総務部長（白倉）">
 
 - 議員報酬
 - 市長
@@ -452,13 +452,13 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 
 #### オリパラ基金の使い道は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 オリパラの基金約5,280万円あり、本会議で、子どもたちに還元できる施策を考えているということだったが、具体的な施策は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 現在検討中。
 
@@ -466,13 +466,13 @@ ICT支援員の主たる職務はICT活用場面における技術的な支援�
 
 #### 公園の補修は市内事業者が担っているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 公園の補修は市内事業者が担っているか。
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 ブランコのチェーン部分はメーカーの指定があり市外事業者。そのほかの砂補充、再塗装はすべて市内事業者。用水路の修繕も市内事業者。
 

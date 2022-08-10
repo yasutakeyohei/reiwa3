@@ -46,7 +46,7 @@
 
 ## 資料
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -89,25 +89,25 @@
 #### 自宅療養者への支援事業について
 
 ##### 都のフォローアップセンターから自宅療養者へ支援物資が届いていない状況の詳細は
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 東京都の自宅療養者フォローアップセンターから支援物資が届いていない状況を詳しく。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 流れとしては、各医療機関で陽性となった方について医療機関から発症届が保健所に提出される。その提出を受け、東京都フォローアップセンターに連絡が行き、手続きを取る。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 現在、保健所においても、発症届が出てから本人に連絡するまで3日以上かかっていると言われている。その関係でフォローアップセンターに連絡がいくのが時間がかかっていると認識している。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 食料品の支援がフォローアップセンターから送られるまで5日程度かかっているのが実情で、その間を埋めるため市の方で対応した。
 
@@ -115,13 +115,13 @@
 
 ##### これは市独自の事業か
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 この事業は、国や都の指示ではなく市が独自に行う事業という認識でよいか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 市の独自で行っている。保健所、小平市医師会にも意見を機器、周辺市にも情報提供した。これをきっかけで各市でも実施したり検討したりしていると聞いている。
 
@@ -129,19 +129,19 @@
 
 ##### 国や東京都から費用の手当はなされるか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 一部重症化される方もいるが、ほとんどの方が無症状化風邪のような軽い症状。この事業にかかる費用は市が全額を一般財源から出しているが、濃厚接触の定義や、自宅療養の方針を決めるのは都であるのに、負担に関しては市ということが非常に理不尽に感じる。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 今後国や東京都からこれらの費用に関して手当がなされるのか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 保健所から濃厚接触者と言われている方を対象としている。市の一般財源からというのはそのとおり。国や東京都に引き続き（手当を）要望していきたい。
 
@@ -149,13 +149,13 @@
 
 ##### 現在の支援状況は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 支援の状況は。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 自宅療養者は8月20日前後で323人。9月5日時点で208人。支援の送付総数は112箱。世帯数では62世帯。
 
@@ -163,13 +163,13 @@
 
 ##### こういう支援があると気付かない人が半数以上いるのでは
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 ホームページなどを見ない人がいるということか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 各診療所、保健所に、この事業があることを紹介してもらっている。食糧支援を必要としていない人もいると認識している。東京都からの送付を断っている人もいるとのこと。
 
@@ -177,13 +177,13 @@
 
 ##### 自宅療養者にアンケート調査はしたか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 アンケート調査はしたか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 していない。基本的に、保健士が、電話を受けた際に困りごとを聞き、必要な部署につないでいる。
 
@@ -191,13 +191,13 @@
 
 ##### 都に、自宅療養者の情報をもらえるよう要望しているか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 そういう人たちの情報を東京都にもらえと思うが、どう考えるか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 氏名や住所は知らされていない。市長会などを通して要望している。
 
@@ -205,13 +205,13 @@
 
 ##### 1人当たりの費用と想定人数は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 1人当たりの費用は。何人を想定しているか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 送料込みで1万円程度。総額は2,900万円と大きいが、10月1日から半年分、1日16人分を想定。市内で多いとき40人前後なので、その4割程度を想定。
 
@@ -219,19 +219,19 @@
 
 ##### 事業自体はよいことだが、議会に諮らず新規事業に予備費を充当することの問題を認識しているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 自宅療養者の支援事業は、私も6月定例会で質問し要望したのでよいことだ。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 しかし、臨時議会も開かず、専決もやらず、予備費で充当することがどこまで許されるのか。議会制民主主義では乱暴な手続きと思っているが。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 基本的には、予算に計上し実施することが原則。当初予算の中で予備費として毎年計上し、本年も1億円程度ある。議会に諮る時間がないときに活用している。
 - 急激に在宅療養者が増えた
@@ -243,13 +243,13 @@
 
 ##### 専決にしなかった理由は
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 専決でもよかったのではないか。専決ではなく予備費で対応した理由は。これは、新しいこと。議会に諮らずやることがありなのか。地方行政として問題があると考えるが、そのあたりの認識は。よいことはやっているが。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 専決も選択肢としてある。ただ、執行する段階では議会に諮ることにならず、のちほど認めてもらうことになる。そのあたりは考えどころと思うが、今回は専決ではなく予備費の活用で判断した。事業の性質や規模に応じて判断していくべきものと考えている。
 
@@ -257,13 +257,13 @@
 
 ##### 市は、都から情報をもらえると困るという姿勢か
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 情報をもらっても困るということなのか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 個人情報等が提供されて特に市が困るところはない。一番難しいのは医療的ケアをどうしていくか。
 
@@ -272,13 +272,13 @@
 #### 新型コロナウイルスワクチンの接種会場について
 
 ##### 新しい接種会場はいつまで借りるか
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 新型コロナウイルスワクチンの効果は6ヵ月くらいと言われている中、新しい会場はいつまで借りたか。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 今回の補正予算では12月までを予定。文化学園は当初9月末までと考えていた。医師会の方でも、土日にミニ集団接種をしている。現在のワクチンの供給規模では、この体制でいけるものと考えている。なお、当初から接種が9月で終わるとは認識しておらず、国からも来年2月末までとされていた。
 
@@ -286,13 +286,13 @@
 
 ##### 接種会場を借りる期間が終わったあとはどうするか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 ブリジストンも終わった後は借り続けることができるのか、それとも新しいところを探すのか。
 
 </div></div>
 
-<div class="balloon bl-right"><br><div>
+<div class="bln bright" data-speaker="">
 
 12月以降もブリジストンと調整していくことになる。東京都からは15クール、9月末までの供給が示されている。それ以降が未定となっているため、1月からは大規模ではなく個別だったり、医師会のミニ集団接種で可能かなどを検討していくものと考えている。
 
@@ -300,13 +300,13 @@
 
 ##### 市として集団接種を続けていけるか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 集団接種を永遠にやり続けることは、市のマンパワーとして可能か。
 
 </div></div>
 
-<div class="balloon bl-right">文化スポーツ担当部長兼健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 人員的には厳しい状況。時間外労働になる日も多くある。精いっぱいやっているが、ずっと続くとなると難しい。庁内で相談しながら進めていく。
 

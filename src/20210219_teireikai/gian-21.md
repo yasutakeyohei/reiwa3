@@ -60,7 +60,7 @@ PCR検査は偽陽性率が高いため、むやみに行うべきではない�
 
 [令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -95,51 +95,51 @@ PCR検査は偽陽性率が高いため、むやみに行うべきではない�
 
 #### PCR検査の単価と、令和2年度の執行率は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 PCR検査の単価はいくらで、令和2年度のPCR検査の執行率は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 障害の方は単価2万円。実績は3月18日時点で2事業所で5万1,275円、執行率は0.15%。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 介護の方も単価2万円。実績は3月18日時点で35事業所で490万円、執行率は1割弱。
 
-</div></div>
+</div>
 
 #### 介護と障害だけが対象か
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 介護と障害だけが対象か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">障がい者支援課長（岡田）<br><div>
+<div class="bln bright" data-speaker="障がい者支援課長（岡田）">
 
 市区町村との共同による感染拡大防止対策推進事業で、名前のとおり介護や障害だけではなく、ほかのスキームで補助対象になるものもあるが、今回は、障害と介護の2つの事業を活用して行う。
 
-</div></div>
+</div>
 
 #### 利用者も対象か
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 利用者も対象か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 利用者も含む。ただ、今まで利用者の例はなく、おおむね職員。
 
-</div></div>
+</div>
 
 
 

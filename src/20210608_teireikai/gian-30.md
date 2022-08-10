@@ -51,7 +51,7 @@
 - [議案第31号資料](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1228&schedule_id=50&minute_id=1&is_search=true)
 - [議案第32号資料](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1228&schedule_id=54&minute_id=1&is_search=true)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議）
 {{#include ../partials/situgi-note.md}}
@@ -75,73 +75,73 @@
 
 #### 報酬や謝礼はどうなっているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 この人権擁護委員の方々の御活動は、人権・身の上相談や学校への啓発活動。無償でしていただき、大変ありがたいと思っている。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 委員会への参加で報酬は出るか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 委員会等への出席に対し、報酬や謝礼はない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 これだけの活動をして、一切報酬や謝礼はないのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 毎月1回、市で実施している人権・身の上相談に対応していただいた場合は、1日につき3,960円支払いしている。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 また、年に1、2回回ってくる、法務局主催の、法務局で行う人権相談等については、聞いているところでは、1日で4,500円程度出ると聞いている。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 そのほかの会議への出席等については、謝礼は出ない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 ボランティアでよいのかと逆に思う。審議会の委員は1回2時間出るごとに1万2,000円もらえる。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 人権に関わる仕事がこんなに軽んじられてよいのか、担当者としての考えは。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 人権擁護委員の職務は、おっしゃるとおり、非常に近年重要さを増している。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 人権擁護委員法には、人権擁護委員には給与を支給しないという条項もある。ただ、「予算の範囲内で職務を行うために要する費用の弁償を受けることができる」という規定も併せてある。これに基づいて法務局なり市でも謝礼という形で支払いをしている。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 他市でも、まったくそういった謝礼を払っていないところもあれば、もう少し額の高いところもある。そういった状況も踏まえながら、必要に応じて、額については考える機会があると考えている。
 
@@ -149,13 +149,13 @@
 
 #### コロナ禍での活動状況は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 令和2年度は、4月から人権・身の上相談をコロナ禍の関係でされておらず、学校のほうにも啓発活動にも行けていないかと思うが、委員会も含めて開催状況は。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 新型コロナウイルス感染症拡大の影響を受け、人権・身の上相談や東京法務局の府中支局における相談は、いずれも年度を通じて休止。5月に開催の、多摩東人権擁護委員協議会の総会は、書面で開催。第三部会の会議は、6月の第1回は中止、10月の第2回と令和3年2月の第3回の会議は、書面で開催。
 
@@ -163,25 +163,25 @@
 
 #### ワクチン接種に関する人権侵害に対応してはどうか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 人権に関する問題として。新型コロナウイルスのワクチンを受けられない人、受けたくない人がたくさんいるが、そういった方々へ強制的な圧力を生じさせるような相談が私の方にも来る。もしその相談を受けて対処したら、ワクチンを受けていない方への差別につながってしまうような内容だ。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 ワクチンを受けられない方々や、受けたくない方々の人権を侵害しないよう、啓発活動をしてはどうか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 そういったものについては、啓発活動の強調事項としてさまざまなものがある。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 ひとつは、感染症に関連する偏見や差別をなくそうというものが一項目ある。具体的には、
 
@@ -193,7 +193,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 感染症に関する正しい知識を持ち、偏見、差別等の防止や正しい情報の選択と冷静な判断が重要であるとの理解を深め、偏見や差別を解消していくことが必要という内容で、啓発活動の強調事項として一項目上げられている。
 
@@ -201,13 +201,13 @@
 
 #### ワクチン接種に絡む人権侵害に対し、担当課はどう考えるか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 今、企業やいろいろな施設でワクチン接種が広がっている。とりわけ企業では、接種をしない職員は退職をしてもらうという話も出てきている。そういうことのないような対応を、ぜひ心がけていただきたい。担当課としてどう考えているか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 そういった事例があり、具体的に相談等があり、それが人権侵犯事件に該当するということであれば、東京法務局府中支局と連携して対応することになる。
 
@@ -215,25 +215,25 @@
 
 #### 委員の選定基準は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 どのような選定基準で選ばれているか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 人権擁護委員は、その推薦の候補者の選定に当たっての選考基準は特に設けていない。職業や経歴などによる選考基準は設けていない。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 人権擁護委員は、人権相談を受け持って人権の考えを広める活動をしている民間のボランティア。人格、識見が高く広く社会の実情に応じ、人権擁護について深い理解のある人を選考することとなっている。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 また、特に男性だから、女性だからという視点で選定したこともない。
 
@@ -241,26 +241,26 @@
 
 #### 同じ人が連続して各種委員会の委員になるのはどうなのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 森井さんは、教育委員会の教育委員を昨年の9月までやって、降りられた。また半年もたたないうちに、この種の委員になるのはどうかと私は思う。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 
 国民健康保険の運営協議会もそうだが、同じ人が繰り返し、委員会の委員になるというケースが結構ある。そういうのは、やはりよいことではないと私は思っている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 少なくとも何年か間を空けるとか、そういうことは考えなかったか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 そういった考えは特に持っていない。人権擁護委員としてふさわしい方であれば、本人の御承諾をいただいた上で候補者として推薦したい。
 
@@ -268,25 +268,25 @@
 
 #### 4期は長すぎないか、人材の育成・開拓はしないのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 長谷川さんについては、4期目というのは長過ぎないか。3期で交代が基本と私は理解をしているが、人がいないということだと思うが、4期目もお願いするのは、安易過ぎるのでは。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 つまり新しい人材を育てていくとか開拓していくようなことはどう考えているのか。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 人権擁護委員法では、特に何期ということの制限はなく、あるのは、年齢によって新任の場合、また再任の場合は何歳までという定めがあるのみ。
 
 </div></div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 本人のやる気等も伺いながら、また、そのときの人権擁護委員の体制等も見ながら、お願いすべきときにお願いしていく。
 

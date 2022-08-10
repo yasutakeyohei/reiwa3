@@ -51,7 +51,7 @@
 - [意見書1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=70&minute_id=1&is_search=true)
 - [意見書2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=78&minute_id=1&is_search=true)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -76,178 +76,178 @@
 
 #### 小平市も人災に一翼を担っているという認識か
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 国の方針に沿ってやってきた小平市も、この人災を起こした一翼を担っているという認識の下、出された意見書か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 これまでずっと補正予算等のやり取りもしてくる中で、国と東京都の足りないところに支援をしていくんだというのがその姿勢であったかと思う。市に同じような責任があるとか、そういった議論ではないと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 我々は市議会議員。責任は常にあると考えるべきだと思う。そこのスタンスが大分違うということは分かった。
 
-</div></div>
+</div>
 
 #### 市でやることを国に要望するのはなぜか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 感染症に関わるいじめや差別、誹謗中傷を防ぐための措置、DVや虐待、自殺等の対策を講ずることと、これはむしろ市民に最も近い市がやることだと思うが、なぜこれを国にお願いしなきゃいけないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 3番に関しても、新たな給付、生活困窮者に対する給付などは、自治体独自でやっている。これも市ではできないから国にお願いするというスタンスなのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 まずは市でできることをやるべきだと思う。国に責任を持ってもらう、これは市民に一番近い我々が、一番に責任をもつんだというぐらいの気概でやらなきゃいけないことだと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 こういったことは自治体で取り組んでどうにかするというより、国がどうにかするべきだという考えが根底にあるということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 これまでさまざま、補正予算等でも意見を交わしてきたし、要望等もし、その部分はしっかりやってきたと思っている。それ以上に国にも求めていくことが必要だということを申している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 😩 これまで動議に反対してきたことと、整合性をどう取るのでしょうか
 
-</div></div>
+</div>
 
 #### なぜ小平市に意見書を出さないのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 PCR検査も、実際は自治体が実施する。PCR検査を広げていくためには、自治体がさまざまな工夫や財政的な支援も含めて対応していかなければ、おそらくできない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 なぜ小平市に意見書を出さないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 今回は国に対しての意見書ということで出している。
 
-</div></div>
+</div>
 
 #### 国が対策を講じるとは、何をすることを考えているか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 DVや虐待や自殺等も自治体の役割が大きい。国が対策を講じるというのは、そもそも何をするのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 ふわっとした社会不安みたいなものがここにあり、それをなくしていくのは国の役割であろうと思っている。そこを解決するために、あらゆることを国にはやってもらいたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 私は、財源を、DVや虐待、自殺防止のための自治体としてのキャンペーンとか、何か困ったことがあったら、ちゃんと窓口があるから来てくださいねとかという、あるいは民生委員にそういう役割を担っていくための助成をするとか、そういうことに使うこのを私はイメージしていたが、社会不安を解消するという、漠としたことを求めているということに、びっくりしている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 医師や看護師や自治体職員等に対しても、国から必要な支援とはそもそも何か。たとえば、第1号補正予算でも出たような、東京都や国の補助額を従来よりも倍にしろということなのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 それもひとつ大事なことだと思う。
 
-</div></div>
+</div>
 
 
 #### PCR検査で感染の有無が診断できる科学的根拠は
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 私の考えでは、PCR検査をやればやるほど陽性者も増えていくので、医療崩壊を促進させると思っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 PCR検査をやって医療崩壊を防げると考える根拠、PCR検査で感染の有無が診断できる科学的根拠はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 最終的に安心できるような社会になっていくためには、その数を正確に把握していくとか、そういったことが必要になろうかと思うので、その検査をしていく。そして、エッセンシャルワーカーと言われる方たちが、自費ではなくて無料で受けられるように拡大をしていくということには意味があるのではないかと捉えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 数を正確に把握するためとあったが、PCR検査で数を正確に把握することなんていうのはできない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 DNA塩基の300分の1のところだけを取って、それを増幅、増幅、繰り返してやるので、全体像というのは分かっていない。すごく小さいところだけを取り上げて、それを増幅するという検査のやり方ですから、そもそも診断するためのものじゃなくて、ただの増幅実験。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 昨年12月2日の厚生労働省の佐原技監の回答でも、「『PCR検査の陽性判定＝ウイルス感染性の証明』ということではないということでございます」と言っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 PCR検査をいくらやったって、感染を診断することはできない。むしろ偽陽性を増やす。要は、鼻の中にウイルスがあったかもしれないということが分かる。ただ、そのウイルス、あったかもしれないが感染しているかどうかということの証明にはならないと。また、そのウイルスが感染をさせる力を持っているかどうかも分からないという検査を、今、全国で一生懸命やって、やれやれと言っていて、やればやるほど新型コロナウイルスに感染してもいない陽性者が増えていって、それが医療機関を逼迫させている。このことについてどういう見解か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 科学的根拠も示せないPCR検査をなぜ拡大しろというのか、その論拠は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">吉本ゆうすけ<br><div>
+<div class="bln bright" data-speaker="吉本ゆうすけ">
 
 今、PCR検査をする以上の策はないだろうと思っている。その検査を受けて、陽性であるとか何とかというふうな形になったときに、その人たちがどうするかということ、その人たちが判断するということで、その人たちが安心をできるということもあるかと思うので、やらないということにはならないのかなと思っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 偽陽性の弊害はとても大きいため、PCR検査のむやみな拡大は「やってはいけないこと」と思います
 
 症状が出ている人や、濃厚接触した重症化リスクのある人など、必要な人にだけ行うべきです
 
-</div></div>
+</div>
 
 
 </div>

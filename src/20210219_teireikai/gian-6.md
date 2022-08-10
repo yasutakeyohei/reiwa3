@@ -57,7 +57,7 @@
 
 [小平市：令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -91,84 +91,84 @@
 
 #### 広域連合納付金が適正かを確認しているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市が払う広域連合納付金が適正かの確認はどう行っているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（後藤）">
 
 市区町村の負担金が12月末ぐらいに案として東京都後期高齢者医療広域連合のほうから示される。それでほとんど積算をしている状態。
 
 積算根拠について、細かいところの数字について特に知らせがないので、個別に確認はしたが、特に細かい数字までは全市区町村に示してはいないというところで、広域連合の担当者が示したもので協力いただいているというところで、負担金というのが成り立っているという確認は取っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 これ問題では
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 詳細をもらえるようにしてもらいたいが。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 担当課長会、部長会のほうに意見等は報告していきたいと思っている。予算の案件に関しては、東京都後期高齢者医療広域連合の議会を通しているので、そのような場でも意見を伝えられるように、担当課長会、部長会のほうで話していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 ちゃんと伝えることができたのか、確認が必要ですね
 
-</div></div>
+</div>
 
 #### 3割負担と1割負担の対象者の人数は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 3割負担と1割負担の対象者の人数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（後藤）">
 
 令和元年度の決算ベースで、
 
 - 3割負担：2,907人
 - 1割負担：2万427人
 
-</div></div>
+</div>
 
 #### 特別徴収と普通徴収の割合は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 特別徴収と普通徴収の割合は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（後藤）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（後藤）">
 
 令和元年度のデータで、特別徴収が63.4%、普通徴収で36.6%。
 
-</div></div>
+</div>
 
 #### 軽減を受けている人数は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 軽減を受けている人数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 軽減者の合計は約1万3,000人で、
 - 7.75割軽減：約3,700人
@@ -176,7 +176,7 @@
 - 5割軽減：約2,000人
 - 2割軽減：約2,000人
 
-</div></div>
+</div>
 
 </div>
 

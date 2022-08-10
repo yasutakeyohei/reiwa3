@@ -74,7 +74,7 @@
 - [令和2年度一般会計補正予算（第8号）の概要](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -135,44 +135,44 @@
 
 ##### 接種体制は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチン接種体制は？
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 令和3年1月1日から健康推進課にワクチン接種準備担当を2名体制で設置。2月17日から第1グループ医療従事者の先行接種をし、その後医療従事者の優先接種。この2つは都道府県が調整。その後65歳以上の高齢者を対象とした接種が開始。
 
 国のスケジュールが不確定。3月中旬に接種券配布の予定が、早くて4月1日以降に。高齢者に続き、基礎疾患がある方、高齢者施設に勤務の方などが優先、その後一般市民が接種。
 
-</div></div>
+</div>
 
 ##### 接種に関して市の課題は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市の課題は？
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 1. 国からの情報不足（報道があっても通知が来ていない）
 1. 予算の確保（まだ十分ではなく、国の補助を要望していく）
 1. 医師・看護師の確保（市の職員では接種できない）
 1. 会場の選定（接種会場も何パターンか考えている）
 
-</div></div>
+</div>
 
 ##### 接種予算約12億円の内訳と契約方法は
 
-<div class="balloon bl-left hitori">👍 中江美和議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 中江美和議員（一人会派の会）">
 
 ワクチンの接種予算約12億円の98%を占める委託料の内訳と契約方法は。
 
-</div></div>
+</div>
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -183,67 +183,68 @@
   });
 </script>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 接種費用約9億円は次の計算から。
 
 \\[ 接種1回2,070円（税込2,277円）\times 小平市の人口 \times 2回分 \\]
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 ファイザーのワクチンは16歳以上対象だが、その他ワクチンが入ってきた場合16歳未満も対象と考え人口をすべて入れている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 新型コロナウイルスワクチン接種体制確保事業の内容は、コールセンター、接種券の発送、予約の受付、予約システムの管理、集団接種会場の運営、その他データ作成。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 副反応の対応はこれまでの予防接種法と同様で予算計上なし。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 契約方法は国からの通知で競争によらなくてもよいとあり、匿名随意契約。
 
-</div></div>
+</div>
 
 ##### 安全性を市としてどう捉えているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチン接種は安全性を心配する人も多い。市としてどう捉えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 ワクチンの安全性を市として検証することはできない。国の責任において、治験・エビデンスに基づいて公表し、必要な情報を国民に提供していくことが大事。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 情報提供があれば市報・ホームページで提供する。ワクチン接種は努力義務。妊婦は努力義務から外されている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 差別は懸念しており、アレルギー、病気等で接種できない人もいることを広報し、周知をはかっていく。
 
-</div></div>
+</div>
 
 ##### 接種の行政運営方針と、公表について
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 川崎市は16日にワクチン接種における行政運営方針を発表し、
 
@@ -255,73 +256,78 @@
 
 小平市はどうか。公表をどう考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 ワクチン接種体制、接種会場等も含めて、方針ではなく計画を策定中。市の対策本部にもかけ、公表を予定。
 
-</div></div>
+</div>
 
 ##### 感染予防効果はあるか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 これから接種が行われるワクチンに感染予防効果はあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 感染予防効果を市で検証することはない。国が先行接種もしているので見極めていく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 予防効果について、国は判断できないと言っている。審議会の資料にも、予防効果は実証が困難と書いてある。無症状者がたくさんいるので、予防効果があるかは分からず、実証は困難と言っている。
 そのあたりを間違えないようにし、間違った情報を市民に流さないようにしてもらいたい。
 
-</div></div>
+</div>
 
 ##### 効果はいつまで持続するか
 
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 発症、重症化に有効な場合、ワクチンの効果はいつまで持続するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 世界的にもワクチン接種が始まって間もなく、どれだけ持続するかは不明。一般的には半年といったところが言われているが、このあたりも（国の）検証等を経て。
 
-</div></div>
+</div>
 
 ##### 現在のワクチンが効かない場合、別のワクチン等を打っていくか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 新たな変異種が見つかったという報道があった。現在準備されているワクチンではその効果がない場合、別のワクチン、数種類のワクチンを打っていくことになるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 変異株に対する別ワクチンの対応については、現在日本で考えられているのは、ファイザー、アストラゼネカ、武田、モデルナのワクチン。このうち一部変異種に効くものもあると聞いているが、検証を待つ必要がある。
 
-</div></div>
+</div>
 
 ##### 集団免疫の獲得が可能と考えているか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 集団免疫という言葉があったが、現実的に集団免疫の獲得が可能と考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 インフルエンザもそうだが、インフルエンザが少なかった要因は、次の3本柱で考えている
 
@@ -331,65 +337,67 @@
 
 集団免疫の可能性も、コロナワクチンについては判断が難しいが、国の結果等を見極めていきたい。
 
-</div></div>
+</div>
 
 ##### 議決を経ずにインフルエンザワクチン予算を流用してよいのか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 インフルエンザワクチンの予算で、余った分をクーポンの印刷に流用した。我々議会の予算承認は、どのワクチンに使うかも含めて議決されたと考える。ワクチン接種事業は予防接種法に基づくもので、別のワクチンには法的に流用できないのではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 特定の予防接種に対し予算を取っているわけではなく、一般会計の中で予防接種として対応している。高齢者インフルエンザワクチンの追加も今回それで対応している。ロタウイルスも追加になった場合対応できる。ヒトパピローマウイルスのワクチン追加も、今回、勧奨通知に当たらない形で、個別に通知を出し（接種）人数も伸びているが、その範囲内で行っているので問題がない。
 
-</div></div>
+</div>
 
 ##### 今後、毎年、変異種に対しワクチン接種事業する場合、市としてやっていけるか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
+
 
 今後、毎年変異種が出て、ワクチン接種事業をしなければならなくなったとき、市は現実的にやっていけるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 毎年接種を行うか現時点で判断は難しい。季節性インフルのように個別接種が中心となることも考えられる。見極めながら対応を考える。
 
-</div></div>
+</div>
 
 #### その他
 
 ##### GIGAスクールで、契約額確定による減額が大きい理由は
 
-<div class="balloon bl-left" style="margin-top:5rem;"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 GIGAスクール予算で「契約額確定による減」の金額が大きい理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 契約の差額で一番大きかったのは電源キャビネット。当初GIGAスクール構想が始まるに当たり、業者が大量に確保した。実際入札してみたらかなり少ない額で入札できた。これが約7,100万円。
 
-</div></div>
+</div>
 
 ##### GIGAスクールで、浮いた分を別の目に流用していることについて
 
-<div class="balloon bl-left" style="margin-top:5rem;"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 8月臨時会では、家賃支援の約2.5億円を、同じ目内の「地域消費活性化事業」に流用しており、質問したところ流用の際は基本的には同じ目内という話だった。今回、GIGAスクールで浮いた分（約8千8百万円）を別の目である地域消費活性化事業に流用しているが、例外的な流用ということか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 歳出の予算については目内の流用が原則。今回は分野が違うというところは、しっかり補正予算で組みなおしているので問題がない。
 
-</div></div>
+</div>
 
 <div class="tips" id="教育費の余りと財調でキャッシュレス事業の穴埋め">
 
@@ -437,17 +445,17 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 ##### 地方創生臨時交付金が入っていない理由と今後の予定は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 1月に決定された地方創生臨時交付金の4.2億円が入っていない理由と、今後の補正スケジュールは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 国の方では第三次補正予算が1月28日に成立している。小平市は約4.2億円ほど配分の見込み。使うタイミングはまだ決定していない。もし令和2年度の予算で使うと2月8日までに提出の必要がある。現状では、令和3年度の方に繰越し、今後コロナ対策事業を検討していく。
 
-</div></div>
+</div>
 
 
 ### 2. 付託委員会での主な質疑
@@ -460,13 +468,13 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 ##### 接種費用約9億円の内訳をもっと詳しく
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 本会議の質疑にあった、接種費用約9億円の内訳をもっと詳しく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 本会議でも答弁した次の計算で約8.9億円。
 
@@ -478,62 +486,62 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 合計して約9億500万円。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 なお、予診の費用、事務費、接種費用、初診料、再診料等を足し合わせて国で算出した数字が、税抜きで2,070円。
 
-</div></div>
+</div>
 
 ##### データの蓄積、システムは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチンの安全性、有効性、副反応などのリスクについて、データの蓄積は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 今、日本に入ってきているファイザーのワクチンが、先日薬事承認された。順次国からワクチンに対する詳細等が通知されと考えている。
 
 詳細な内容が示され次第、市ホームページ等で市民の皆様に広報していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチン管理のシステムはどうなっているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 今3つのシステムが同時に動いている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 1. いわゆる[V-SYS](https://www.mhlw.go.jp/content/10906000/000707430.pdf)。国でもともと予定し、開発を進めている「ワクチン接種円滑化システム」。大まかには、ワクチンの流通管理用で、どの病院にどれだけのワクチン在庫があるかを一元的に管理できるシステム。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 2. 新システム。1月に河野新型コロナウイルス感染症ワクチン接種担当大臣から話が出たもので、住民の接種記録を管理する。これが新たに立ち上がる話になっている。
 
 - [ワクチン接種記録システム（VRS）](https://cio.go.jp/vrs)
 - [いま知ってほしいワクチン接種記録システム](https://web.archive.org/web/20210726004952/https://cio.go.jp/sites/default/files/uploads/documents/vrs_overview.pdf)
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 3. 市独自で、自前で開発を進めている予約システム。コールセンターで接種予約を受け、そのシステムで管理する。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="ワクチン接種者はマイナンバーが自動的に登録されます">
@@ -548,148 +556,148 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 ##### ワクチンチェイサーの対応は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 ワクチンチェイサーの対応（余ったワクチンを会場近くにいる希望者に打つ）は考えているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 突然打つ方の接種記録がなかなか取れないなどあるので、今のところ考えていない。
 
-</div></div>
+</div>
 
 ##### 冷凍庫の状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 冷凍庫の状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 ファイザー社ワクチンは、マイナス75度で保管する必要がある。そのための、いわゆるディープフリーザーは、現状、国が一括で買い上げ、全国配置する。人口割で配置数が決まり、小平市は12個が配置予定。一度に来るのではなく、月ごとに1つや3つ届く。全部の設置場所は未定。設置施設では、その管理もあり、調整中。
 
-</div></div>
+</div>
 
 ##### 接種を希望している人、していない人の割合は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 接種を希望している人の割合と、希望していない人の割合は把握しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 把握していない。
 
-</div></div>
+</div>
 
 ##### 小平市は、何割が接種すると想定しているか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 小平市としては、何割の方が接種すると想定しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 おおよそ7割程度。
 
-</div></div>
+</div>
 
 
 ##### ワクチンの原料について周知はなされるか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 ワクチンの原料となるアルミニウム、水銀、動物や昆虫由来物質、牛、豚、鶏卵、蛾など、それらの副反応、リスク、安全性、効果について、医師から説明を受けたことがありますかと聞くと、84&が受けていないと回答している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 私も遺伝子組み換えがどういう内容か分からないが、遺伝子組換え食品は大きな問題で、私は反対をしている立場。こういうものが成分として入っているといったことを、ちゃんと市として広報してもらえるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 ファイザーワクチンの薬事承認が下りたのがつい数日前。薬事承認が下りてから、そのワクチンの詳細な情報が明らかにされる。現段階では、安全性も含めて、どういうふうな形のものがあるかというのは、詳細にはまだ市では捉えていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 
 順次通知等で明らかにされれば、十分に市民の方には広報していきたい。また、国のホームページ等でも細かい情報が出されると思うので、その辺のリンクを貼ったり等の作業もしていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 アルミニウムや水銀についても載せるという理解でよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 国のホームページ等でも記載されているので、市でもホームページにリンクを貼るなりの対応はしていきたい。ただ、案内通知についてはまだ調整中なので、載せられるかどうかはまだ分からない。
 
-</div></div>
+</div>
 
 ##### 課題を3つ挙げるとしたら何か
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 課題を3つ挙げるとすれば何か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 1. 接種体制に関して等の情報量が少ない
 1. 医師、看護師の確保
 1. ワクチンの供給量（どれくらい入るのか分からない）
 
-</div></div>
+</div>
 
 ##### 基礎疾患の人にはどう周知するか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 基礎疾患のある方にはどういう方法で周知するのか。つまり、どなたが基礎疾患を持っているのかというのは、病院とかいろんな情報を集約して、それを全部調べるということですよね。調べて、該当する人にそういう内容の通知を出すということなんでしょうか。それとも、あなたは基礎疾患を持っていますかということを聞いた上で出すのか。この辺の手続としては、どういうやり方でやるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 国が「基礎疾患を有する」として区分しているのは、国が上げられた13の病気がある状態で、通院、入院されているか、BMIが30以上の基準を満たす肥満の方。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康推進課長（櫻井）<br><div>
+<div class="bln bright" data-speaker="健康推進課長（櫻井）">
 
 これらの方について、市町村でデータを持っているわけではない。今、国が想定しているのは、接種の際の予診票に自己申告していただくということ。
 
-</div></div>
+</div>
 
 
 #### その他
 
 ##### PayPay、auPayの効果は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 小平市中小企業等支援給付金事業の、PayPay、auPayの効果は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 <table class="slim bordered">
 <thead>
@@ -703,7 +711,7 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 確定していないが、10月から1月までauPay, PayPayを使って決済された金額が約15億2,600万円、キャッシュバックポイント付与分（小平市がポイント付与に出している額）3億9,460万円。4億円で15億円以上の決済をできたので、かなりの効果はあったのではないか。
 
-</div></div>
+</div>
 
 <div class="tips" id="キャッシュレス事業の効果はまったく不明">
 
@@ -725,29 +733,29 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 </div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 たとえば近くの市で15億円分の商品券を発行したが、1人当たり上限3万円までしか買えず、1人3万円分買うと5万人分で終わる。市民が20万人近くいて4分の3の人は買えない。公平性の確保というところでは、キャッシュレス決済でスマートフォンを持っている方は誰でも使える。そういったメリット、デメリット、双方これから検証していく。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
-😇 さすがにこの論理はおかしいでしょ…
+さすがにこの論理はおかしいでしょ…
 
 キャッシュレスも上限があるし、スマホでしか使えないので、むしろ全員にいきわたる商品券の方が公平性高いのは明らかですね。課長でこの答弁ですから、キャッシュレス決済の効果について、ほとんど考えていないことがよく分かります。非常に残念です。
 
-</div></div>
+</div>
 
 ##### キャッシュレス決済額の推移は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 キャッシュレス決済の推移は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 次のとおり。（キャッシュレスでの全決済金額？）
 
@@ -796,7 +804,7 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
   });
 </script>
 
-</div></div>
+</div>
 
 <div class="tips" id="危険な賭け">
 
@@ -810,39 +818,39 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 ##### ポイント付与分は市内で消費されているのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市のポイント付与分が、ちゃんと市内で使われているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 追跡できないので、分からない。
 
-</div></div>
+</div>
 
 ##### 狛江市のように、単身大学生に給付金を支給しては
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 狛江市が、単身の大学生に、給付金1人5万円、市内1,200人ほどを対象に、6,000万円の予算をかけて支給する事業を行う。
 
 [狛江市：大学生活・学業等応援給付金](https://web.archive.org/web/20210227125759/https://www.city.komae.tokyo.jp/index.cfm/43,113836,331,2050,html)
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 小平市も相当数の大学生がいる。そういう人に独自の支援事業ができないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 小平市では特に考えていない。学生に対しては、国から、アルバイト収入等が減った方について一定の支援がされている。また、今回のキャッシュレス決済において4億円規模のポイント付与がされ、消費者にとってはプラスになっている。スマートホンを使う大学生もかなり多いという点で、この支援策が届いていると考えている。
 
-</div></div>
+</div>
 
 </div>
 

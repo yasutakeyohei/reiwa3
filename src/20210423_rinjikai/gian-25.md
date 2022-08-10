@@ -68,7 +68,7 @@
 
 [令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -103,37 +103,37 @@
 
 #### ワクチンに感染防止効果があると言う根拠は
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 提案理由の説明で、「市民の命を守る感染拡大防止対策として」新型コロナウイルスワクチン接種体制の確保に係る経費を拡充すると言ったが、ワクチンに感染を防止する効果があると誰が言っているのか。間違いなら訂正を。
 
 </div></div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 ワクチンによって高齢者等の死亡率を下げたりすることは効果があるという意味で、広い意味では感染拡大防止と捉えている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 高齢者の死亡を低減させたら感染拡大が防止されるとはどういう根拠で言っているか。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 小林市長は、提案理由が間違っていたり、不備がある場合は、提出者代表議員に取り下げるべきだと言っている。これはまさに同じ。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市として、ワクチンに感染拡大を防止する効果があるというならそのエビデンスを示してください。エビデンスがなければ市民に嘘をついていることになる。
 
 </div></div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 今回の補正予算は、新型コロナウイルス感染症に関係したワクチンということで、そのひとつの位置づけとして、感染拡大防止対策という、そこのくくりの中にこの事業を入れた。
 
@@ -141,19 +141,19 @@
 
 #### キャッシュレスポイント事業は、コロナ禍で収入が増えた人も対象だが
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 コロナ禍で収入が増えた人もいる。キャッシュレスポイント事業はそういう人も対象になる。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 以前、環境建設委員会で、市長自身が「市民負担を軽減するなら本当に困った人にやれ」という趣旨のことを言った。この1ヵ月余りで考え方を変えたのか。
 
 </div></div>
 
-<div class="balloon bl-right">地域振興部長（余語）<br><div>
+<div class="bln bright" data-speaker="地域振興部長（余語）">
 
 収入が増えた事業者もあるが、厳しいといった声も届いている。ぜひもう一回やってほしいという声がたくさん届いている。東京都の補助金もあるので再度実施したい。
 
@@ -161,7 +161,7 @@
 
 #### 臨時交付金を教育費などに使わずキャッシュレスに投じた理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 比較的自由に使える地方創生臨時交付金は、内閣府の資料には次のように書いてある。
 
@@ -171,13 +171,13 @@
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 これを読むと、ポストコロナに向けた経済構造の転換というのが最初にある。たとえば、今回教育費等にも6%シーリングをかけてしまっているが、そういうところの補てんといった、コロナ禍に関連付けてデジタル化を進めるような部分にお金を使わずに、キャッシュレス事業に投じている理由を教えてほしい。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 - 不登校の子どもたちに向けてオンライン授業の試験的な取り組みを行う
 - デジタルデバイドの解消に向けて実態を把握する調査を行う
@@ -187,13 +187,13 @@
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 キャッシュレス事業には今回小平市に配当されたちうちの5,400万円余りを使っている。コロナも先行き不透明なので、今回の補正予算は国や東京都の予算を活用した事業を中心に編成している。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 今後、この地方創生臨時交付金の活用については、段階を経てまた事業化していきたい。夏、秋、冬にかけて経済の動向も未知数なので、そういう部分での活用も視野に入れながら事業化を検討していきたい。
 
@@ -210,19 +210,19 @@
 
 ##### 予算を消化したら打ち切るのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 キャッシュレスを1ヵ月の中で早めに消化した場合途中で打ち切れるか。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 昨年度契約したときは2社しかなかったが現在は4社ある。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 4社のうち1社だけ上限額が設定できる。上限額を決められる会社が落札しても、途中で打ち切ることは考えていない。1ヵ月は間違いなく実施する。
 
@@ -230,25 +230,25 @@
 
 ##### 早めに消化した場合は補正を組んで続けるのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 早めに消化された場合、補正を組んででも続けるのか。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 おおむね1週間あるいは2週間ごとに途中経過を知らせてもらえるので、どうやら超えそうだと分かった時点で補正をお願いする。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 1人当たり1ヵ月間の上限金額は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 ポイント上限は1ヵ月5,000円、1回の買い物につき2,000円までと検討している。
 
@@ -256,61 +256,61 @@
 
 ##### 前回の効果は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 前回のキャッシュレスの事業の効果は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 決算額が1月だけで12億円を超えており、決済回数も53万6,500回。どれくらい1回の決済で使ったかの統計は取っていないが、かなりの使用率があった。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 高齢者でスマートフォンを持っていない苦情も、11月までは5件ほどあったが、12月以降は1件もない。高齢者に使い方の講習会を自ら開いていた店舗もあった。かなりの方が使ったのでは。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 たとえば東大和市や東村山市でもキャッシュレスポイント還元をやっており、ポイントの相互利用で、持ちつ持たれつという形と聞いている。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 ただ、小平市内でほとんど使われたかどうかは追跡できない。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 何割ぐらいの人が使ったかだが、株式会社NTTドコモの研究所等の調査によれば、スマートフォンの所有率が約7割。単純に当てはめると7割程度の方が使った形だが、実際に7割の方が使ったかどうか、把握できていない。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 東京都の補助金は約1億5,000万円。ほかに使うとしたら、プレミアムつき商品券。ただし、デジタル決済のポイント付与なら4分の3の補助率だが、プレミアム商品券だと補助率が2分の1に下がる。一緒にデジタルポイント付与をやっても、それも4分の3から3分の2に下がる。今回、4分の3丸々もらえるということで、キャッシュレスのポイント付与にした。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 飲食店の方から、今まで20年、30年やってきたけれども、最高額の売り上げがあったという店舗がかなりあり、非常に助かったという意見をいただいている。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 また、昨年度は感染防止徹底協力金を2回ほど実施し、1回目5万円、2回目3万円という形で、飲食店に限らず、市内の中小事業者の方、大規模も対象だったが、事業者を支援している。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 今年度も、今後の状況を見ながら、当然そういったことも含めて検討していきたい。
 
@@ -319,37 +319,37 @@
 
 #### 臨時交付金の割り当て総額と残額は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 新型コロナウイルス感染症対応地方創生臨時交付金の総額と残額は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 令和3年度に繰越している地方単独分ということで、国の第3次の予算を使い、小平市に割り振られた上限額としては4億2,547万6,000円が示されている。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 このうち今回5,413万6,000円を予算化しているので、残りは3億7,134万円。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 残りは何に使うのか。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 今回は、国や東京都で支給金等ですぐ予算化する必要があるものを計上した。この他、東京都の補助事業でキャッシュレスのものがあり、一般財源で負担する分に地方単独分を活用した。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 この後、小平市として何をしていくのか、今現在検討している。また緊急事態宣言等の関連もあるので、状況を見ながら、一番いい形のものに使っていきたい。
 
@@ -357,73 +357,73 @@
 
 #### 子育て世帯生活支援特別給付金事の申請漏れはないか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 子育て世帯生活支援特別給付金事業の、児童1人当たり5万円については、対象世帯に通知を送るとしている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 申請しない世帯もあると思うが、どうカバーしているか。全員が申請できる体制にしてほしい。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 前回も同様な事業があったと思うが、どんなあんばいか。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 対象世帯数の見込み約1,200世帯のうち1,000世帯には手紙を送り、辞退しない場合、申請を必要とせず、そのまま振り込むため、申請漏れはない。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 申請してもらう残り200世帯には、市報、ホームページ等で広報を行い、児童育成手当を受給している方や、昨年度ひとり親世帯臨時特別給付金を申請していただいた方などに個別に案内を送付し、周知に努める。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 この200世帯は、児童扶養手当は受給していないが、児童育成手当を受給している世帯。手紙を何度か送り、昨年度いろいろ周知した結果、約200世帯ほどの方が申し込まれると推測し、200世帯としたもの。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 昨年度は市報で5回、手紙をいろんなパターンを変え5回送り、約150世帯から申請があった。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 かなり広報し、国などもコールセンターを設け、広報を流し、いろいろと周知を図ったので、昨年度やったやり方を踏襲すれば、必要な方にはほぼ行き渡ると考えている。
 
 </div></div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 200世帯のうちの50世帯は、申請しなかったということか。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 令和2年度は、同じ条件で幅広く申請を勧奨したところ、約150世帯の方から申請があったということ。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 令和3年度は、新型コロナウイルス感染症の影響で多少所得が下がっていて、今回の給付金の対象まで下がってくる方が増えるかもしれないということで、150世帯にプラスアルファして200世帯と見込んだもの。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 必要な方にはすべて行き渡っていると考えている。
 
@@ -432,25 +432,25 @@
 
 #### 住居確保給付金の状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 住居確保給付金の状況は。
 
 </div></div>
 
-<div class="balloon bl-right">生活支援課長（松本）<br><div>
+<div class="bln bright" data-speaker="生活支援課長（松本）">
 
 社協からは、例年の相談件数は毎月2、3件のところ、令和3年に入って毎月80件程度相談が来ている、と聞いている
 
 </div></div>
 
-<div class="balloon bl-right">生活支援課長（松本）<br><div>
+<div class="bln bright" data-speaker="生活支援課長（松本）">
 
 新規の申請件数は、同じく毎月1、2件のところが、現在は月平均で14件程度申請が来ている、と聞いている。
 
 </div></div>
 
-<div class="balloon bl-right">生活支援課長（松本）<br><div>
+<div class="bln bright" data-speaker="生活支援課長（松本）">
 
 - 令和元年度の支給者数：19人
 - 令和2年度はまだ数値がまとまっていないが：約320人

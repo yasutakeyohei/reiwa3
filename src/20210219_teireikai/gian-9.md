@@ -6,7 +6,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=119&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会（未）</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=50&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=119&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=161&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=50&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -67,7 +67,7 @@
 >
 > 小平市の諸活動や歴史的事実の記録である公文書等が、市民共有の知的資源として、市民が主体的に利用し得るものであることに鑑み、公文書等の管理に関する基本的事項を定めることにより、公文書の適正な管理、歴史公文書の適切な保存及び利用等を図り、もって市政が適正かつ効率的に運営されるようにするとともに、市民の市政に関する情報を知る権利を保障し、市の諸活動を現在及び将来の市民に説明する責務が全うされるようにすることを目的とする。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -95,32 +95,32 @@
 
 #### この条例制定による市民のメリットは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 この条例制定による市民のメリットは。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">白倉 総務部長<br><div>
+<div class="bln bright" data-speaker="白倉 総務部長">
 
 公文書管理に関する基本的事項を定めることで、市の諸活動を現在および将来の市民に説明するという責務を全うできることが大きなメリット。
 
-</div></div>
+</div>
 
 #### 議員の口利き等も記録すべきでは
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 そもそも文書が作成されなければ、保存されることも公開されることもない。議員の口利き等も記録していくべきではないかと一般質問した。
 なるべくそういう記録も残し、公開し、保存していくという考え方を徹底していただきたいが、その点について方針があれば。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">白倉 総務部長<br><div>
+<div class="bln bright" data-speaker="白倉 総務部長">
 
 公文書に関係するもの、組織的に用いるものは、必ず保存することを考えている。それ以外で必要なもの等については、それぞれ個別の案件として捉える中で今後整理していく。
 
-</div></div>
+</div>
 
 ### 2. 付託委員会での主な質疑
 
@@ -130,47 +130,47 @@
 
 #### 市報の特集やホームページのトップに掲載するなど周知の徹底を
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 公文書や情報公開は、小平市民が市政に関わる上で非常に重要な条例。もう少し紹介があってもよい。どういう性格のものか、小平市の歴史や財産をちゃんと後世に伝えていく、情報公開条例を使えばそういう情報がちゃんと出てくる、そういったシステムになっていることを、市報の特集でもしてもらいたい。ホームページにも一番上に掲載するなど。どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">原 総務課長<br><div>
+<div class="bln bright" data-speaker="原 総務課長">
 
 今後、図書館への移管が進んで実際に市民の利用請求の制度が開始される頃合いを見計らって、市民に対する何らかの周知の方策は検討していきたい。
 
-</div></div>
+</div>
 
 #### 現在の文書管理規定と大きく異なる点は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 現在の文書の管理規定と大きく違う点は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">原 総務課長<br><div>
+<div class="bln bright" data-speaker="原 総務課長">
 
 現在は文書管理規定に基づいて行っており、文書の管理については能率主義をうたっている。それに対し、公文書管理法は、そういうことではなく、文書が市民共有の知的資源で、主体的に利用しうるものであるということを鑑みて、市の活動を現在または将来の市民に説明する責任を全うするようにしなければいけないということを謳っている。こういう考えを今回条例に取り組む。
 
 一番大きく違う点は、いま、保存年限が一番長いもので永久保存というものを設定しているが、今度は30年が最長の保存期間になる。30年で廃棄するということではなく、30年経ったところで図書館の方に移管し、永久に保存するとともに、市民への利用請求制度を設けるので、30年経ったら公開されて、市民に利用いただくことが原則となること。
 
-</div></div>
+</div>
 
 #### 電子データはどうなるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 電子データはどうなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">原 総務課長<br><div>
+<div class="bln bright" data-speaker="原 総務課長">
 
 いまも、文書総合管理システムを用いて市の文書管理を行っている。電子データはこのシステムに登録したうえで、電子データとして保管される。
 
-</div></div>
+</div>
 
 </div>
 

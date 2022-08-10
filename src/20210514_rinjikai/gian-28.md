@@ -92,7 +92,7 @@
 
 [令和3年度一般会計補正予算（第4号）](https://www.city.kodaira.tokyo.jp/kurashi/088/088685.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -156,26 +156,26 @@
 
 #### これはどういう性格の予算か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 これはどういう予算か。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 新市長の方針に基づき、骨格予算に対して肉付けに該当する部分として、実施の可否や実施内容についてあらためて検討をした上で、提案している補正予算。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 原則として、当初予算に計上するものは、
 - 継続的、あるいは経常的な事業にかかる経費
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 当初予算から外すものとしては、
 - 新たな施策にかかる経費
@@ -189,13 +189,13 @@
 
 #### 新市長の政策的予算は10億円ではなかったか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 骨格予算として説明された当初予算の段階では、新市長の政策的予算として10億円を留保していると答弁があったが、約7億7,000万円にとどまっている理由は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 4年前からすると少し小さい規模だが、そもそも10億円程度を財源として確保していたことはない。コロナ禍等で歳入の大幅減少もある。結果として、歳出側についても事業が緊縮傾向となっている。
 
@@ -203,19 +203,19 @@
 
 #### 目玉となる政策は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市長の目玉となる政策は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 目玉というと何をもってということがあるが、大きな規模の事業はない。堅実な事業編成をした。
 
 </div></div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 今回コロナ禍ということもあり税収も落ち込むことが目に見えている中で、派手に何かばらまきをするような予算というわけではなく、堅実に行くというふうにやらせていただいた。
 
@@ -223,7 +223,7 @@
 
 #### 8割が当初予算で計上すべきものでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 - エレベーター改修
 - 学校トイレの様式化
@@ -235,13 +235,13 @@
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市の政策的予算とは言い難い、当初予算で計上すべき事業と感じるが、留保していた理由は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 当初予算では、いわゆる普通建設事業については留保する。補正予算の肉付けのところで事業化を図る方針の下に進めてきた。
 
@@ -249,13 +249,13 @@
 
 #### 87の政策に関する事業の数と金額は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 87の政策に関する事業はいくつあり、金額は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 私どもで把握しているのは15程度の項目で、事業費全体としては約9,900万円。
 
@@ -263,13 +263,13 @@
 
 #### 87の政策の柱が予算に現れていないのでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 87の政策の柱として、男女共同参画、防災・減災、ICTの推進を訴えていた。今回の予算には現れていないのではないか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 子育て関係でいえば
 
@@ -279,7 +279,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 防災といった観点でいえば
 
@@ -290,7 +290,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 ICTについても
 
@@ -302,13 +302,13 @@ ICTについても
 
 #### 87の政策への対応方針は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 87の政策についての対応方針は。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 87の政策は市で定めた計画、方針ということではないので、以前にも答弁したとおり、87の政策に沿った取りまとめや整理を示すことは考えていない。
 
@@ -316,61 +316,61 @@ ICTについても
 
 #### 87の政策としての新事業は、今年は約5千万円で終わるのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 87の政策に関わる事業が15くらいという答弁だった。また、それぞれ事業の区分として、新規、拡充、継続の3種類がある。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 継続というのは、「誰が新しく市長になっても、やらなければならない事業」ということと思う。事前に聞いたところでは、継続とされている事業の総額は約4,600万円。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 すると、15事業で総額約9,900万円から約4,600万円を引くと、約5,300万円。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 また、拡充の区分についても、誰が新しく市長になっても、やらなければならない部分があるので、もっと金額は低くなると思うが、要は5千万円とかそういった金額が、実際に87の政策の実現に使われるということでよいか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 そのように整理すると、継続事業というところに分類されるものも出てきている。合計がいくらになるかは計算していないが、15項目の中にはそういう継続のものも含まれていることは認識している。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 先ほどの質疑でもあったが、3月定例会で、10億円くらいは市長が自由に使えるという話があった。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 それが、87の政策に関しては私の概算だと約5千万円となる。コロナの非常に危機的な状況にあって、そういう予算立てで本当によいのか。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 今回、87の政策に関しては、今年は5千万円くらいで終わってしまうのか。それとも今後、追加の補正予算で87の政策に関連したものを入れていく予定なのか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 87の政策については、ここで関連する部分、事業を一部予算化しているが、4年をかけて一つ一つ検討しながら実施に向けていく。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 財源についても非常に重要な要素なので、そのあたりも勘案しながら、事業化できるものは年度の途中でも、また予算化を図りながら進めていきたい。
 
@@ -378,19 +378,19 @@ ICTについても
 
 #### これでコロナに対応する小平市になれるのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 この先は誰にも分からないところがあるが、秋や冬になれば、また感染が拡大したり、変異株が出たり、今ワクチンをせっせと接種しているが、海外で、ワクチンを接種した人でもまたコロナに感染したという話も出ている中で、小平市をしっかりコロナに対応させる、アフターコロナとかウィズコロナといったものに対応させるために、しっかり考える必要がある。
 
 </div></div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 これで本当にコロナに対応する小平市になれるのか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 十分かということは、そのときそのときの判断ということもある。現状でできる事業としては、市としてはベストのものということで提案しているが、今後情勢の変化によって、追加して事業化していく必要もあると考えている。
 
@@ -398,19 +398,19 @@ ICTについても
 
 #### 87の政策実現までの工程はできたか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 先ほど来指摘があるように、誰が市長だってやれること。本来、こんな補正予算を出して来たら、応援した議員が一番怒らなきゃならないこと。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 就任から1ヵ月以上たったが、87の政策、第4次長総など、整合性を図って実現までの工程はできたか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 それぞれの担当でどういう課題があるのか、事業化に向けてはどういう手順が必要なのかということについては、検討することにしているが、現時点で工程ができているかというと、そこまでは至っていない。
 
@@ -418,25 +418,25 @@ ICTについても
 
 #### 87の政策のうち、できる・できないの数と、今回いくつ反映したか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 では、1ヵ月経って、まだこの取捨選択はしていないのか。87のうち、できるものは何個あり、できないものは何個あるか。そのうち何個が今回の予算に反映したか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 たしかに、個々の政策を見ると、実現していくに当たり課題があるものがある。やらないときめたものはない。できる、できないの分類はしていない。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 それぞれの担当で、どういう課題があるかは検討している。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 いくつ反映したかというと、87の政策側から見ているわけではないが、15項目。
 
@@ -444,55 +444,55 @@ ICTについても
 
 #### この金額と進捗状況で、4年間で87の政策が実現できるのか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 この補正予算は市長の1年目の予算。たった4年しかない任期の1年目の予算。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長が87やろうとしているうちの4分の1が、この年度に入っていなければならない。もしくは、すべての事業の4分の1がこの年度に進捗しなくてはならない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 安竹議員の概算では5千万円くらいではないかと、どちらにしても、1年で9,900万円だったら、毎年同じ金額が使えるとしても残り3年で3億円。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 安竹議員が言うように、5千万円であれば、残り1億5千万円。これで87の政策はできるのか。どういう計算になっているか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 87の政策が15項目あり、関係しているものが1億円程度と言ったが、特別枠として87を実現するために確保している予算というわけではない。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 これを4倍して87の政策を実現するのかというと、そうではない。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 全体として、どれだけの事業費がかかるかは、今のところ見積りや試算等はしていない。
 
 </div></div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 では、金額ではなく進捗状況で。これは、1年目で25%進むという予算になっている。少なくとも4年後には、約束したことはできると、それを反映した予算になっているか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 そういう考え方もあるが、必ずしも均等のペースでいくことにもならないと思う。また、今年度も、場合によっては補正予算の方で対応できるものがあればしていく。
 
@@ -507,13 +507,13 @@ ICTについても
 
 #### 87の政策全体にかかるコストは
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 87の政策全体にかかるコストは。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 計算していない。
 
@@ -521,13 +521,13 @@ ICTについても
 
 #### 87の政策に優先順位はつけるのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 87の政策に優先順位はつけるのか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 どこを優先的にということではなく、それぞれ各所管で検討したうえで、事業化が可能なものを順次実現していく。
 
@@ -535,13 +535,13 @@ ICTについても
 
 #### 87の政策の実施計画をつくらないのか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 87の政策の実施計画をつくらないのか。
 
 </div></div>
 
-<div class="balloon bl-right">企画政策部長（有川）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（有川）">
 
 行政としての行政計画ではないので、これを実現するための目標設定や実施計画は、前市長のときもそうだったが、つくる予定は今のところない。
 
@@ -549,13 +549,13 @@ ICTについても
 
 #### 民設民営学童クラブの利用者負担費用は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 民設民営学童クラブの費用はいくらか。
 
 </div></div>
 
-<div class="balloon bl-right">子育て支援課長（石野）<br><div>
+<div class="bln bright" data-speaker="子育て支援課長（石野）">
 
 2つとも月額1万円。公設の学童クラブが月額7千円、延長保育で月額3千円かかり、最大1万円かかるので、それに合わせて1万円としている。
 
@@ -563,13 +563,13 @@ ICTについても
 
 #### 市民文化会館（ルネこだいら）の市債残高は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 市民文化会館の市債残高は。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 市債現在高は、まだ令和2年度の分は出ていないが、令和元年度は約2,700万円。
 
@@ -577,19 +577,19 @@ ICTについても
 
 #### RPAのシナリオ作成とは
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 RPAのシナリオ作成は具体的に何をするか。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 介護保険に関わる申請書類について、東京電子自治体共同運営の電子申請サービスを活用し、事業者等から送付される電子データをRPAにて介護保険システムに入力するためのシナリオ作成に係る費用を計上している。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 シナリオは次の3種類。
 
@@ -601,25 +601,25 @@ RPAのシナリオ作成は具体的に何をするか。
 
 #### コンビニ交付の1通当たりコストは
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 コンビニ交付時の1通当たりのコストは。
 
 </div></div>
 
-<div class="balloon bl-right">市民課長（山本）<br><div>
+<div class="bln bright" data-speaker="市民課長（山本）">
 
 令和3年度は、令和4年2月と3月の2か月分で交付する枚数に対する単価の計算をし、1通当たりの単価が1,542円。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 単価と、利用者が払う発行手数料との兼ね合いで、どうか。
 
 </div></div>
 
-<div class="balloon bl-right">市民課長（山本）<br><div>
+<div class="bln bright" data-speaker="市民課長（山本）">
 
 年間の発行件数によって単価の金額の変動はあり、発行手数料との差は必ず生じる。コンビニ交付によって利便性が向上という効果があると考えている。
 
@@ -628,43 +628,43 @@ RPAのシナリオ作成は具体的に何をするか。
 
 #### PHR（パーソナル・ヘルス・レコード）について詳しく
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 PHRについて詳しく。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 パーソナル・ヘルス・レコードは、健診の情報について、マイナンバーカード制度を活用し、マイナポータルでの閲覧や市町村間の情報連携を開始するために、国が用意している自治体の昼間サーバーに情報を登録するに当たり、改修するシステム費を計上したもの。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 マイナンバーカードを保有している人がマイナポータルにアクセスし、自身の保険・医療情報をいつでも閲覧できるようにするため、健康管理についての利便性向上を図るもので、そういう改修を行うもの。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 対象は、健診データを誰でもということだが、当面はマイナンバーカードを保有している人が閲覧可能になる。
 
 </div></div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 個人の大変パーソナルな情報。利活用してもよいと承諾が入るようになっているのか。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 あくまでもこのデータは、本人同意の下に利活用というか提供を自分でするという形になる。今回の改修は、あくまでもご自身のデータを見にいくことができる、そういう形での改修をさせてもらう。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 そういったデータを本人同意の下で医療機関等へご自身で提供する形になる。
 
@@ -681,13 +681,13 @@ PHRについて詳しく。
 
 #### RPAは現在どこで使っているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 RPAはどこで使っているか。
 
 </div></div>
 
-<div class="balloon bl-right">情報政策課長（増原）<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 税務課のほうで昨年度RPAを導入している。そこで現在事務に使っており、庁内で見学したりして周知に努めている。
 
@@ -695,13 +695,13 @@ RPAはどこで使っているか。
 
 #### エネルギー機器設置モニター助成事業の件数内訳は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 エネルギー機器設置モニター助成事業の内訳は。
 
 </div></div>
 
-<div class="balloon bl-right">環境政策課長（神山）<br><div>
+<div class="bln bright" data-speaker="環境政策課長（神山）">
 
 - 太陽光発電システム：50件
 - 燃料電池：100件
@@ -714,19 +714,19 @@ RPAはどこで使っているか。
 
 #### ゴミ分別推進が雑紙だけの理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 資源環境推進事業で、なぜゴミ分別の推進が雑紙だけなのか。また、1回分で効果があるのか。リチウムイオン電池の対応は。
 
 </div></div>
 
-<div class="balloon bl-right">資源循環課長（市川）<br><div>
+<div class="bln bright" data-speaker="資源循環課長（市川）">
 
 令和2年3月にまとめた組成分析調査では、燃やせないゴミのうち不適正物の割合は全体の約2割。そのうち12.8%が可燃性資源で、そのうち半分が雑紙だった。
 
 </div></div>
 
-<div class="balloon bl-right">資源循環課長（市川）<br><div>
+<div class="bln bright" data-speaker="資源循環課長（市川）">
 
 まずは可燃ごみの減量には雑紙の分別が欠かせないと考えたことから今回の事業に至った。
 
@@ -734,25 +734,25 @@ RPAはどこで使っているか。
 
 #### 庁舎非常用電源の稼働時間が72時間の理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 庁舎非常用電源設備の強化に関して、庁舎の非常用電源を72時間稼働対応としている理由は。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 国の「大規模災害発生時における地方公共団体の業務継続の手引き」でも72時間を確保することが望ましいとされており、それに合わせて東京都が補助事業をつくった。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 原動機の電力をずっと最大で使い続けた際に72時間なので、実際はもう少し長く使えると想定している。
 
 </div></div>
 
-<div class="balloon bl-right">総務課長（原）<br><div>
+<div class="bln bright" data-speaker="総務課長（原）">
 
 燃料が尽きた際は一旦停止し、燃料を補給したうえで再稼働する。
 
@@ -760,25 +760,25 @@ RPAはどこで使っているか。
 
 #### 地方創生臨時交付金の使い道指定は、前回と同じか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今回の地方創生臨時交付金について、国からは前回と異なる使い道に使うよう言われているのか。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 今回第3次分で国から示されたとき、使い道は同じといわれている。感染対策、企業支援、新しい生活様式、どちらでも使えると。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 ただし、昨今の経済状況等を踏まえて、具体的な活用分野に使ってほしいと国から示されている。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 - 感染拡大の影響を受けている中小企業への支援
 - 解雇、雇止め、内定取り消し等により職を失った方の雇用創出
@@ -789,13 +789,13 @@ RPAはどこで使っているか。
 
 #### 自主防災組織への200万円は何か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 自主防災組織への200万円の予算とは。
 
 </div></div>
 
-<div class="balloon bl-right">防災危機管理課長（関口）<br><div>
+<div class="bln bright" data-speaker="防災危機管理課長（関口）">
 
 避難所における3密の回避や分散避難のための設備の拡充として、
 - 災害用テント
@@ -808,13 +808,13 @@ RPAはどこで使っているか。
 
 #### 市内の空き家数は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 現在の市内空き家の数は。
 
 </div></div>
 
-<div class="balloon bl-right">危機管理担当部長（秋田）<br><div>
+<div class="bln bright" data-speaker="危機管理担当部長（秋田）">
 
 全軒数を把握しているわけではないが、現在把握している空き家は259軒。
 
@@ -822,13 +822,13 @@ RPAはどこで使っているか。
 
 #### 鎌倉公園の総事業費は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 鎌倉公園の総事業費は。
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 今後行われる不動産鑑定、損失補償算定、公園の設計が進む中で変わることがあると思うが、今現在の概算で、
 
@@ -840,7 +840,7 @@ RPAはどこで使っているか。
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 都市計画税を充当するとともに、都や国の補助金を活用しながら事業を進めていく。
 
@@ -848,19 +848,19 @@ RPAはどこで使っているか。
 
 #### 鷹の台公園の総事業費は。
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 鷹の台公園の総事業費は。
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 用地取得にかかった費用は約22億3,000万円。
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 整備に係る費用は、鎌倉公園の概算費用を参考に算出した、あくまで市が整備した場合の費用として、工事費が約3億6,000万円ほど。
 
@@ -868,31 +868,31 @@ RPAはどこで使っているか。
 
 #### 地場産野菜利用率3割を維持するための予算は入っているか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 給食の地場産利用率3割を目指すということだが、それを維持するための予算は入っていないのか。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 農業振興計画の方で30%を目標にしている。令和元年度決算では30%を超えてきたところ。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 代替給食で使用率が30%から下がることは間違いないと答弁してきたが、何割くらいになるのかは現時点では不明。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 JAのほうではキムチなどを加工品として納品していただくなど地場産野菜を使用することに努めていただいている。
 
 </div></div>
 
-<div class="balloon bl-right">学務課長（飯島）<br><div>
+<div class="bln bright" data-speaker="学務課長（飯島）">
 
 予算には乗せていないが、市長部局やJAなどと協力しながらできるだけの使用率を保つよう努めていく。
 
@@ -900,25 +900,25 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### 小平駅南口の有料駐車場は同じ場所に建て替える前提か
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 小平駅南口の有料駐車場の調査は、同じ場所に建て替えることを前提とした調査なのか。
 
 </div></div>
 
-<div class="balloon bl-right">交通対策課長（奥村）<br><div>
+<div class="bln bright" data-speaker="交通対策課長（奥村）">
 
 今の場所に再建すべきか、ほかの場所に移すべきか、こういうものも含めて、機能の更新、規模など検討する。同じ場所に建て替えることが決まっているものではない。
 
 </div></div>
 
-<div class="balloon bl-right">交通対策課長（奥村）<br><div>
+<div class="bln bright" data-speaker="交通対策課長（奥村）">
 
 しかし、もともとこの駅前広場の駐輪場は、都市計画道路が決定された昭和38年に決定されており、その後昭和56年当時に放置自転車が多かったとき、この道路区域から外して自転車駐輪場を建てた経緯がある。
 
 </div></div>
 
-<div class="balloon bl-right">交通対策課長（奥村）<br><div>
+<div class="bln bright" data-speaker="交通対策課長（奥村）">
 
 その後、平成17年度の法改正で、道路区域内においても自転車駐車場が建設できることになった。そこも含めて、今回更新するに当たっては、その場で建てるにしろ建てないにしろ、この場所は道路区域に戻すということが市としての方向性として決まっている。
 
@@ -926,31 +926,31 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### 市債に限度額はあるか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 市債に限度額はあるのか。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 市債は、財源確保と世代間の負担の均衡を図るために活用している。特に限度額として、これ以上借りていけないというのはないが、借りられるものの上限は決まっている。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 国のように、お金がないから借りるということは市ではできない。普通建設事業と言われている工事的なものに対し、その事業費に対して何%は借りられるという上限はある。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 もうひとつは、臨時財政対策債があり、市の歳出事業に対して歳入が足りない時に借金をして市債を発行してくださいということで、その上限額がある。それも年度ごとに変わってくる。
 
 </div></div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 市として限度額いっぱいに全部借りるということではなく、借りると返す時に義務的経費になるため、将来世代の重い負担にならないようバランスを見ながら借りる計画を立てている。
 
@@ -958,13 +958,13 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### 新規就農者定着支援事業で、コイン販売機を用意する理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 新規就農者定着支援事業で、コイン販売機を用意する理由は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 収納したばかりでまだ資金も少ない中で、新たな販路を確保して収入を上げていくためには直売所がほしいとなるが、無人販売所ではだいたい3割から4割で、1円、5円、10円、あるいは無料で持っていかれてしまうということから。
 
@@ -972,19 +972,19 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### 地域農業担い手支援事業に追加して都市農業経営力強化事業を行う理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 すでに独自で地域農業担い手支援事業を行っているのに、都市農業経営力強化事業を今回あえて追加で行う理由と、パイプハウスにした理由は。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 担い手支援事業は上限額が非常に低いが、都市農業経営力強化事業の方は、東京都から約5千万円出る。市からも2,500万円、最大で1億円までの事業が対象になる。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 規模の大きなもの、パイプハウスなどが対象となる。パイプハウスは、品質管理として、雨をよけ、温度管理もできるという形でパイプハウスを採用している。
 
@@ -992,13 +992,13 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### パイプハウス等整備の「等」とは何か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 パイプハウス等整備への等とは何か。
 
 </div></div>
 
-<div class="balloon bl-right">産業振興課長（齋藤）<br><div>
+<div class="bln bright" data-speaker="産業振興課長（齋藤）">
 
 養液栽培システム、たとえばトマトの水耕栽培や、イチゴの水耕栽培といったシステムの導入。
 
@@ -1006,13 +1006,13 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 #### 市内施設の洋式トイレ設置率は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 学校、公共施設の洋式トイレ設置状況は。
 
 </div></div>
 
-<div class="balloon bl-right">教育総務課長（市川）<br><div>
+<div class="bln bright" data-speaker="教育総務課長（市川）">
 
 学校施設関係のトイレ洋式化率は、
 
@@ -1023,7 +1023,7 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 </div></div>
 
-<div class="balloon bl-right">公民館長（季高）<br><div>
+<div class="bln bright" data-speaker="公民館長（季高）">
 
 公民館のトイレ洋式化率は、昨年度末の状況で約66%。
 
@@ -1031,7 +1031,7 @@ JAのほうではキムチなどを加工品として納品していただくな
 
 </div></div>
 
-<div class="balloon bl-right">水と緑と公園課長（佐藤）<br><div>
+<div class="bln bright" data-speaker="水と緑と公園課長（佐藤）">
 
 公園のトイレ洋式化率は、80.6%。
 

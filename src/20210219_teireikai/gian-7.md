@@ -56,7 +56,7 @@
 
 [小平市：令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -97,181 +97,181 @@
 
 #### 高額介護サービス費の誤支給・未支給問題への対応と改善策は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 令和2年8月に発生した、介護保険の高額介護サービス費誤支給と未支給の問題について、その後の対応と令和3年度の改善策は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 過払いは、未回収分が11人、27万8,759円。未支給は、基本的には亡くなって相続人がまだ明確でない方で、9人、4万5,493円分が残っている。未支給者へは今現在427人中325人まで電話でおわびをした。残りの方々は、留守電で電話に出ないと決めておられるような、どうしても電話がつながらない方々が94人ほど。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 対策は、ごちゃごちゃしていたデスクトップをきれいにし、実行プログラムは使ったら消すという習慣を身につけている。長くやっていると、そういうことがだんだん積み重なり、特に人の異動もあるので、いつの間にか消さないということが起きたりしていた。そういうことを踏まえて、あとは入退室の記録をきちんと取るとか、そういう形で行っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 システムについては、まだ完全に完成していないが、更新日付を見て、その日付が変わっていたら何かプログラムの書き換え等が起きているということだと運用会社から習ったので、そこを見て確認している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 失われたファイルは、3月3日にようやく復旧し、これからはそのファイルを運用して事務を行う予定。
 
-</div></div>
+</div>
 
 ##### ソフトウェア側で対応すべきでは
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 日付を見て確認するということだが、運営会社のほうで、ソフトウェアで対応してもらうことはできないか。要は、バッチ処理するときに、ソフトが日付を確認し、日付がちょっとおかしければメッセージを出したりして注意喚起するようなことはできると思うがどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 我々もそうなれば安心して仕事ができるということがあるが、市全体で我々と同じように職員が頑張ってやっているところがあり、そことの兼ね合いもあるため、我々がやりたいと考えてもすぐにできるものではないと考えている。
 
-</div></div>
+</div>
 
 ##### 全庁的な見直しをかけているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 未支給の問題が起き、こういう対策をすれば職員の方は間違えずにできるんじゃないかというところで、全庁的に、今回はひとつのきっかけだったと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 全庁的に見直していく必要があると思うが、そのあたりの取組は何かしているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 同じシステムを使っていれば同じような問題が起きる可能性はあるけれども、うちの課だけで、なかなか対応はできないから、その対応はしない、という話は変。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 今回のきっかけを無駄にしないためにも、全庁的な見直しをかけないといけないが、内部でそういう動きはあるのか。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 認知症総合支援事業、認知症高齢者見守り事業、認知症サポーター養成事業で得られた知見を基に、令和3年度、何か新しい取組や、まちづくりにつなげて新しいことがあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 新しい取組を特に始めるという予定はない。これまで認知症支援リーダーの方の活用を目指し、特に認知症カフェの立ち上げ等を意図し、講座等を令和元年度、2年度、続けて企画してきたが、現在、新型コロナウイルスの感染蔓延により2回とも延期しているような状況。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 地域で何が必要とされているのかということについては、認知症支援リーダーからも認知症カフェが必要だという声、自分たちが行いたいという声が届いており、そこに体制をつくりながら、地域の認知症に関する見守り体制の充実も図っていきたいと。
 
-</div></div>
+</div>
 
 
 #### 認知症カフェ等で集まった情報をまちづくり等に活用する仕組みはあるか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 認知症カフェや、認知症サポーター等で集まった情報は、最終的には市の中で共有し、まちづくり等に生かしていくような、その仕組みはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 機会を捉えて意見を吸い上げ計画に反映するように努めている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 具体的には、認知症の見守りをテーマに、今年度2月に基幹型地域包括支援センター中央センターが地域ケア会議を行った際、認知症支援リーダーの方に出席いただき、そのほかの関係者とともに御意見を伺っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 令和2年度に行った計画作成において、認知症支援リーダー等の意見は、地域包括支援センター等を通して意見を吸い上げ、まちづくりのイメージ等に活用している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 市内でそういう活動をされるのはよいが、令和3年度以降に向け、先進市の事例などある。そういった事例を調査して取り込んで、令和3年度以降の予算に生かしていこう、そういう施策に生かしていこうという、そういった動きはあるか。外部研修などで情報を積極的に取り込んでいくようなことは、たとえば令和3年度の予算の中にそういったことは盛り込まれているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 先進的な取組の情報については、適宜、認知症地域支援推進員の研修等で周知されており、それに参加するという形で情報の収集に努めている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 今後の取組については、先進的な取組を参考に、小平市だったらこういう形でできるんじゃないかというような検討を重ねながら、地域づくりに生かしていく。
 
-</div></div>
+</div>
 
 #### 介護保険料の独自減免について、人数増の理由と、他市の状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 介護保険料の独自減免について、人数増の理由と、他市の状況は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 平成30年度までは、おおむね26人から29人で推移。令和元年度に第1段階の対象を、「老齢者福祉年金受給者のみ」から「生活保護受給者以外」に変更したことにより、45人に増えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 他市は、この減免をやっている市もあれば、やっていない市もある。
 
-</div></div>
+</div>
 
 #### 介護認定審査会の人数と開催日数は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 介護認定審査会の人数と開催日数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 基本的に4人で審査している。年間回数は、予算上は233回予定。月曜日以外、火、水、木、金の毎日と、木曜日は医療機関が休みの場合が多いため、昼間も行っている
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 日額2万5,000円から2万7,000円となっていたので、結構大きな予算になっているが、どういう方がどういう経緯で委員になってらっしゃるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 委員数は45人おりまして、うち4人が出席している。内訳は次のとおり。
 - 医師：14人
@@ -282,24 +282,24 @@
 - 社会福祉士：6人
 - 精神保健福祉士：2人
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長（藤川）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
 
 選出方法は、3年に一度改選を行い、医師会や歯科医師会、薬剤師会、病院に推薦してもらう。あとは、保健師、社会福祉士等については、そのまま継続依頼を行ったり、別の方を紹介してもらったりという形で、委員を決めている。
 
-</div></div>
+</div>
 
 
 #### 認知症初期集中支援チームの構成員など詳細は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 認知症の初期集中支援チームが委託業務の中にあるが、このチームは実際に何人体制で、どなたがやっているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">高齢者支援課長補佐（星野）<br><div>
+<div class="bln bright" data-speaker="高齢者支援課長補佐（星野）">
 
 専門医とチーム員にお願いしている。
 
@@ -309,51 +309,51 @@
     - 地域包括支援センター中央センターの認知症地域支援推進員の看護職
     - 認知症専門のデイサービスを行っている事業所から、認知症介護実践リーダー、または認知症介護指導者という資格をお持ちの方
 
-</div></div>
+</div>
 
 #### 地域包括支援センターとして行っている事業は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 地域包括支援センターとして行っている事業は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域包括ケア推進担当課長（島田）<br><div>
+<div class="bln bright" data-speaker="地域包括ケア推進担当課長（島田）">
 
 総合相談支援事業、権利擁護事業、介護予防のケアマネジメント、地域の支援ネットワークづくりを行っている中で、それぞれ各事業を業務委託でお願いしています。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">地域包括ケア推進担当課長（島田）<br><div>
+<div class="bln bright" data-speaker="地域包括ケア推進担当課長（島田）">
 
 たとえば、実際には運営費補助と見守りボランティアの関係事業、家族介護教室の運営、認知症カフェ、認知症相談会、介護予防把握事業、生活支援コーディネーター等の事業を行いながら、中央センターだけは生活サポーターの養成講座や、認知症家族介護講座等を行っていただいている。これが地域包括支援センターの委託事業の全体。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 地域包括支援センターが何をやっているのか、これを見ただけじゃ分からない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 今、地域包括ケア推進担当課長が答えたように事業別予算ということで作成しているので、こういう形にならざるを得ない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 いろいろな事業の中で、地域包括支援センターにお願いしているところも多々ある。ただ、こちらの事業については、今は地域包括支援センターにお願いしているが、場合によっては、違う事業所なり法人にお願いする場合もある。全部、地域包括支援センターに委託している業務を、地域包括支援センターの運営事業の中に入れるというのは、事業別予算を取っている小平市としては、なかなかそれは難しい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康福祉部長（滝澤）<br><div>
+<div class="bln bright" data-speaker="健康福祉部長（滝澤）">
 
 地域包括支援センターにどのくらい、何を委託しているのかというところは、実際のところには現していないが、場合によっては決算特別委員会のような委員会の中で、分かりやすい表現を工夫できたらと考えている。
 
-</div></div>
+</div>
 
 </div>
 

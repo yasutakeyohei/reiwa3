@@ -61,7 +61,7 @@
 [令和2年度一般会計補正予算（第9号・第10号）](https://www.city.kodaira.tokyo.jp/kurashi/088/088682.html)
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -104,18 +104,18 @@
 
 #### 扶助費の想定人数が減っている理由は
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 教育関係の扶助費で想定人数985人が893人に減っている理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 扶助は、近年、雇用の醸成や景気の動向で減少傾向だった。
 今回コロナの影響でプラスに転じることも想定されたが、基準が前年度の所得で判定するため、今年度に関しては直結した形で反映しなかった。
 
-</div></div>
+</div>
 
 ### 2. 付託委員会での主な質疑
 
@@ -126,51 +126,51 @@
 #### 減収補てん債について
 ##### 内容は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 減収補てん債は今回限定とのことだが、これは何か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 まず、普通交付税の計算は次のとおり。
 
 普通交付税額 ＝ 基準財政需要額 － 基準財政収入額
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 この需要額も収入額も、見込み数値を使うため、実績が入ったときの差異は普通交付税に反映されない。いわゆる清算制度がない。今回は7税目について、コロナの関係で影響が大きいだろうと国から地方に配慮があり、令和2年度に限って清算制度をつくった 。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 基準財政収入額と実際に入ってくる金額の差額が、減収補てん債として借りられる額。実績値はまだ示されていないが、都との調整で見込みが出た。歳入を減らすとともに、それに合わせて減収補てん債を増やした。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 借りたものなので返す必要がある。返す際、交付税の（計算をする）中で、市の支出として見てもらえる。20年間借りるので、来年度から20年間かけて、元利償還分については基準財政需要額として計算されていく。長い時間かけて国の方で見てもらえる状況。
 
-</div></div>
+</div>
 
 #### 用途は限定されているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 減収補てん債の用途は何でもよいのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 一般財源なので、何にでも使える。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="減収補てん債とは">
@@ -233,51 +233,51 @@
 #### その他
 ##### 電算関係の業務委託費の内訳は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 電算関係の業務委託約4,300万円減額の内訳は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">増原 情報政策課長<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 **① 介護保険法改正対応の改修事業：約2,086万円の減**
 
 令和3年4月執行分と8月執行分の改修を予定していたが、コロナの影響で国からシステム内容の明細が伝わるのが遅く、4月執行分のみの改修となったため。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">増原 情報政策課長<br><div>
+<div class="bln bright" data-speaker="情報政策課長（増原）">
 
 **② 特別定額給付金のシステム改修：約750万円の減**
 
 詳細な仕様が当初示されなかったことから令和元年度に実施したプレミアム付き商品券事業を参考に予算計上していた。しかし実際の改修が、住民情報システムから対象者と口座データを抽出することが主なもので、契約額として大幅に下がったため。
 
-</div></div>
+</div>
 
 ##### 財政調整基金が約5.8億円回復したことに見解は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 財政調整基金が約5.8億円回復できたことに見解は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 減収補てん債という大きな起債ができたことで回復できた。目標額（35億円）には達成していないが、今回の積み立てで16億円見込みだった残高が22億円まで回復できる見込みが立った。
 
-</div></div>
+</div>
 
 ##### 小川駅西口の公共床で、男女共同参画に関わっている事業者の個室を設けない判断となった経緯は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 小川駅西口の公共床について、男女共同参画に関わっている事業は、元気村で部屋をもって活動していた。移転することになり、その活動の方は個室が欲しいという話だったが、どういう経緯で個室を設けない判断になったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">濱本 公共施設マネジメント課長<br><div>
+<div class="bln bright" data-speaker="公共施設マネジメント課長（濱本）">
 
 小川駅西口に限らず、公民館、図書館、市民活動支援センターの公共床のコンセプトは次のとおり。
 
@@ -286,139 +286,139 @@
 
 小川西には、公民館やその他機能が入る。公民館でも子育て支援や生活支援に関する活動をしているサークルがある。つながりを持ってもらい発展的活動ができればということで個室をつくらない。
 
-</div></div>
+</div>
 
 ##### 男女共同参画に関わっている事業者の元気村での活動実績は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 元気村での活動実態は。（年間で）何日使われたか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">濱本 公共施設マネジメント課長<br><div>
+<div class="bln bright" data-speaker="公共施設マネジメント課長（濱本）">
 
 平成15年度から、利用者は（年間）約千人で推移。利用日数の資料は手元にない。
 
-</div></div>
+</div>
 
 ##### 人工芝以外に事業を延期したものは
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 人工芝以外に事業の延期をした事例は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 財源確保のため大きな事業を止めたものはない。そのほかの状況で翌年度に繰り越したものは当然ある。たとえば中学校の移動教室、オリパラ系のもの。
 
-</div></div>
+</div>
 
 ##### この1年間でコロナ関連事業に使った財政調整基金の額は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 この1年間で、コロナ関連の事業に充てた財政調整基金の額は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 総額で約2.8億円。そのうち生活支援に約6,500万円、経営支援に約1.8億円、新しい生活様式に約3,000万円。
 
-</div></div>
+</div>
 
 ##### 萩山公園プールの耐用年数と令和元年の利用人数は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 萩山公園プールの耐用年数と利用人数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">島田 文化スポーツ課長<br><div>
+<div class="bln bright" data-speaker="島田 文化スポーツ課長">
 
 利用者は、令和元年度は9,245人。萩山管理棟の目標耐用年数は2030年。萩山プールの管理等は今年度に劣化診断をする。その結果を見て検討する。
 
-</div></div>
+</div>
 
 ##### 鷹の台駅前広場の桜を切らないでほしいという声があるが、どう設計するか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 鷹の台駅前広場の詳細設計について、大きな桜をほぼ全部切る立場だと思うが、木を切らないでほしいという声も根強くある。どういうコンセプトで設計するか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">金子 道路課長<br><div>
+<div class="bln bright" data-speaker="金子 道路課長">
 
 令和2年8月の事前説明会や、個別にいただいた意見を踏まえて詳細設計を進めている。令和3年の夏ごろに予定している事業説明会の中で説明する。可能な限り残したいと考えている。
 
-</div></div>
+</div>
 
 ##### 学童クラブの指導員が減った理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 学童クラブの指導員が減った理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">石野 子育て支援課長<br><div>
+<div class="bln bright" data-speaker="石野 子育て支援課長">
 
 上宿小学童クラブ第一の入会者数が非常に少なかったため、第一を休クラブとし、第二クラブのみで運営した。第一クラブに充てる予定だった指導員2名が不用となった。
 
-</div></div>
+</div>
 
 ##### 学童クラブ全体の状況は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 休クラブということだが、学童クラブ全体の状況はどうなっているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">石野 子育て支援課長<br><div>
+<div class="bln bright" data-speaker="石野 子育て支援課長">
 
 学童クラブの入会人数は全体として右肩上がりだが、学区によって横ばいだったり急に増えたり、地域性が非常に大きい。上宿は60人前後で横ばいの状況が数年続いている。第二として平成29年度に定員62人の大きなクラブ室ができ、60人くらいであればそちらで全部見られる状況。休クラブは1回休みという意味で、閉鎖ではなく、状況を見て開け閉めする。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">石野 子育て支援課長<br><div>
+<div class="bln bright" data-speaker="石野 子育て支援課長">
 
 上宿以外に、四小の第二は令和元度、2年度と休み、令和3年度は人数が戻って再開することになった。
 
-</div></div>
+</div>
 
 ##### 児童館指定管理料の減は何か
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 児童館指定管理料の減は何か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">石野 子育て支援課長<br><div>
+<div class="bln bright" data-speaker="石野 子育て支援課長">
 
 令和2年4月から6月にかけて児童館が臨時休館となったことから児童館の指定管理料を減額するもの。ただしこの減額859万6,000円がすべて、児童館と同じ指定管理者の明日葉が運営している学童クラブの指定管理料に移っている。児童館職員もすべて学童クラブの方に出勤し、学童クラブの職員として働いていた。
 
-</div></div>
+</div>
 
 ##### コロナ対策の指定寄附金は何に使うか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 コロナ対策の指定寄附金は何に使ったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">財政課長（尾崎）<br><div>
+<div class="bln bright" data-speaker="財政課長（尾崎）">
 
 商工費の、中小企業等支援給付金事業等に充てることを予定している。
 
-</div></div>
+</div>
 
 </div>
 

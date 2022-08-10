@@ -58,7 +58,7 @@
 
 [小平市：令和3年度予算](https://www.city.kodaira.tokyo.jp/kurashi/085/085735.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -106,49 +106,49 @@
 
 #### コロナ禍で国保加入者の収入に変動があったのでは
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 コロナ禍で国保加入者の収入に変動があったと予想されるが、どう見立てているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 事業収入等、厳しい状況は把握している。今回予算編成において国保税収入も約1.6億円減ると見込んでいる。
 国保財政を健全に安定的に運営していくところで、前年度2千2百万円を入れたところ、今回1.5億円入れ安定化を図っている。
 厳しい状況は見極めていく。
 
-</div></div>
+</div>
 
 #### 保険料の減額は検討したか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 厳しい状況において、段階的に保険料を上げていく計画、ここであえて減額する検討はあったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 これまでも国保についてはコロナ減免等も行っており、小平市の国保税が高いこともないので、税の引き下げの検討はしていない。
 
-</div></div>
+</div>
 
 #### 国保は制度自体にかなり無理があるが、市の見解は
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 以前から言っているとおり、国保は制度自体にかなり無理がある。小平市の裁量や責任ではいかんともしがたい部分がある。将来的な国保制度についての見解は。
 
-</div></div>
+</div>
 
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 
 国民皆保険の位置付けもある。これをどう安定的に運営するかは市の課題。市単独では解決できないので、都とともに考えていくことも必要。
 
-</div></div>
+</div>
 
 ### 2. 付託委員会での主な質疑
 この議案は特別会計・下水道事業会計予算特別委員会に付託されました。主な質疑を記します。
@@ -159,411 +159,411 @@
 
 ##### 金額を上げることは検討したか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 出産育児一時金の42万円を上げることは過去検討したか。今後どうなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 令和元年度、（出産費用は）全国平均で大体44万3,000円強、都道府県の中では東京都が最高額で（平均？）53万6,000円強。小平市内の3病院で、令和元年度平均で56万8,325円。42万円では足りない方がいる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🕵 もしかして小平市は出産費用が高いのでは
 
 東京都平均が約54万円で、小平市が約57万円、調べてみる必要がありそうですね。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 小平市もどうするか検討した。国全体での検討、東京都の取組が進んでいるので、情報収集しながら注視していた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 東京都が令和3年1月から、子ども1人に10万円を電子クーポンで給付する。また、産科医療保障制度が令和4年から、1万6,000円だったものが1万2,000円になるということがあったが、小平市としては、引き続き42万円の補助を続けていく考え。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 出産育児一時金を市の独自施策で増額する場合、財源を国民健康保険税に転嫁することになる。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 3分の1の額だが、国保財政健全化計画の下、赤字の削減に取り組んでいるところで、出産育児一時金の財源を捻出するために国民健康保険税のほうにということは、すぐには決められない。検討事項。
 
-</div></div>
+</div>
 
 ##### 増額により移住世帯が増えた際のメリットなどは検討したか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 いやらしい話になってしまうが、たとえば、1人子どもが生まれて新規に小平市内に住んでくれる家族が1世帯増えると、市の財政上等でどういったメリットが出てくるといった計算はしているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 保険年金課のほうでは特に算定していない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 たとえば出産育児一時金を4万円増やして、他市と比べて小平市は子どもに対して手当が厚いとなると、だったら移住して住もうかなという家族もいるかと。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 私も含めて多くの議員が要望しているが、150件だから、1件当たり4万円増やしたとしても600万円。太陽光発電の補助金を出すくらいなら、それが同額くらいなので、こっちを補助したほうがよい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 1人子どもが生まれて民生費が上がる部分と、世帯が移住してきて、市の経済が潤うという部分との兼ね合い、そういう計算を今後ぜひしてもらいたいが、どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 国民健康保険においては、特別会計という枠の中でやっている。子どもが生まれるメリット、コストは、引き続き市の研究事項という形で考えていきたい。
 
-</div></div>
+</div>
 
 ##### 増額は東京都がやらないと市は動けないのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 答弁を聞いていると、東京都がやらないとなかなか動かないという印象。東京都が率先してやってくれないと、小平市としては動けないところがあるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 東京都が統一してやるべきだと思っている。都道府県化のメリットを生かしてという形で考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 ほかの市で独自に補助金を出しているところがある。そこはどう評価しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 金井市が少し上げている。税率改定のときに併せてそこの予算と担保で行ったと聞いている。また23区でも、出産に関して別のフォローという形である。そこは特別会計ではなく子育ての部分や、ほかの一般会計のほうから出していると聞いている。
 
-</div></div>
+</div>
 
 ##### 出産された方の意見は聞いているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 出産された方の御意見を踏まえた上で、42万円を増やしていこうかと検討したりしているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 直接市民の声は伺っていない。病院のほうの、実際いくらかかったとかそういった情報については聞いている。
 
-</div></div>
+</div>
 
 ##### 増額分を一般財源から出せないのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 増額する際、一般財源ではできないのか、国民健康保険税でしかできないことなのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 法定内の繰入金のところもあるので、そういった中で総合的に考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 一般財源から出せるのか、出せないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 一般会計から特別会計に繰り出して支弁する基準というのが示されている。出産育児一時金については、支給基準額の3分の2までということで決まっているので、一般会計からの繰り出しは42万円の3分の2ということ。
 
-</div></div>
+</div>
 
 ##### いつまで検討するのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 検討事項だと言ったが、いつまで検討する予定か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 常々から出産育児一時金のところは金額が不足していることは重々認識している。課長会や東京都のほうに要望は出している。令和2年10月あたりに一時金の増額の話等も出ているので、その辺の推移を見守りつつ検討を引き続きしていく。
 
-</div></div>
+</div>
 
 #### 一般管理費が約2,700万円増の理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 国民健康保険事業の一般管理費が前年度比で2,716万4,000円増の理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 2年に一度、保険証の一斉更新がある。令和3年度は一斉更新の年で、保険証の作成費や、役務費も上がる。システム改修も予定されており、2,700万円ほどかかってくる。節約できるところは節約しつつ、かかるところには予算をかけ、結果的にその金額が増となっている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 保険証の更新に対応したシステム改修なのか、経常的にかかってくる2,700万円なのか。今後、何か保険証の更新等があるときに、毎回毎回かかってくるお金なのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 東京都へ経常的に毎年払っているもののほかに、2,778万8,000円、令和3年度だけかかるものは、市町村事務処理標準システム導入業務委託ということで、令和4年から市町村事務処理標準システムを導入するので、それに係る国民健康保険分の負担が、令和3年度だけ発生する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 住民情報システムの改修等にも、令和3年度のみ400万円程度かかるものがある。
 
-</div></div>
+</div>
 
 
 
 #### 特定検診事業費、保険事業費が前年比で増の理由は
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 特定健康診査等事業費、保健事業費が前年度比で上がっている理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 単価の上昇が1点あることと、特定保健指導において、実際指導する対象者数を少し増やしている。
 
-</div></div>
+</div>
 
 #### 国保運協で委員の発言が少ないのでは
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 国民健康保険運営協議会事業を傍聴していつも感じるのは、意見があまり出ていないこと。令和3年度に入るときに、できれば発言のない方に積極的に発言してもらうよう促してもらいたいが。会長のほうに伝えていただくことはできるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 実際、あらゆる委員から意見が出ていないというところに関しては、会長を含めて御確認というか、こういった御意見があったという形で発言を出していただくようにはしていただきたいと思う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 先日の運営協議会などは多岐多様な意見が出たと感じているところ。
 
-</div></div>
+</div>
 
 #### 特別会計の予算書もインターネットに掲載を
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 特別会計の予算書がインターネットに出ていない。一般会計は昨年ぐらいに載せてもらえるようになったが、この特別会計も載せてもらえないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 確認し、できるような形で対応していきたい。
 
-</div></div>
+</div>
 
 #### 被保険者数と世帯数をどう計算しているか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 細かいテクニカルな話だが、平均被保険者数と世帯数は、大体どれぐらいの振れ幅を見込んでいるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 被保険者数が300人減り、世帯数が10世帯減り、単純に割ると1世帯当たり30人ぐらいになってしまう。どういう計算になっているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 令和2年の大体8月、9月、10月の中央値のあたりの数字を参考にして出している。決算値においては若干ぶれるところがある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 被保険者の推移というところで年齢が74歳から75歳の後期高齢者医療に移行する人は生年月日で確実に把握できるが、社会保険から入る方、もしくは退職してどのくらいの方が国民健康保険に入るのか、もしくは任意継続するかというところが非常に難しく、読みにくいところがある。
 
-</div></div>
+</div>
 
 #### 徴収率以外にコロナ禍の影響が大きく出たものは
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 徴収率1.2ポイント減以外に、コロナ禍の影響で、国民健康保険の令和3年度の予算に大きな影響として表れているものはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 調定のベースで考えると、被保険者数が若干減っているところと、大きいところでは、所得の減により新型コロナウイルスによる減免の申請額が影響している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 2月末ぐらいで7,000万円ぐらいの減免の申請があった。今回予算のほうには織り込んで調定の減という形で対応している。
 
-</div></div>
+</div>
 
 
 #### 東京都から交付される特別交付金の内訳は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 東京都から交付される特別交付金の内訳は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 予算書では都支出金の中の特別交付金として4種類説明している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 特別調整交付金市町村分の中に、『保険者努力支援分』として、保険者が努力した点数の加点による交付金がある。約8割が保険者努力支援分として交付され、特別調整交付金の市町村分に残り2割が交付されるので、内示された総額を8割と2割に分けて計上している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 そのほかに、令和2年度から、特別調整交付金の中で『健康増進に係る事業分』ということで1,350万円を上限とした金額が、保険者努力支援分と市町村分にそれぞれ8割と2割に分けて交付されるということになった。事業費分とは、取り組んでいる分のことで、実績があれば上限額まで交付される。その分を計上し、合計で保険者努力支援分として6,371万円。特別調整交付金の市町村分の3,065万円は、そのほかに市町村分の項目で実績によって獲得できるものをプラスして3,065万円で計上している。
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 また、都繰入金2号分にも保険者が努力した分、成績により交付される項目があり、約1億円は保険者が努力した分として交付されると考えている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長補佐（河野）<br><div>
+<div class="bln bright" data-speaker="保険年金課長補佐（河野）">
 
 それぞれ事業にかかった分に充当しており、国民健康保険税で事業費納付金を賄うことになっているが、東京都から示された事業費納付金は税収だけでは足りないため、この保険者努力支援分で獲得した分も充てている。
 
-</div></div>
+</div>
 
 #### 
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 基金の残高にペナルティはあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 国等から、残額に対してペナルティー等は一切ない。
 
-</div></div>
+</div>
 
 #### 広告収入の内訳と拡充策は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 広告収入5万円の内訳と、拡充策は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 保険年金課で発送する納税通知は大体5万2,000通で、実績から1枚1円掛ける5万2,000通で、5万2,000円を計上。スペースの関係もあり、これ以上の増額はなかなか難しい。
 
-</div></div>
+</div>
 
 #### 赤字削減解消計画書の提出に関し、ペナルティはいくらだったか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 赤字削減解消計画書の提出に関して、ペナルティーはどのくらいのマイナスだったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 赤字削減解消計画の部分では、以前は具体的な年数を提示してなかったが、ここはマイナス30点という形で、ここに細かい点数と被保険者数を掛けていくと、年間約360万円ぐらいのペナルティーで公費が取れなかったところ。このあたりは、どうしても後出し的な採点評価になっているため、国民健康保険の連携会議や、いろいろ課長会でも、これはいかがなものかという形で要望とか、そういった形で意見はしっかりと、小平市に限らず、たくさんの市から東京都のほうに意見している。
 
-</div></div>
+</div>
 
 #### 黒字化した際に一般会計へ繰戻した分は国保限定にしては
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 黒字化した際に一般会計へ繰戻した分は、国保限定にして運営してほしいがどうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 残が出た場合、国民健康保険の運営基金のほうにそのまま積む場合もあるし、一部、一般会計のほうに戻す場合もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">企画政策部長（津嶋）<br><div>
+<div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
 一般会計も、けっして安定的な財政状況にはない、かなり厳しい状況。繰入金の「その他」がいわゆる赤字の繰り出し分で、法定外、もともとは一般会計から繰り出す必要がないものが、現状、11億9,000万円ほどある。本来、出さなくてよいものが一般会計で使えれば、さまざまな市民サービスにも財源として活用できる。国民健康保険に残しながら、国民健康保険の安定的な財政運営を図る部分、あるいは一般会計に戻して、また一般会計の市民サービスに活用を図る部分は、そのときどきのそれぞれの財政状況を踏まえて判断していきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 🤔 
 
-</div></div>
+</div>
 
 #### プロジェクトチームの構成は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 プロジェクトチームは何人ぐらいの構成で、どういうことの検討を始めているのか。その結果は、ちゃんと報告してもらえるのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 令和2年4月に、健康福祉部だけではなく、
 
@@ -576,37 +576,37 @@
 
 の中で発足している。活動の内容、具体的な事業については、今後、議会等でもきちんと報告していく。
 
-</div></div>
+</div>
 
 #### 法定外繰入金をゼロにするのはやめないか
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 法定外繰入金をゼロにしていくという方針を持っているが、その分は約12億円。1人当たり3万4,000円増。それが全部、被保険者にかぶる。国民健康保険は個人事業主、高齢者、リタイアした人、その後、後期高齢者医療制度に移っていくわけだが、そういう状況になっているからやめるべきと言ってきた。金額的にもう限界に来ている気がする。やめませんか。改めて、そういう考えがないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 解消に向けて、国から求められている。市としてはその方向性に従う。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 しかしながら、引き続き公費の拡充等を要望し、負担にならないようなところは当然、市としても推進していく。
 
-</div></div>
+</div>
 
 #### 軽減を受けている世帯数は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 軽減制度を受けている世帯数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 軽減の世帯人数別の世帯数としては、今、捉えていないが、全体として、
 
@@ -616,21 +616,21 @@
 
 世帯構成や所得の状況までは把握していない。
 
-</div></div>
+</div>
 
 #### 税額の平均は
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 税額は平均いくらか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">保険年金課長（澁谷）<br><div>
+<div class="bln bright" data-speaker="保険年金課長（澁谷）">
 
 今回の国民健康保険税の調定のベースで、被保険者数で割り返すと10万9,469円、収入ベースだと8万6,925円。
 
-</div></div>
+</div>
 
 
 </div>

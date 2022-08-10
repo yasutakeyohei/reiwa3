@@ -42,7 +42,7 @@
 >
 > 示談につきましては、相手方との交渉の結果、このたび損害賠償の額、184万5千200円で合意に達したものです。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}

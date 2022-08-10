@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=130&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会（未）</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=59&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=130&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1209&schedule_id=2&minute_id=6&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=59&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -55,7 +55,7 @@
 
 [小平市個人番号カードの利用に関する条例](https://web.archive.org/web/20210510082941/https://www.city.kodaira.tokyo.jp/reiki/reiki_honbun/g135RG00001171.html)を廃止するもの。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -90,17 +90,17 @@
 
 #### 経過措置はいつまでを予定しているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 経過措置はいつぐらいまでを予定しているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">山本 市民課長<br><div>
+<div class="bln bright" data-speaker="山本 市民課長">
 
 自動交付機が使える期間。自動交付機のリース期間は令和4年9月末に終了する予定。
 
-</div></div>
+</div>
 
 <div class="tips" id="リースが終わると自動交付機が使えなくなるのか">
 
@@ -112,17 +112,17 @@
 
 #### 小平市のマイナンバーカード交付率は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 小平市のマイナンバーカード交付率は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">山本 市民課長<br><div>
+<div class="bln bright" data-speaker="山本 市民課長">
 
 令和3年2月末で28.3%、5万5,368枚。
 
-</div></div>
+</div>
 
 </div>
 

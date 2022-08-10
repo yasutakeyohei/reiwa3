@@ -36,7 +36,7 @@
 > 現在、教育委員会委員であります三町章（みまち　あきら）氏が、来る9月30日をもちまして任期満了となりますが、引き続き、委員として、お願いいたしたいと考えております。
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議）
 {{#include ../partials/situgi-note.md}}
@@ -55,13 +55,13 @@
 </div>
 
 ### 教育長の職務代理をされた事例はあったか
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 教育長の職務代理をされた事例はあったか。
 
 </div></div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 教育長が欠けた場合に代理するが、教育長が不在になったことはないため代理したことはない。
 
@@ -69,13 +69,13 @@
 
 ### 今回も職務代理をされるのか
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 今回も職務代理をされるのか。
 
 </div></div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 9月末に役割を終える。任期が始まる10月1日に改めて教育長が指名することを想定している。
 
@@ -83,13 +83,13 @@
 
 ### コロナ禍に対してどう問題提起され、どのようなご意見をお持ちか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 コロナ禍に対し、三町教育委員はどのような問題提起をされ、どのようなご意見をお持ちか。
 
 </div></div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 三町委員は教育現場、教育行政に関わっている期間が長く、全般についていろいろ意見をいただいている。
 - 教員の働き方改革
@@ -99,7 +99,7 @@
 
 </div></div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 学校訪問においても、学校現場を見る中で、基本に忠実で、
 - 教育目標を教室の真ん中にしっかり掲げていること
@@ -111,13 +111,13 @@
 
 ### 教育のデジタル化についてどう考えているか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 教育のデジタル化についてどう考えているか。
 
 </div></div>
 
-<div class="balloon bl-right">教育部長（川上）<br><div>
+<div class="bln bright" data-speaker="教育部長（川上）">
 
 ギガスクール構想のPC導入のところで、デジタル化についてご意見いただいている。非常勤で大学等で教えられている中で、オンラインの講義もされており、前向きな意見をいただいたと受け止めている。さまざまな活用が進む中で、これからどう進めていくかについても助言いただいている。
 

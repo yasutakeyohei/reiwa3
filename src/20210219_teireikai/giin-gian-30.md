@@ -46,7 +46,7 @@
 
 ## 提出者代表議員の説明
 
-> 竹井ようこ（フォーラム小平）
+> 竹井ようこ議員（フォーラム小平）
 >
 > 新型コロナウイルス感染症によって、この１１月ぐらいだったでしょうか、第３波というものが来たということでありますけれども、感染症感染が拡大している時期にもＧｏＴｏキャンペーンを停止しなかった、あるいは早々と国会を閉じて１月１８日まで国会を開かずに、事業者や国民への支援が後手に回ったのではないかと思っており、政府の責任は極めて重大だと思っております。私たちは、国会及び関係行政庁に対して、新型コロナウイルス感染症に関して、感染防止を最優先に国民の命と暮らしを守るという立場に立って、次の事項を徹底して万全の対策を講じるように求めていきたいと思っております。一つとしては、コロナ禍での雇用や暮らしを守るために、雇用調整助成金の特例措置の延長でありますとか、休業支援金の拡充、失業手当の拡充、休業要請に応じた場合の経済支援、持続化給付金、家賃給付金の再給付に取り組むこと。もう１点として、営業自粛は十分な経済的支援を前提としてこれを行うこと。自治体が営業自粛を求めた際の経済的支援については、緊急事態宣言発令地域であるなしにかかわらず、国が十分な財政的措置を講ずることということであります。もともとこれは、次の議員提出議案第３１号と１本で提出をする予定でありましたけれども、かかる委員会が違うということでありましたので、２本に分けまして提出をさせていただきました。よろしくお願い申し上げます。
 
@@ -55,7 +55,7 @@
 - [意見書1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=54&minute_id=1&is_search=true)
 - [意見書2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=62&minute_id=1&is_search=true)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -80,90 +80,90 @@
 
 #### この前振りで賛成してもらうのはきついのでは
 
-<div class="balloon bl-left">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 政府の無為無策による人災だというような断定の仕方とか、これでは賛成してもらうのはきついだろうと思うが、どういう配慮を提出者は考えているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">竹井ようこ<br><div>
+<div class="bln bright" data-speaker="竹井ようこ議員">
 
 書き直し等も含めて考えていきたい。
 
-</div></div>
+</div>
 
 #### 政府批判が目的なのか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 政府批判が目的なのか、新型コロナウイルス感染症対策をすることが目的なのか
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">竹井ようこ<br><div>
+<div class="bln bright" data-speaker="竹井ようこ議員">
 
 国に取り組んでいただきたいという、そういうことを地方から言っていくという目的。
 
-</div></div>
+</div>
 
 #### 内容が近い動議にずっと反対しておきながらこの意見書を出す整合性は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 私たちは内容が非常に近い組替え動議をこれまで出してきたが、今これに賛同している人々は、今まで反対してきた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 今まで反対をしてきたのに、今回これを出すという、整合性はどう考えているのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">竹井ようこ<br><div>
+<div class="bln bright" data-speaker="竹井ようこ議員">
 
 組替え動議は、市が財政負担をしてということが前提だったが、私たちは国に対して要求をしている。
 
-</div></div>
+</div>
 
 
 #### このタイミングで出した理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 私たちは8月、9月、12月と、続いて組替え動議を出し、新型コロナウイルス感染症対策をすぐにやるべきだということを言ってきたが、このタイミングでこの意見書を出した理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">竹井ようこ<br><div>
+<div class="bln bright" data-speaker="竹井ようこ議員">
 
 いろんな神の声をいただいている。国からも様々な支援策が出されているが、経済支援、持続化給付金、家賃支援給付金等も、2月で終わっているというようなこともあるので、そういったことの継続を求めていきたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 😩 言ってることがめちゃくちゃなのでは…
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 常に喫緊で求められていたので動議を出してきた。市のことだが、それに反対をしてきたわけで、もっとはやくできたんじゃないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">竹井ようこ<br><div>
+<div class="bln bright" data-speaker="竹井ようこ議員">
 
 おっしゃっている内容とかに特に異論があるわけではなくて、それが今、市でもってできないという前提があるので、なかなかそこに賛成ということはできなかったことと、あとは、市に対する要望ということですから、そこはきちんと、対象が誰であるかということは正確に申し上げていかなきゃいけないというところがあると思いますが、そこが曖昧であったり、そのときそのときでいろんな理由はあったかと思います。しかし、思いは一緒だと思っております。ですから、今おっしゃっていただいたところが何か矛盾があるとは思っていないです。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left bl-tips"><div>
+<div class="bln bleft thought">
 
 😩
 
-</div></div>
+</div>
 
 
 </div>

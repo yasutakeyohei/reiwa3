@@ -111,7 +111,7 @@
 </table>
 
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -140,29 +140,29 @@
 
 #### それぞれの住宅区分の数は
 
-<div class="balloon bl-left">👍 安竹洋平議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 安竹洋平議員（一人会派の会）">
 
 固定資産税が7,200万円の減収見込みだが、これは小規模住宅用地と非住宅用地でどういう内訳か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 住宅用地、小規模住宅用地、その他の数について、詳細な数字は今持ち合わせていない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 規模感が知りたい。小規模住宅用地や非住宅用地の数は把握していないのか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 手元に筆数の資料は持ち合わせがない。
 
-</div></div>
+</div>
 
 <div class="tips" id="住宅用地区分ごとの数は不明">
 
@@ -201,67 +201,67 @@
 #### 専決処分ということについて
 ##### 市長はどう認識しているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 毎年のように、年度をまたがるような法改正があり、税制に限らず、国民健康保険などでも出てくるが、国会議員にこういうことをやめろと言っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長は専決処分を行うことについてどういう認識を持っているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 条例改正の根拠となる地方税法等の一部を改正する法律が公布されたのが3月31日で、それをもって条例改正の公布、施行ということになっているので、どうしても市長の専決処分という手続きは外せない。
 
-</div></div>
+</div>
 
 ##### 国に申し入れをしているか
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 このような地方自治をないがしろにするようなやり方がまかり通っていることについて、今後、市長会などを通じて、国会に改めてもらうような、そういった申し入れをしているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市民部長（柳瀨）<br><div>
+<div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 なかなか難しいと考えている。そういう機会があれば考えてみたい。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 事情は分かっている。そもそも専決処分というのは特別なことをしている、その認識が市長にあるかと聞いている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 私はこれは国がけしからないと思っている。地方自治、地方議会をないがしろにしている。国会議員に会った時に改めろと言っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 市長会を通して言うのは市民部長が答えることか。越権行為ではないか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 私もこの議案の説明を受けたときに、通年議会だったらどうなるかと聞いたが、「3月31日に示される以上は通年議会であっても専決処分になる」と説明を受けた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">市長（小林洋子）<br><div>
+<div class="bln bright" data-speaker="市長（小林洋子）">
 
 市長会という形かどうかは判断しかねるが、機会を捉えて国に申し入れしていきたい。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="市税条例の改正が専決処分になってしまう理由">

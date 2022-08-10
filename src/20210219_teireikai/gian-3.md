@@ -55,7 +55,7 @@
 
 [3月補正予算・令和2年度後期高齢者医療特別会計補正予算書（第2号）](https://www.city.kodaira.tokyo.jp/kurashi/084/084844.html)
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -90,29 +90,29 @@
 
 #### 葬祭事業費の支給対象者数は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 葬祭事業費が5,660万円から325万円（約5.7％）増額されているが、支給対象者数の増数は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">後藤 保険年金課長補佐<br><div>
+<div class="bln bright" data-speaker="後藤 保険年金課長補佐">
 
 ここ5年では千人より少し多めの数字で動いている。月平均では80人程度。今年度は4月から11月までのデータで積算し、月平均90人（約13％増）。
 
 申請書に亡くなった理由は書かないことから、理由は不明。
 
-</div></div>
+</div>
 
 #### 保険基盤安定負担金が1,100万円増の理由は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 保険基盤安定負担金が1,100万円の増になった理由は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">後藤 保険年金課長補佐<br><div>
+<div class="bln bright" data-speaker="後藤 保険年金課長補佐">
 
 広域連合の見立てで、7割軽減、5割軽減、2割軽減の方の状況を見ている。それぞれ次のとおり。
 
@@ -123,37 +123,37 @@
 <tr><th>2割</th><td class="aright">150万円</td></tr>
 </table>
 
-</div></div>
+</div>
 
 #### 後期高齢者医療に関してコロナ禍の影響は
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 後期高齢者医療に関して、コロナ禍の影響は。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">後藤 保険年金課長補佐<br><div>
+<div class="bln bright" data-speaker="後藤 保険年金課長補佐">
 
 特にコロナの影響で保険料の収納率が落ちたということはない。
 
-</div></div>
+</div>
 
 #### 広域連合の当初予算額に対し補正額3,900万円、1％弱増は想定の範囲内か
 
-<div class="balloon bl-left"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 広域連合の当初予算額に対し補正額3,900万円、1％弱の増。これは想定内の数値か。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">後藤 保険年金課長補佐<br><div>
+<div class="bln bright" data-speaker="後藤 保険年金課長補佐">
 
 想定の範囲内。
 
 どうしても大きく減額幅が出るのが、保険料軽減措置負担金。例年、広域連合がかなり高めの設定をしているが、実際にはそれほど入ってこないところで大きな差が出る。
 
-</div></div>
+</div>
 
 </div>
 

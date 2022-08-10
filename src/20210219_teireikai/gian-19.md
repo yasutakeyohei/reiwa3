@@ -78,7 +78,7 @@
 
 ---
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -107,33 +107,33 @@
 
 #### 小平市の責任でもある。再発防止策は
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 これは小平市の責任もある。チェックできていなかった。どうしたら今後こういうことが起きなくなるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 市としてもこの問題を重くとらえている。全庁的に、ほかの社会福祉事業ということで、全庁で注意喚起をして調べた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 相手方に返還をお願いしてから3年が経過し、訴えの提起ということになった。そこに至るまでは弁護士等と相談し、改めて詳細な調査をし、弁護士の助言を受け、専門的な観点から証拠資料の収集等をしている。そこであらためて分かったこと、気付いたことがある、今後全庁で共有し、再発防止に取り組みたい。
 
-</div></div>
+</div>
 
 #### ほかの部署・事業でも過払い事例があったか
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 ほかの事業でも第二種福祉事業が課税事業かを全庁的に調べたと言ったが、過払いはあったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 ほかに3事業の4事業者で同様な事案があった。これらは、すでに平成29年度と30年度に返還してもらい、決算に計上している。
 
@@ -148,93 +148,93 @@
 
 以上はすべて返還していただいている。平成29年度、30年度の決算に計上し、決算書の雑入で、返還金として計上している。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 問題を把握した平成29年度のところで、その分を、当該年度分の協定額や委託金額を変更し、減額させてもらったりという対応をしているので、市の歳入に入る処理となっている。
 
-</div></div>
+</div>
 
 #### 過払い分の回収費用はどう扱うか
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 返還のコスト、回収費用はどう扱われるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 事業者の側に、納税した分を返してもらう手数として、税理士に依頼などはあると思うが、市の方では回収にかかった費用はない。
 
-</div></div>
+</div>
 
 #### 再発防止策が整った時点でちゃんと説明があるか
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 今後全庁的に共有していくと言ったが、その時点で議員に説明があるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 人間誰しも間違えはある。もし責任を問うなら市長。再発しないようにすることが必要で、再発防止策も、議員が確認するプロセスが必要。訴訟の後でもよいが、そのプロセスは考えられているか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 再発防止に関し、議員の方々には話せないこともあるが、判決が出た後は報告し、説明する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 職員はいろいろなことに精通しなければならない。担当業務、法令、それ以外の契約等を間違いなく執行するには、所管管理部門の支援を受ける必要もある。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 細かなところではなく、大きな仕組みとして、どういったことが必要かを全庁で考えていかなければいけない。
 
-</div></div>
+</div>
 
 #### 訴訟費用の額と、どこの負担になるか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 訴訟費用はどれくらいで、どこの負担になるか。その分が市民の損失になるが。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 訴訟遂行の方針として、訴訟費用は相手方の負担とする。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 裁判例では、訴訟費用には弁護士の委任費用は含まず、裁判の手数料としての印紙代といったところなので、弁護士の費用は市が負担する。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 着手金としてだいたい100万円弱。成功報酬として、得られた額の10％ほど。
 市は、いま考えられる最大限の額で請求する。利息は本日までの利息なので、支払ってもらえることになったとき、支払期日までの利息として積み上げられるため、変動はあると考えている。そのため、成功報酬がどれくらいになるかは見えない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 国家賠償法の1条に規定があるように、地方公共団体がその責任を負うことになっている。
 故意または重過失であればまた変わってくるが、それは裁判所で認定となるので、詳細については言及できない。
 
-</div></div>
+</div>
 
 <div class="tips" id="職員による損害は重過失でなければ国や自治体が責任をもつ">
 
@@ -252,64 +252,64 @@
 
 #### 情報提供が遅い。速やかにすれば再発防止にもつながるが、どうか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 この事件にかかわらず、いろいろなことで情報提供が遅い。悪く見れば、隠ぺい体質と感じられる。情報提供は速やかにするべきで、再発防止にもつながると考える。どうか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 当初平成29年度末ごろ問題を把握した。ほかの事業者は比較的速やかに返してもらえた。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 
 一事業者で、折り合わない、主張が根本から食い違うというところで2年間話し合いを続けてきた。できれば話し合いで解決したいと。（当該事業者は）ほかにも事業展開をしていて、同じような問題を抱えているのではないかという予測もあり、（当該）事業者への配慮、そうったものをこちらとしては重くとらえていた状況もあった。3年間経過したことは申し訳ないと思っていた。
 
-</div></div>
+</div>
 
 #### 訴訟になる前に弁護士どうしの話し合いをすべきでは
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 訴訟に至る前に、相手方と弁護士どうしの話し合いの場を設けることはできなかったか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 事業者側からそういう話もあったが、相手側と市とで目指す解決策が折り合わない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 相手方は、示談に近いような、「双方妥協する金額で」という話だった。市としては妥協する話ではなく、どちらのどの主張が正しく、どの金額がきちんとした根拠のある金額かを定めなければ、税金なので妥協できない。法務の担当部署からも弁護士どうしの話し合いはできないという見解をもらっている。市の主張としては、不当利得と言っている。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">伊藤 子ども家庭部長<br><div>
+<div class="bln bright" data-speaker="伊藤 子ども家庭部長">
 
 このまま話し合いでの解決ができないと、法的措置に移行せざるを得ないということを、何度となく伝えてきた。相手方は、当初から返還する意思はないと主張しており、幹部からも裁判所に決めてもらうのがよいと申し出を受けたこともある。訴訟に関しては相手方も見据えていたと考える。
 
-</div></div>
+</div>
 
 #### 顧問弁護士はどう選ばれたか
 
-<div class="balloon bl-left">他会派の議員<br><div>
+<div class="bln bleft" data-speaker="他会派の議員">
 
 顧問弁護士はどういうプロセスで選定されたか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">白倉 総務部長<br><div>
+<div class="bln bright" data-speaker="白倉 総務部長">
 
 顧問弁護士は現在2名に依頼している。市の行政等の事務にある程度精通された方ということで選んでいる。
 
-</div></div>
+</div>
 
 </div>
 

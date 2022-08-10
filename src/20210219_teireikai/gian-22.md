@@ -54,7 +54,7 @@
 
 この条例は、公布の日から施行する。
 
-<div class="situgi">
+<div class="ippan-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -77,57 +77,57 @@
 
 #### 中国武漢を由来とはどういうことか
 
-<div class="balloon bl-left hitori">👍 橋本久雄議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 中国武漢を由来としているとあるが、どういうことか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 中国武漢が由来（とされている）のウイルスについて、変異株も対象となると聞いている。これは、今後、（中国武漢由来）以外の新型コロナウイルスが出た場合は、傷病手当の対象とはしない、という区分けをしているもの。
 
-</div></div>
+</div>
 
 #### 小平市として何が対応として変わるか
 
-<div class="balloon bl-left hitori"><span class="yasutake">⭐️ 安竹洋平議員</span><br><div>
+<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
 
 小平市として、何が対応として変わってくるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 支給要件その他、対応が変わるところはない。
 
-</div></div>
+</div>
 
 #### COVID-19ウイルスがあるという科学的根拠はあるか
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 COVID-19ウイルスを実際に見た人はいないと聞いている。新型コロナウイルスがあるという科学的根拠はどこかにあるか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 私どもも報道等で知る限り。特段、市で把握していることはない。
 
-</div></div>
+</div>
 
-<div class="balloon bl-left hitori">👍 伊藤央議員（一人会派の会）<br><div>
+<div class="bln bleft hitori" data-speaker="👍 伊藤央議員（一人会派の会）">
 
 ということは、ウイルスが実在するかどうかを科学的に証明しているものはなく、あるかどうかわからないものを条例に入れていく、ということでよいか。
 
-</div></div>
+</div>
 
-<div class="balloon bl-right">健康・保険担当部長（篠宮）<br><div>
+<div class="bln bright" data-speaker="健康・保険担当部長（篠宮）">
 
 国保で傷病手当を支給するところで位置付けをしている。内容については国からの指示灯を受けて対応している。
 
-</div></div>
+</div>
 
 </div>
 
