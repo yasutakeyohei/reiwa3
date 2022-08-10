@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 即決
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">本会議</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1223&schedule_id=2&minute_id=1&is_search=true">本会議</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>

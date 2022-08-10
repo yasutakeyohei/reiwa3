@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=230&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1238&schedule_id=2&minute_id=150&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=6&minute_id=14&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=230&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1238&schedule_id=2&minute_id=150&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=6&minute_id=14&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -95,7 +95,7 @@
 
 #### 再交付手数料800円のうち、市の収入は
 
-<div class="bln bleft" data-speaker="⭐️安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️安竹洋平議員（一人会派の会）">
 
 マイナンバーカードの再交付手数料800円のうち、市の収入になる額は。
 
@@ -113,7 +113,7 @@
 
 </div>
 
-<div class="bln bleft" data-speaker="⭐️安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️安竹洋平議員（一人会派の会）">
 
 市の手数がかかっても、市に収入はない、ということでよいのか。
 
@@ -127,7 +127,7 @@
 
 #### 低炭素建築物認定制度に関連した認定手数料は一般財源に入るのか
 
-<div class="bln bleft" data-speaker="⭐️安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️安竹洋平議員（一人会派の会）">
 
 低炭素建築物認定制度に関連した認定手数料を一部減額することで、いわゆる省エネ住宅の促進になると思うが、手数料の収入に関してはどうなるか。一般財源に入れるのか。
 
