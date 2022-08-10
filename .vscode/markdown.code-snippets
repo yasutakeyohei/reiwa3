@@ -10,7 +10,7 @@
 		"scope": "markdown",
 		"prefix": "yasu",
 		"body": [
-			"<div class=\"bln bleft\" data-speaker=\"⭐️安竹洋平議員\">",
+			"<div class=\"bln bleft yasutake\" data-speaker=\"⭐️安竹洋平議員（一人会派の会）\">",
 			"",
 			"$1",
 			"",
@@ -21,11 +21,11 @@
 		"scope": "markdown",
 		"prefix": "hitori",
 		"body": [
-			"<div class=\"balloon bl-left\">👍 $1議員（一人会派の会）<br><div>",
+			"<div class=\"bln bleft hitori\" data-speaker=\"👍 $1議員（一人会派の会）\">",
 			"",
 			"$2",
 			"",
-			"</div></div>$3"
+			"</div>$3"
 		],
 	},
 	"イイね": {
@@ -60,6 +60,17 @@
 		"prefix": "thought",
 		"body": [
 			"<div class=\"bln bleft thought\">",
+			"",
+			"$1",
+			"",
+			"</div>$2"
+		],
+	},
+	"angerタグ": {
+		"scope": "markdown",
+		"prefix": "anger",
+		"body": [
+			"<div class=\"bln bleft anger\">",
 			"",
 			"$1",
 			"",
