@@ -17,8 +17,8 @@
 <fieldset class="nittei">
   <legend><h2>主な議事</h2></legend>
 
-1. [諸報告](./syohokoku.md)
-1. [市長の所信表明](./syosin-hoymei.md)
+1. [諸報告](./syohoukoku.md)
+1. [市長の所信表明](./syosin-hyomei.md)
 1. [緊急質問](./kinkyu-situmon.md)
 1. [議案第24号　専決処分（小平市税条例の一部を改正する条例）の承認を求めることについて](./gian-24.md)
 1. [議案第25号　令和3年度小平市一般会計補正予算（第2号）](./gian-25.md)
