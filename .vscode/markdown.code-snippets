@@ -10,11 +10,11 @@
 		"scope": "markdown",
 		"prefix": "yasu",
 		"body": [
-			"<div class=\"balloon bl-left\"><span class=\"yasutake\">⭐️ 安竹洋平議員</span><br><div>",
+			"<div class=\"bln bleft\" data-speaker=\"⭐️安竹洋平議員\">",
 			"",
 			"$1",
 			"",
-			"</div></div>$2"
+			"</div>$2"
 		],
 	},
 	"一人会派の会議員の質問タグ": {
@@ -37,35 +37,64 @@
 		"scope": "markdown",
 		"prefix": "tasitu",
 		"body": [
-			"<div class=\"balloon bl-left\">他会派の議員<br><div>",
+			"<div class=\"bln bleft\" data-speaker=\"他会派の議員\">",
 			"",
 			"$1",
 			"",
-			"</div></div>$2"
+			"</div>$2"
 		],
 	},
 	"答弁タグ": {
 		"scope": "markdown",
 		"prefix": "touben",
 		"body": [
-			"<div class=\"balloon bl-right\">$1<br><div>",
+			"<div class=\"bln bright\" data-speaker=\"$1\">",
 			"",
 			"$2",
 			"",
-			"</div></div>$3"
+			"</div>$3"
 		],
 	},
-	"tipsタグ": {
+	"thoughtタグ": {
 		"scope": "markdown",
-		"prefix": "tips",
+		"prefix": "thought",
 		"body": [
-			"<div class=\"balloon bl-left bl-tips\"><div>",
+			"<div class=\"bln bleft thought\">",
 			"",
-			"🕵 $1",
+			"$1",
 			"",
-			"$2",
+			"</div>$2"
+		],
+	},
+	"引用タグ": {
+		"scope": "markdown",
+		"prefix": "quote",
+		"body": [
+			"<blockquote>",
 			"",
-			"</div></div>$3"
+			"$1",
+			"",
+			"<p class=\"ref\"><a href=\"\"></a></p>",
+			"",
+			"</blockquote>"
+		],
+	},
+	"imgタグ": {
+		"scope": "markdown",
+		"prefix": "image",
+		"body": [
+			"<img src=\"./images/$1\" alt=\"$2\"  data-zoomable=\"\" style=\"z-index:999;margin-top:2rem;\">",
+		],
+	},
+	"imgタグ Caption付き": {
+		"scope": "markdown",
+		"prefix": "image with caption",
+		"body": [
+			"<figure>",
+			"<img src=\"./images/$1\" alt=\"$2\"  data-zoomable=\"\" style=\"z-index:999;margin-top:2rem;\">",
+			"<figcaption>",
+			"</figcaption>",
+			"</figure>",
 		],
 	},
 	"岡田": {
