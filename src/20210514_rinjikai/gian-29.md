@@ -1,10 +1,10 @@
 {{first:2021-05-13}}
 
-# 🚧議案第29号　小平市体育施設条例の一部を改正する条例
+# 議案第29号　小平市立体育施設条例の一部を改正する条例
 
-<i class="fa fa-gavel" aria-hidden="true"></i>
+<i class="fa fa-gavel" aria-hidden="true"></i> 生活文教委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1224&schedule_id=2&minute_id=19&is_search=true">本会議1</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1218&schedule_id=8&minute_id=4&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1224&schedule_id=2&minute_id=50&is_search=true">本会議2</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -86,13 +86,13 @@
 
 利用者の中には、使えるだけ使って、建て替えてほしいといった意見がある。ただ事務的に条例を出し直すということでよいのか。市長はどう考えるか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 市としては、市民の皆様に安全に施設を使ってもらいたい。耐震補強を平成28年、29年にかけて行ったが、延命化はしていない。新しい施設でスポーツを楽しんでいただきたい。
 
-</div></div>
+</div>
 
 #### 耐震補強でいつまで使えるようになったか
 
@@ -100,25 +100,25 @@
 
 耐震補強でいつまで使えるようになったのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 目標耐用年数40年は過ぎている。耐震化工事で数値が0.61になった。0.6を下回る場合は危険と言われているので、この数値はギリギリ。その後3年余り経つ。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 アスベスト等を含んでいることも判明しているので、市民が安全に使うというところでこの状態は望ましくない。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 請願をいただき、積極的に対応したつもりだが、不十分ということであれば、今後の課題として捉えている。市としては請願によって今まで以上に市民の方とそういう関係を築けたと考えている。
 
-</div></div>
+</div>
 
 #### 前回の提案から新たに検討したり、状況は変わったか
 
@@ -126,19 +126,19 @@
 
 前回の議案を提案してから、撤回して今回新しく出し直すまでに、新しく検討したり、考え直したり、状況が変わったことはあるか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 3月議会で継続審査になってから、もし使えるならどういう方法があるか、建物を診断する部署等も検討を重ねた。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 ただ、令和2年度について、アスベスト等もあり、全体的に建物が傷んでいるため、継続は難しいという結論になっている。改修する場合どうなるかも含めて検討した。
 
-</div></div>
+</div>
 
 #### 建て替えは検討したか
 
@@ -146,13 +146,13 @@
 
 建て替えは検討したか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="行政経営担当部長（足立）">
 
 施設全体が都市計画公園に計画決定されていることから、建て替えについては検討していない。
 
-</div></div>
+</div>
 
 #### 移動手段の確保は
 
@@ -160,19 +160,19 @@
 
 弓道場の代替として中央体育館ということだが、移動手段の確保は行ったか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 武道館も比較的駅から距離があった。中央体育館は、鷹の台駅が最寄り駅で駅から近いこともあり、ほかの交通を考えたところはない。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="文化スポーツ担当部長兼健康・保険担当部長（篠宮）">
 
 花小金井南中学校体育館も、路線バス等が多数走っており、花小金井駅からの距離は武道館までの距離とそんなに変わらないため、新たな交通を考えたところはない。
 
-</div></div>
+</div>
 
 #### 広域対応施設として、移動手段の整備は考えるのか
 
@@ -180,7 +180,7 @@
 
 公共施設マネジメントにおいて、広域対応施設という場合、移動手段のことも考える必要があると思うが、どうか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="行政経営担当部長（足立）">
 
@@ -190,7 +190,7 @@
 
 という考え方は持っているが、併せて交通手段を整備する考えは現段階では持っていない。
 
-</div></div>
+</div>
 
 
 
