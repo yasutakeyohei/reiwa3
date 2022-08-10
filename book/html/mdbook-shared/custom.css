@@ -678,6 +678,9 @@ p.img-wrapper {
   background-color: var(--situgi-q-bg);
   margin: 0 auto 5rem 4%;
 }
+.bln.bleft.gityo {
+  background-color: #ecedff;
+}
 .bln.bright {
   background-color: var(--situgi-a-bg);
   margin: 0 4% 5rem auto;
@@ -697,6 +700,9 @@ p.img-wrapper {
   border-color: transparent var(--situgi-q-bg) transparent transparent;
   border-width: 7px 15px 7px 0;
   left: -15px;
+}
+.bln.bleft.gityo::before {
+  border-color: transparent #ecedff transparent transparent;
 }
 .bln.bright::before {
   border-color: transparent transparent transparent var(--situgi-a-bg);
@@ -731,12 +737,16 @@ p.img-wrapper {
 
 /* 吹き出しthougt, smile　*/
 .bln.bleft.thought,
-.bln.bleft.smile {
+.bln.bleft.smile,
+.bln.bleft.weary,
+.bln.bleft.anger {
   border: 6px dotted var(--situgi-q-bg-dark);
   background-color:unset;
 }
 .bln.bleft.thought::before,
-.bln.bleft.smile::before {
+.bln.bleft.smile::before,
+.bln.bleft.weary::before,
+.bln.bleft.anger::before {
   border-width: 0;
   content: "🤔";
   left: -2.5rem;
@@ -745,10 +755,19 @@ p.img-wrapper {
 .bln.bleft.smile::before {
   content: "🙂";
 }
+.bln.bleft.weary::before {
+  content: "😩";
+}
+.bln.bleft.anger::before {
+  content: "💢";
+}
+
 @media only screen and (min-width: 800px) {
   .bln.bleft.thought::before,
-  .bln.bleft.smile::before {
-    left: -3rem;
+  .bln.bleft.smile::before,
+  .bln.bleft.weary::before,
+  .bln.bleft.anger::before {
+      left: -3rem;
   }
 }
 
