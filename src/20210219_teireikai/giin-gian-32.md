@@ -4,13 +4,14 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 環境建設委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=217&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1230&schedule_id=2&minute_id=7&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=78&is_search=true">6月定例会初日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=217&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1230&schedule_id=2&minute_id=7&is_search=true">5/21委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=78&is_search=true">6月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
 
 - PFOS、PFOAが高濃度で検出され取水停止している井戸の状況が不明なことなどから以下を都に求めるもの
 - 有機フッ素化合物の拡散している原因究明と情報開示、撤去方法の確立、揚水によるPFOS、PFOAの拡散防止
+- 最終的な内容は[こちらのようになり](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1228&schedule_id=52&minute_id=1&is_search=true)、6月定例会初日に、全会一致で可決しました
 
 </fieldset>
 
@@ -22,6 +23,8 @@
 揚水による拡散防止をいつまで続けるかなど詳細は分かりませんでしたが、情報公開の推進につながることなので賛成です。
 
 なお、継続審査のため賛否表明の場はありませんでした。
+
+5/21の環境建設委員会付託を経て、意見書の調整をして提出しなおし、全会一致で可決しました。
 
 </fieldset>
 

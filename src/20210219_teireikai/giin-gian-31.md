@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 厚生委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=200&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1216&schedule_id=2&minute_id=2&is_search=true">委員会（5月）</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=200&is_search=true">最終日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1216&schedule_id=2&minute_id=2&is_search=true">5/20委員会</a>|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=75&is_search=true">6月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -254,7 +254,7 @@ PCR検査をいくらやったって、感染を診断することはできな�
 
 ## 本会議での主なやり取り
 
-継続審査となりました。
+継続審査となりましたが、5月の厚生委員会で取り下げられました。
 
 
 ## 賛否一覧

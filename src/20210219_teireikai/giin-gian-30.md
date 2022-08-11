@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 生活文教委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=179&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=179&is_search=true">最終日</a>|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1218&schedule_id=2&minute_id=4&is_search=true">5/19委員会</a>|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=72&is_search=true">6月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
