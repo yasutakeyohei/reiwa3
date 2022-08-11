@@ -4,7 +4,7 @@
 
 選挙の結果、松岡あつし議員が議長に選ばれました。
 
-伊藤議員と、山岸議員にも票が入っていました。入れたのは誰でしょうね。
+伊藤議員と山岸議員にも票が入っていました。事前に決まっている出来レースなのですが、入れたのは誰でしょうね😄
 
 [会議録](https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=89&is_search=true)
 
