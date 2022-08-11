@@ -533,7 +533,6 @@ function playground_text(playground) {
     if (activeSection) {
         // https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
         activeSection.querySelector('strong').scrollIntoView({ block: 'center', inline: 'center' });
-        console.log(activeSection.querySelector('strong'));
     }
 })();
 

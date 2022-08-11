@@ -230,6 +230,7 @@ fieldset.summary {
 .sanpi li {
   text-indent: -3.5rem;
   padding-left: 1.5rem;
+  margin-bottom:2rem;
 }
 
 .sanpi li:not([class]) {
@@ -1014,12 +1015,10 @@ table.th-wrap th {
   white-space: initial;
 }
 
-/*
-div.table-wrapper {
-  overflow-x: auto;
-  white-space: nowrap;
+div.table-wrapper+h2 {
+  margin-top:5rem;
 }
-*/
+
 
 table.book {
   width: 100%;
