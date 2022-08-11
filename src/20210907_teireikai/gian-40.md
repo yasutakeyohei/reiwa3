@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 即決
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=2&minute_id=415&is_search=true">初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -59,13 +59,13 @@
 
 教育長の職務代理をされた事例はあったか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="教育部長（川上）">
 
 教育長が欠けた場合に代理するが、教育長が不在になったことはないため代理したことはない。
 
-</div></div>
+</div>
 
 ### 今回も職務代理をされるのか
 
@@ -73,13 +73,13 @@
 
 今回も職務代理をされるのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="教育部長（川上）">
 
 9月末に役割を終える。任期が始まる10月1日に改めて教育長が指名することを想定している。
 
-</div></div>
+</div>
 
 ### コロナ禍に対してどう問題提起され、どのようなご意見をお持ちか
 
@@ -87,7 +87,7 @@
 
 コロナ禍に対し、三町教育委員はどのような問題提起をされ、どのようなご意見をお持ちか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="教育部長（川上）">
 
@@ -97,7 +97,7 @@
 
 などについて、これまでの経験からさまざまな助言をいただいている。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="教育部長（川上）">
 
@@ -107,7 +107,7 @@
 
 といった意見があり、現場にも声が届いている。小平全体の教育の発展向上にご尽力いただいた。
 
-</div></div>
+</div>
 
 ### 教育のデジタル化についてどう考えているか
 
@@ -115,13 +115,13 @@
 
 教育のデジタル化についてどう考えているか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="教育部長（川上）">
 
 ギガスクール構想のPC導入のところで、デジタル化についてご意見いただいている。非常勤で大学等で教えられている中で、オンラインの講義もされており、前向きな意見をいただいたと受け止めている。さまざまな活用が進む中で、これからどう進めていくかについても助言いただいている。
 
-</div></div>
+</div>
 
 
 </div>

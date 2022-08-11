@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=2&minute_id=532&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1263&schedule_id=4&minute_id=159&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=6&minute_id=582&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -76,13 +76,13 @@
 
 一応確認するが、番号利用法で号ずれした分の、号の内容は変わっていないという認識でよいか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="総務部長（白倉）">
 
 内容に変更はない。
 
-</div></div>
+</div>
 
 
 ### 2. 付託委員会での主な質疑
@@ -97,36 +97,36 @@
 
 今回は個人情報保護条例の関係では、内閣総理大臣が責任者になったという変更だけだが、今後、デジタル改革関連法案をみると、行政が個人情報を収集して、そのデータを企業等に開放していくことが優先されると示されている。
 
-</div></div>
+</div>
 
 <div class="bln bleft" data-speaker="他会派の議員">
 
 今後、個人情報保護条例や情報公開の条例に何か影響が出てくるのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="総務課長（原）">
 
 今回のデジタル改革関連法案の中で、デジタル社会の形成を図るための関係法律の整備に関する法律、いわゆる整備法の中で、個人情報保護法に関しても改正されている。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="総務課長（原）">
 
 地方公共団体の部分については施行期日がはっきり決まっていないが、2年以内に施行される予定。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="総務課長（原）">
 
 今までは、それぞれの自治体がそれぞれの条例で個人情報保護を行っていたが、それが今後国の保護法に一本化される。
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="総務課長（原）">
 
 国から示されている予定は、来年の春に関係する省令やガイドラインが示され、令和5年の春ごろに改正になる。そのころにまた改めて、小平市の個人情報保護条例の改正案も提出する。
 
-</div></div>
+</div>
 
 
 </div>

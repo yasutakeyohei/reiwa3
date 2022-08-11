@@ -6,7 +6,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=2&minute_id=517&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1263&schedule_id=4&minute_id=113&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=6&minute_id=566&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -92,25 +92,25 @@
 
 なぜこんなにマイナンバーに誘導するのか。マイナンバーカードを持っていないと、窓口での申請しかできなくなる。
 
-</div></div>
+</div>
 
 <div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 全国のマイナンバーカード取得率はだいたい30%だが、小平市の取得率は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 7月末現在で約74,000枚交付し、交付率は37.9%。
 
-</div></div>
+</div>
 
 <div class="bln bleft" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
 100%の達成は無理。なぜこんなに進めるのか疑問だ。
 
-</div></div>
+</div>
 
 #### 1通当たりの発行コストは
 
@@ -118,7 +118,7 @@
 
 窓口、自動交付機、コンビニでの1通当たりコストは。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民部長（柳瀨）">
 
@@ -128,7 +128,7 @@
 - 自動交付機：1枚当たり303円（令和2年度実績）
 - コンビニ交付：1,542円（仮に本年度行った場合の想定。実際は令和4年度2月から開始予定）
 
-</div></div>
+</div>
 
 #### 発行コストが5倍も高いのに手数料を窓口より安く設定する理由は
 
@@ -136,13 +136,13 @@
 
 個人の情報が統合されていくことは、たしかに恐ろしいところがある。
 
-</div></div>
+</div>
 
 <div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 それとは関係のないところで、今回の改正で、発行手数料が窓口より安くなっている。利便性が上がるのであれば応益負担で手数料を上げてもよいのではないか。なぜ窓口の手数料より安く設定されているか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民部長（柳瀨）">
 
@@ -152,7 +152,7 @@
 
 これの観点から総合的に勘案し、現行の自動交付機と同額にした。
 
-</div></div>
+</div>
 
 #### 国から市にメリットが提供されているのか
 
@@ -160,19 +160,19 @@
 
 現状、自動交付機は7台。コンビニ発行できることになれば利便性はずいぶん上がる。発行コストも現状5倍近く違う。であるのに、窓口の手数料より安く設定されていることがとても不思議。
 
-</div></div>
+</div>
 
 <div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
 
 国から交付税など市にメリットを提供する仕組みがあるのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 現在のところはない。
 
-</div></div>
+</div>
 
 #### コンビニでの発行が進むとコストはどれだけ下がるのか
 
@@ -180,13 +180,13 @@
 
 コンビニ発行が進めば、発行のコスト1,542円が303円のレベルに近づいていく見通しがあるのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民部長（柳瀨）">
 
 現行の証明書自動交付機を使っている方が、すべてマイナンバーカードを取得し、全員がコンビニ交付を利用した場合の想定は、1枚当たり300円台前半になる試算をしている。
 
-</div></div>
+</div>
 
 
 ### 2. 付託委員会での主な質疑
@@ -201,13 +201,13 @@
 
 コンビニエンスストア等の「等」とは。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 ドラッグストアや、多機能端末機を設置している自治体も含まれるため、等と入っている。
 
-</div></div>
+</div>
 
 #### これまでかかった費用の総額は
 
@@ -215,7 +215,7 @@
 
 これまでかかったコスト総額は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
@@ -227,7 +227,7 @@
     - J-LIS（手数料、サーバー運営等）自治体負担金
     - コンビニの手数料：証明書1件あたり約117円
 
-</div></div>
+</div>
 
 #### メリットとデメリットは
 
@@ -235,7 +235,7 @@
 
 メリットとデメリットは。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
@@ -243,7 +243,7 @@
 - 全国のコンビニどこでも利用できる
 - 利用時間が午前6時半から23時までと延びる
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
@@ -251,7 +251,7 @@
 - 機械に不慣れな方がいる
 - マイナンバーカードがないとコンビニで利用できない
 
-</div></div>
+</div>
 
 #### コンビニ交付をしている自治体の数と、多摩26市中の数は
 
@@ -259,13 +259,13 @@
 
 コンビニ交付をしている自治体の数と、多摩26市中の数は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 全国で861団体、多摩24市。
 
-</div></div>
+</div>
 
 #### 自動交付機で交付していた証明書等と種類が変わるのか
 
@@ -273,7 +273,7 @@
 
 これまで自動交付機で交付可能だった証明書の種類が変わるのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
@@ -286,13 +286,13 @@
 - 課税・非課税証明書
 - 納税証明書
 
-</div></div>
+</div>
 
 <div class="bln bleft" data-speaker="他会派の議員">
 
 自動交付機での証明書発行数の総数は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
@@ -302,7 +302,7 @@
 - 住民票の写し：4万1,414件
 - 戸籍：7,316件
 
-</div></div>
+</div>
 
 #### 窓口の業務量は減るのか
 
@@ -310,13 +310,13 @@
 
 これで窓口の業務量が減るのか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 現在、証明書自動交付機で全体の証明書の半数近くを交付している。これが終了するため、その分が最初のころは窓口に増える。すぐに窓口業務委託の業務量が減るという見込みは立てづらい。
 
-</div></div>
+</div>
 
 
 <div class="tips" id="自動交付機の終了により窓口の業務量が膨大に">
@@ -335,13 +335,13 @@
 
 マイナンバーカード交付率の目標は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 令和5年度末に92.1%。
 
-</div></div>
+</div>
 
 #### 証明書自動交付機の利用期間を延長できないか
 
@@ -349,13 +349,13 @@
 
 証明書自動交付機の利用期間を延長できないか。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 令和4年9月末で、システム保守の運営がどうしても難しいという話があった。機械自体の製造もしておらず、部品の確保も難しいということ。
 
-</div></div>
+</div>
 
 #### 複数ある証明書のうち印鑑証明条例だけが改正される理由は
 
@@ -363,19 +363,19 @@
 
 今回、住民票や戸籍は条例改正がなく、印鑑証明書だけが条例改正の理由は。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 住民票などは国の法令で、証明書の交付を発行するという規定があり、市の方で特に条例を定めていない。
 
-</div></div>
+</div>
 
 <div class="bln bright" data-speaker="市民課長（山本）">
 
 印鑑条例は、国の実施要領に基づき、市が条例を定めて行う事務として行っているため。
 
-</div></div>
+</div>
 
 
 
