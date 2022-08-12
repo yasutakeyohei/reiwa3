@@ -20,13 +20,13 @@
 
 意見書に記載のとおりの理由で賛成です。
 
-なお、[令和4年3月26日のニュース](https://www.cnbc.com/2022/04/28/denmark-the-first-country-to-halt-its-covid-vaccination-program.html?__source=sharebar|twitter&par=sharebar)によると、デンマークは未成年者への新型コロナワクチンの接種を中止しました。秋に再開する可能性は残しつつ、再開する際は[「誰が、いつ、どのワクチンを接種するかという専門家による徹底的な評価が先行して行われます」](https://www.telegraph.co.uk/world-news/2022/04/26/denmark-becomes-first-country-suspend-covid-vaccine-programme/)と報道されています。
+なお、[令和4年4月28日のニュース](https://www.cnbc.com/2022/04/28/denmark-the-first-country-to-halt-its-covid-vaccination-program.html?__source=sharebar|twitter&par=sharebar)によると、デンマークは未成年者への新型コロナワクチンの接種を中止しました。秋に再開する可能性は残しつつ、再開する際は[「誰が、いつ、どのワクチンを接種するかという専門家による徹底的な評価が先行して行われます」](https://www.telegraph.co.uk/world-news/2022/04/26/denmark-becomes-first-country-suspend-covid-vaccine-programme/)と報道されています。
 
-その後、[令和4年6月23日のニュース](https://nyheder.tv2.dk/2022-06-23-mette-frederiksen-staar-ved-beslutning-om-at-vaccinere-boern?fbclid=IwAR2IU0ntCa9tO7lDp3KEBV9p1hjYrQZ2g1j1Z84CPqQGtS6QCw11o69fFUo)で、デンマーク保健局の局長のSøren Brostrøm氏が、Go' aften Liveという番組において、次のように述べたと報道されています。
+その後、[令和4年6月23日のニュース](https://nyheder.tv2.dk/2022-06-23-mette-frederiksen-staar-ved-beslutning-om-at-vaccinere-boern?fbclid=IwAR2IU0ntCa9tO7lDp3KEBV9p1hjYrQZ2g1j1Z84CPqQGtS6QCw11o69fFUo)で、デンマーク保健局長のSøren Brostrøm氏が、Go' aften Liveという番組において、次のように述べたと報道されています。
 
-> 「子どもへのワクチン接種は間違いか」と問われれば、昨年の秋に推奨した時点の知見ではNoであったが、現時点ではYesだ。
+> 「子どもへのワクチン接種は間違いか」と問われれば、昨年の秋に接種を推奨した時点の知見にもとづけばNoという答えだが、現時点でその質問に答えるなら、Yesだ。
 
-最も慎重になる必要があることです。デンマークに倣うべきです。
+つまり、デンマークでは未成年者への接種が中止され、保健局のトップが「子どもへのワクチン接種は間違いだ」と発言しました。日本もデンマークに倣い、未成年者への接種はすぐに中止する必要があると考えます。
 
 </fieldset>
 
