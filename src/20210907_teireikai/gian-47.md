@@ -132,13 +132,13 @@
 
 #### 発行コストが5倍も高いのに手数料を窓口より安く設定する理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 個人の情報が統合されていくことは、たしかに恐ろしいところがある。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 それとは関係のないところで、今回の改正で、発行手数料が窓口より安くなっている。利便性が上がるのであれば応益負担で手数料を上げてもよいのではないか。なぜ窓口の手数料より安く設定されているか。
 
@@ -156,13 +156,13 @@
 
 #### 国から市にメリットが提供されているのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 現状、自動交付機は7台。コンビニ発行できることになれば利便性はずいぶん上がる。発行コストも現状5倍近く違う。であるのに、窓口の手数料より安く設定されていることがとても不思議。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 国から交付税など市にメリットを提供する仕組みがあるのか。
 
@@ -176,7 +176,7 @@
 
 #### コンビニでの発行が進むとコストはどれだけ下がるのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 コンビニ発行が進めば、発行のコスト1,542円が303円のレベルに近づいていく見通しがあるのか。
 

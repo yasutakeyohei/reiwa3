@@ -72,7 +72,7 @@
 
 #### 番号利用法の該当号の内容に変更はないか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 一応確認するが、番号利用法で号ずれした分の、号の内容は変わっていないという認識でよいか。
 

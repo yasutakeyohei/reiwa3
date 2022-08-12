@@ -55,7 +55,7 @@
 </div>
 
 ### 教育長の職務代理をされた事例はあったか
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 教育長の職務代理をされた事例はあったか。
 
@@ -69,7 +69,7 @@
 
 ### 今回も職務代理をされるのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 今回も職務代理をされるのか。
 
