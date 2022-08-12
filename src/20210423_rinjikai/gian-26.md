@@ -422,7 +422,7 @@
 
 #### 副市長を再任するデメリットをどう考えているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 副市長を再選するメリットについては話があったが、デメリットを市長はどう考えているか。
 
@@ -436,7 +436,7 @@
 
 ##### どうやって硬直化を防ぐか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 どうやって硬直化しないようにしていくか。
 
@@ -450,7 +450,7 @@
 
 #### 市長に投票しなかった人たちの考えはどう尊重するのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 選挙で対立候補だった磯山氏に投票した市民も多い。票差は3000票ちょっと。
 
@@ -458,7 +458,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 磯山氏に投票した人は、「今までのやり方とは違った、新しいことをやってほしい」と思っているはず。そういった方々に対し、今までの小林前市長を支えてきた副市長を再選することについてはどう考えているか。
 
@@ -476,7 +476,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 問題発言のように感じるが、市長に投票しなかった人たちのことも考えて政策を行っていくのか。それが副市長を選ぶところにどう反映されているのか。
 
@@ -490,13 +490,13 @@
 
 #### もう一人副市長を採用するとはどういうことか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 どういった理由で、もう一人副市長を新しく採用することを考えているのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 年間数千万円の費用をかけてまで新しく追加で副市長を入れるのか、それとも現在の副市長を途中で入れ替えるということか。
 

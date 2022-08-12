@@ -97,7 +97,7 @@
 
 #### 高額介護サービス費の誤支給・未支給問題への対応と改善策は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 令和2年8月に発生した、介護保険の高額介護サービス費誤支給と未支給の問題について、その後の対応と令和3年度の改善策は。
 
@@ -129,7 +129,7 @@
 
 ##### ソフトウェア側で対応すべきでは
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 日付を見て確認するということだが、運営会社のほうで、ソフトウェアで対応してもらうことはできないか。要は、バッチ処理するときに、ソフトが日付を確認し、日付がちょっとおかしければメッセージを出したりして注意喚起するようなことはできると思うがどうか。
 
@@ -143,32 +143,32 @@
 
 ##### 全庁的な見直しをかけているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 未支給の問題が起き、こういう対策をすれば職員の方は間違えずにできるんじゃないかというところで、全庁的に、今回はひとつのきっかけだったと思う。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 全庁的に見直していく必要があると思うが、そのあたりの取組は何かしているのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 同じシステムを使っていれば同じような問題が起きる可能性はあるけれども、うちの課だけで、なかなか対応はできないから、その対応はしない、という話は変。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 今回のきっかけを無駄にしないためにも、全庁的な見直しをかけないといけないが、内部でそういう動きはあるのか。
 
 </div>
 
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 認知症総合支援事業、認知症高齢者見守り事業、認知症サポーター養成事業で得られた知見を基に、令和3年度、何か新しい取組や、まちづくりにつなげて新しいことがあるか。
 
@@ -189,7 +189,7 @@
 
 #### 認知症カフェ等で集まった情報をまちづくり等に活用する仕組みはあるか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 認知症カフェや、認知症サポーター等で集まった情報は、最終的には市の中で共有し、まちづくり等に生かしていくような、その仕組みはあるか。
 
@@ -213,7 +213,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 市内でそういう活動をされるのはよいが、令和3年度以降に向け、先進市の事例などある。そういった事例を調査して取り込んで、令和3年度以降の予算に生かしていこう、そういう施策に生かしていこうという、そういった動きはあるか。外部研修などで情報を積極的に取り込んでいくようなことは、たとえば令和3年度の予算の中にそういったことは盛り込まれているか。
 

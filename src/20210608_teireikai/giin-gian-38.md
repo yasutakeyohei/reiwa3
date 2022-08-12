@@ -24,7 +24,7 @@
 
 その後、[令和4年6月23日のニュース](https://nyheder.tv2.dk/2022-06-23-mette-frederiksen-staar-ved-beslutning-om-at-vaccinere-boern?fbclid=IwAR2IU0ntCa9tO7lDp3KEBV9p1hjYrQZ2g1j1Z84CPqQGtS6QCw11o69fFUo)で、デンマーク保健局の局長のSøren Brostrøm氏が、Go' aften Liveという番組において、次のように述べたと報道されています。
 
-> 「子どもへのワクチン接種は間違いか」と言われれば、昨年の秋に推奨した時点の知見ではNoであったが、現時点ではYesだ。
+> 「子どもへのワクチン接種は間違いか」と問われれば、昨年の秋に推奨した時点の知見ではNoであったが、現時点ではYesだ。
 
 最も慎重になる必要があることです。デンマークに倣うべきです。
 

@@ -316,25 +316,25 @@ ICTについても
 
 #### 87の政策としての新事業は、今年は約5千万円で終わるのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 87の政策に関わる事業が15くらいという答弁だった。また、それぞれ事業の区分として、新規、拡充、継続の3種類がある。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 継続というのは、「誰が新しく市長になっても、やらなければならない事業」ということと思う。事前に聞いたところでは、継続とされている事業の総額は約4,600万円。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 すると、15事業で総額約9,900万円から約4,600万円を引くと、約5,300万円。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 また、拡充の区分についても、誰が新しく市長になっても、やらなければならない部分があるので、もっと金額は低くなると思うが、要は5千万円とかそういった金額が、実際に87の政策の実現に使われるということでよいか。
 
@@ -346,19 +346,19 @@ ICTについても
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 先ほどの質疑でもあったが、3月定例会で、10億円くらいは市長が自由に使えるという話があった。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 それが、87の政策に関しては私の概算だと約5千万円となる。コロナの非常に危機的な状況にあって、そういう予算立てで本当によいのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 今回、87の政策に関しては、今年は5千万円くらいで終わってしまうのか。それとも今後、追加の補正予算で87の政策に関連したものを入れていく予定なのか。
 
@@ -378,13 +378,13 @@ ICTについても
 
 #### これでコロナに対応する小平市になれるのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 この先は誰にも分からないところがあるが、秋や冬になれば、また感染が拡大したり、変異株が出たり、今ワクチンをせっせと接種しているが、海外で、ワクチンを接種した人でもまたコロナに感染したという話も出ている中で、小平市をしっかりコロナに対応させる、アフターコロナとかウィズコロナといったものに対応させるために、しっかり考える必要がある。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 これで本当にコロナに対応する小平市になれるのか。
 

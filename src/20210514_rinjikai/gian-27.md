@@ -213,19 +213,19 @@ NPO団体からの話は把握していない。
 
 ##### 事業を行う根拠は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 交通体系の整備事業に関しては当事者にヒアリングをしている。生理用品の配布事業について、エビデンスは何か。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 使い捨てを使わない人もいて、製品に対する嗜好もあると思われる中、市が提供する生理用品が、特に困っているような人たちに本当に有効なものなのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 生理用品に困っている人が、市が記載するような相談先が必要な状況なのか、そういう背景、根拠があってやっていることなのか。
 
@@ -262,13 +262,13 @@ NPO団体からの話は把握していない。
 
 ##### 個包装のマスクを配ることは検討したか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 相談先につなぐのだったら、たとえば、個別包装のマスクにシールを張って、連絡先などを記載して、そういうものを配った方が、より広く多くの人にもらってもらえるのではないか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 マスクの検討はしたのか。
 
@@ -282,7 +282,7 @@ NPO団体からの話は把握していない。
 
 #### 交通事業者の窮状について、国や都に手当を依頼しているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 交通体系整備支援事業については、ヒアリングで対象者から結構大変だという声が寄せられると思うが、国や都の方にはその手当を依頼しているのか。
 
@@ -353,13 +353,13 @@ NPO団体からの話は把握していない。
 
 #### 毛色のまったく違う補正予算を、抱き合わせのようにして出した理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 3つ事業がある中で、1つ目は国庫支出金の新型コロナウイルスワクチン接種体制確保事業からお金が出ている。残りの2つは地方創生臨時交付金を使っており、市長の思いが強く出るような補正予算。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 なぜ一緒くたに、抱き合わせのようにして出しているのか。
 
@@ -377,13 +377,13 @@ NPO団体からの話は把握していない。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 ちょっとよく分からないが、今回3号で出したものを2つに分け、別にできないのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 議案が通りにくくなるところのだろうが、ずいぶん毛色が違うので。
 

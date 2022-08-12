@@ -91,7 +91,7 @@
 
 #### 小平市として何が対応として変わるか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 小平市として、何が対応として変わってくるか。
 

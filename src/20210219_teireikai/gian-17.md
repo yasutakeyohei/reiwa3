@@ -234,7 +234,7 @@
 
 #### あすの子園の機能を使いつつワンストップ対応の相談機能を追加なのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 児童発達支援センターは、児童発達支援事業である「あすの子園」と別に新設するわけではなく、あすの子園の機能を使いつつ、そこにワンストップ対応の相談機能等を追加するという理解でよいか。
 
@@ -248,7 +248,7 @@
 
 #### 小平市内で発達障害の児童数は
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 小平市内で発達障害の児童数はどれくらいか。また、今後の推移想定は。
 
@@ -274,7 +274,7 @@
 
 #### 利用定員は
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 児童発達支援センター利用定員数の想定は。あすの子園の利用定員と同じか。
 
@@ -288,13 +288,13 @@
 
 #### あすの子園で実施している、機能訓練、言語訓練、音楽活動の実施回数は
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 あすの子園で実施している、機能訓練、言語訓練、音楽活動の実施回数は。たとえば1人当たりの言語訓練は1ヵ月に1回1時間の枠と思われるが、その実施回数と時間は。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 また、1人当たりの時間として十分に足りているか。
 
@@ -306,7 +306,7 @@
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 あすの子園の音楽活動は、音楽室を使ってのことだったか。音楽室がなくなることで影響は。
 
@@ -320,19 +320,19 @@
 
 #### 児童発達支援センター新設で言語訓練のリソース不足は改善するのか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 市民の方から、重要な役割を担う「言語訓練」でリソースが足りていないという御意見がある。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 自分の子どもが発達障害だと分かったら、初めのころは、どうすればよいか分からない。情報も少ない中、月に1時間、1枠しか言語訓練が受けられないとなれば、不安の中で過ごすことになる。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練は2年間の期限があり、そこでパタっと終わる。その後のフォローがない。そういったことは児童発達支援センターができると改善されていくのか。20年以上そういう状況が続いているという市民の方もいる。
 
@@ -352,13 +352,13 @@
 
 #### 言語訓練が2年で終わってから教育委員会と連携する体制があるか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 教育委員会と児童発達支援センターの連携ができていないと、2年間で言語訓練が終わった後、たとえば小学校1年生から2年生の時点で、また一から説明するなど、状況を分かってもらわなくてはならない。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練が2年間で終わってから、教育委員会とちゃんと連携できるような体制ができているか。
 
@@ -378,7 +378,7 @@
 
 #### 教育支援センターの設置を視野に入れているか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 就学後に気付く発達障害だと、障がい者支援課と接点がなくなってしまう。教育委員会と障がい者支援課が密接に連携していただきたい。全国で6割以上の自治体が導入している「教育支援センター」の設置を、小平市は視野に入れているのか。
 
@@ -404,13 +404,13 @@
 
 #### リソースが限られているなら、集中と選択を進めればどうか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練は月に1回1時間しかできない。リソースが限られているなら、集中と選択を進めればよい。たとえば、発達障害が分かったばかりのお子さんは週に1回など、回数を増やす。その後、様子を見て回数を減らしていけばよい。また、同じような状況のお子さんは2人同時に見られるようする。そういった意見があるが、どうか。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 障害が分かったときに手厚くしておかないと二次障害も出てくる。どう考えているか。
 
@@ -442,7 +442,7 @@
 
 #### 言語訓練は月に1回1時間という枠があるのか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練は、お子さんに応じて時間を決めているということは、月に1回1時間という枠があるわけではないということなのか。お子さんによって月に数時間の枠が取れたり、そういう状況なのか。
 
@@ -456,19 +456,19 @@
 
 #### 施設として十分対応できていないと判断したときはどうするか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 本来、（潜在人数2,000人の）すべての発達障害のお子さんを支援する状態が望ましい。そうすると利用定員24人では足りなくなるのでは。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練も満杯。さらに言語訓練を拡充していく場合、施設の容量が足りないのではないか。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 施設として十分な対応ができていないという判断が出たとき、どうするか。施設を拡充したり、場所を用意して新たに児童発達支援センターを作ったり、小金井市にある「きらり」などを連携して使わせてもらったり、そういったことは想定しているか。
 
@@ -492,19 +492,19 @@
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 言語訓練は、全員受けさせたいけれども予算がないということなのだろう。言語訓練をちゃんと受けられないことで、学校に行けなくなることもある。収入等の面でなかなか民間のほうにも行けない。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 発達障害で不登校になる可能性が結構あると思うので、手厚くしてもよい部分だと私は思う。それは予算を決めるほうの話なので、ぜひ要望を強く出していただきたい。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 人数が足りていないことは、民間の事業者を使ってくださいということで、児童発達支援センターを追加でつくるとか、他市の施設を使わせてもらい連携していくといったことは、考えていないという理解でよいか。
 

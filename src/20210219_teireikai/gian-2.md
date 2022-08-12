@@ -104,7 +104,7 @@
 
 #### 扶助費の想定人数が減っている理由は
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 教育関係の扶助費で想定人数985人が893人に減っている理由は。
 

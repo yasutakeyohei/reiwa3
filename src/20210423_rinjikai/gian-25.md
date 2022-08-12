@@ -161,7 +161,7 @@
 
 #### 臨時交付金を教育費などに使わずキャッシュレスに投じた理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 比較的自由に使える地方創生臨時交付金は、内閣府の資料には次のように書いてある。
 
@@ -171,13 +171,13 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 これを読むと、ポストコロナに向けた経済構造の転換というのが最初にある。たとえば、今回教育費等にも6%シーリングをかけてしまっているが、そういうところの補てんといった、コロナ禍に関連付けてデジタル化を進めるような部分にお金を使わずに、キャッシュレス事業に投じている理由を教えてほしい。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 - 不登校の子どもたちに向けてオンライン授業の試験的な取り組みを行う
 - デジタルデバイドの解消に向けて実態を把握する調査を行う

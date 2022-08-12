@@ -127,7 +127,7 @@
 
 #### ほかの部署・事業でも過払い事例があったか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 ほかの事業でも第二種福祉事業が課税事業かを全庁的に調べたと言ったが、過払いはあったか。
 
@@ -158,7 +158,7 @@
 
 #### 過払い分の回収費用はどう扱うか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 返還のコスト、回収費用はどう扱われるか。
 
@@ -172,13 +172,13 @@
 
 #### 再発防止策が整った時点でちゃんと説明があるか
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 今後全庁的に共有していくと言ったが、その時点で議員に説明があるか。
 
 </div>
 
-<div class="bln bleft hitori" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 人間誰しも間違えはある。もし責任を問うなら市長。再発しないようにすることが必要で、再発防止策も、議員が確認するプロセスが必要。訴訟の後でもよいが、そのプロセスは考えられているか。
 

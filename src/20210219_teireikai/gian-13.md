@@ -160,7 +160,7 @@
 
 #### 研修について詳しく
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 研修は大きく分けて次のような内容と思うが、どういうものを想定しているか。
 
@@ -182,7 +182,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 実際にどういった形で受けるか。
 
@@ -194,7 +194,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 研修にかかる費用はどうなるか。
 
@@ -206,7 +206,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 研修中は働いているとみなさない事業者もあるのではないかと思うが、従業員が研修中も報酬を得られるよう担保されるか。
 
@@ -224,7 +224,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 従業員が別の事業所に転職などする際、再度そういった研修を受ける必要はあるか。
 
@@ -238,7 +238,7 @@
 
 #### 議案第13業で介護職員初任研修が必要になるのは何か
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 議案第13号で介護職員の初任者研修が必要になる部分があるが、どういうことか。
 
@@ -252,7 +252,7 @@
 
 ##### 初任者研修の受講費用に対する市や都の助成は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 初任者研修の受講費用に対して市の助成はなかったと思うが、正しいか。東京都はあるか。
 
@@ -266,7 +266,7 @@
 
 #### ハラスメントの実態を市はどれだけ把握しているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 セクシャルハラスメント、パワーハラスメントの実例を市はどれくらい把握しているか。
 
@@ -308,7 +308,7 @@
 
 #### 小規模多機能型居宅介護の改正について詳しく
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 第101条の改正はどういう意味か。
 
@@ -322,7 +322,7 @@
 
 #### どういったことが虐待になるというガイドラインはあるか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 虐待の防止のための措置は、どういったことが虐待に当たるかという基準としてのガイドラインのようなものはあるか。
 

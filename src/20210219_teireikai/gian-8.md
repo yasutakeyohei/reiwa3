@@ -211,7 +211,7 @@
 
 #### 25周年を迎える下水道館の更新や新たな取組は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 令和3年に下水道館が25周年を迎えるということで、展示施設の更新や新たな取組は行うか。
 
@@ -225,7 +225,7 @@
 
 #### 移行して2年の公営企業会計に関し、令和3年度の課題は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 下水道事業会計の見える化を図るため、令和元年度に公営企業会計に移行して2年が過ぎようとしている。令和3年度に何か課題があるか。
 
@@ -243,7 +243,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 負担軽減の対策を考えていくとはどういうことか。
 
@@ -257,7 +257,7 @@
 
 #### 雨水負担金が3,400万円増の理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 雨水処理負担金が、前年度と比較して3,400万円以上増えている。負担金の小平市の割合はどう決まるか。増えている理由は。
 
@@ -272,13 +272,13 @@
 
 #### 流域下水道維持管理負担金について詳しく
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 流域下水道維持管理負担金の説明に、荒川右岸処理区や北多摩一号処理区と書いてあり、この分が計上されている。前年度と比較して約3,800万円の増ということだが、処理区等のことについて詳しく教えてほしい。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 また、この負担金の小平市の割合はどういうふうに計算されるのか。それぞれの処理区にかけるお金だと思うので、毎年変わってくる金額か。
 
@@ -298,7 +298,7 @@
 
 #### 令和3年の雨水浸透事業でどれくらい下水量を減らせるか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 雨水浸透分について、令和3年度に着工する分で、どれくらい下水に流れる量を減らせるか。
 

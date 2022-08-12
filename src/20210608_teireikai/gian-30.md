@@ -75,13 +75,13 @@
 
 #### 報酬や謝礼はどうなっているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 この人権擁護委員の方々の御活動は、人権・身の上相談や学校への啓発活動。無償でしていただき、大変ありがたいと思っている。
 
 </div></div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 委員会への参加で報酬は出るか。
 
@@ -149,7 +149,7 @@
 
 #### コロナ禍での活動状況は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 令和2年度は、4月から人権・身の上相談をコロナ禍の関係でされておらず、学校のほうにも啓発活動にも行けていないかと思うが、委員会も含めて開催状況は。
 
@@ -163,13 +163,13 @@
 
 #### ワクチン接種に関する人権侵害に対応してはどうか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 人権に関する問題として。新型コロナウイルスのワクチンを受けられない人、受けたくない人がたくさんいるが、そういった方々へ強制的な圧力を生じさせるような相談が私の方にも来る。もしその相談を受けて対処したら、ワクチンを受けていない方への差別につながってしまうような内容だ。
 
 </div></div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 ワクチンを受けられない方々や、受けたくない方々の人権を侵害しないよう、啓発活動をしてはどうか。
 

@@ -137,7 +137,7 @@
 
 #### 値上げが要介護者等に及ぼす影響をどう確認するか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 値上げは低所得者にとっても負担増になるところがある。
 
@@ -177,13 +177,13 @@
 
 #### この負担増で、実際に働いている人たちの処遇が改善するのか、確認は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 この負担増により、「介護職の方々等の処遇改善につながる」という話もあった。しかし、事業者が潤い、実際に働いている方々の処遇が改善されない事態も想定される。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 負担増の分が、働いている方々の処遇改善につながっていることの確認は行う予定か。
 
@@ -207,7 +207,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 その方法が唯一か。それ以外にも把握する方法はあるか。
 
@@ -222,7 +222,7 @@
 
 #### 介護保険料が上昇する原因を市はどう捉えているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 介護保険料が年々上昇していく原因を市はどう捉えているか。
 
@@ -234,19 +234,19 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 介護保険料が年々上昇していく背景には、少子高齢化や核家族化の問題があると思う。そういう対応も含めた、市全体の動きの中で、連携して、解決や改善をしていく、そういう大きな動きが必要なのではと思う。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 子どもを増やす動きや、核家族化が本当によいのかなど、そういったことを全体の政策の中で考えていく必要があると思う。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 介護保険料を今後どうしていくかとかという話が、市全体の話につながっていくような動きというのは、小平市としてあるか。
 
@@ -278,25 +278,25 @@
 
 ##### 「国が決めているから」で終わるのではなく、「市で何ができるか」の視点を
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 国のほうで決まっている制度とはいえ、介護保険や全体の問題は、一つ一つの地方公共団体の働きが影響を及ぼしている。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 少子高齢化に伴い、「なかなか家族だけでは介護できない状況になってくるから、みんなで支えましょう」という仕組みが介護保険。そういったところで介護保険の負担がどんどん増えていくのであれば、少子高齢化の状況や核家族化についても、ひとつテーマとして取り上げていく。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 改善というか、状況を変えていく取組等ができないかといったところで、国を助けるような形になると思うが、そういった動きがそれぞれの地方公共団体に必要だと考える。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 市の全体の施策の中で、そういったこともひとつ考えていかなければいけないのではないかと私は思っている。
 
@@ -304,7 +304,7 @@
 
 #### 介護保険料が上昇する要因を改善する市の取組は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 介護保険料が年々上昇する要因を、市として変えていく、改善していく取組は。
 
@@ -346,7 +346,7 @@
 
 #### 第7段階から第9段階の、合計所得の上限と下限が10万円ほど変更されている理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 第7段階から第9段階の合計所得金額の上限値と下限値が10万円ほど変更になっている理由は。
 
@@ -361,7 +361,7 @@
 
 #### 新設された段階の分で見込む増収は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 新設された第16段階から第18段階で、年間どれぐらいの増収を見込んでいるか。
 
@@ -375,7 +375,7 @@
 
 #### 保険料の基準が第5段階の区分に設定されている理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 保険料の基準は、第5段階の「本人が市民税非課税で世帯内に課税者がいる場合で、合計所得金額プラス公的年金等の収入金額が80万円超え」に設定されている。この第5段階が保険料の基準にされている理由は。全国的に一番人数が多いなどの理由があるのか。
 
@@ -406,7 +406,7 @@
 
 #### 10万円控除はどういう理由か
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 「給与所得または公的年金等に係る所得の合計額から10万円を控除して算定するよう改正する」とあるのは、どういうことか。
 

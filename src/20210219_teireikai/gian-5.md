@@ -205,7 +205,7 @@
 
 ##### 増額により移住世帯が増えた際のメリットなどは検討したか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 いやらしい話になってしまうが、たとえば、1人子どもが生まれて新規に小平市内に住んでくれる家族が1世帯増えると、市の財政上等でどういったメリットが出てくるといった計算はしているか。
 
@@ -217,19 +217,19 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 たとえば出産育児一時金を4万円増やして、他市と比べて小平市は子どもに対して手当が厚いとなると、だったら移住して住もうかなという家族もいるかと。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 私も含めて多くの議員が要望しているが、150件だから、1件当たり4万円増やしたとしても600万円。太陽光発電の補助金を出すくらいなら、それが同額くらいなので、こっちを補助したほうがよい。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 1人子どもが生まれて民生費が上がる部分と、世帯が移住してきて、市の経済が潤うという部分との兼ね合い、そういう計算を今後ぜひしてもらいたいが、どうか。
 
@@ -243,7 +243,7 @@
 
 ##### 増額は東京都がやらないと市は動けないのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 答弁を聞いていると、東京都がやらないとなかなか動かないという印象。東京都が率先してやってくれないと、小平市としては動けないところがあるのか。
 
@@ -255,7 +255,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 ほかの市で独自に補助金を出しているところがある。そこはどう評価しているか。
 
@@ -269,7 +269,7 @@
 
 ##### 出産された方の意見は聞いているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 出産された方の御意見を踏まえた上で、42万円を増やしていこうかと検討したりしているのか。
 
@@ -283,7 +283,7 @@
 
 ##### 増額分を一般財源から出せないのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 増額する際、一般財源ではできないのか、国民健康保険税でしかできないことなのか。
 
@@ -295,7 +295,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 一般財源から出せるのか、出せないのか。
 
@@ -309,7 +309,7 @@
 
 ##### いつまで検討するのか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 検討事項だと言ったが、いつまで検討する予定か。
 
@@ -323,7 +323,7 @@
 
 #### 一般管理費が約2,700万円増の理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 国民健康保険事業の一般管理費が前年度比で2,716万4,000円増の理由は。
 
@@ -335,7 +335,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 保険証の更新に対応したシステム改修なのか、経常的にかかってくる2,700万円なのか。今後、何か保険証の更新等があるときに、毎回毎回かかってくるお金なのか。
 
@@ -357,7 +357,7 @@
 
 #### 特定検診事業費、保険事業費が前年比で増の理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 特定健康診査等事業費、保健事業費が前年度比で上がっている理由は。
 
@@ -371,7 +371,7 @@
 
 #### 国保運協で委員の発言が少ないのでは
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 国民健康保険運営協議会事業を傍聴していつも感じるのは、意見があまり出ていないこと。令和3年度に入るときに、できれば発言のない方に積極的に発言してもらうよう促してもらいたいが。会長のほうに伝えていただくことはできるか。
 
@@ -391,7 +391,7 @@
 
 #### 特別会計の予算書もインターネットに掲載を
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 特別会計の予算書がインターネットに出ていない。一般会計は昨年ぐらいに載せてもらえるようになったが、この特別会計も載せてもらえないか。
 
@@ -405,13 +405,13 @@
 
 #### 被保険者数と世帯数をどう計算しているか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 細かいテクニカルな話だが、平均被保険者数と世帯数は、大体どれぐらいの振れ幅を見込んでいるのか。
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 被保険者数が300人減り、世帯数が10世帯減り、単純に割ると1世帯当たり30人ぐらいになってしまう。どういう計算になっているのか。
 
@@ -431,7 +431,7 @@
 
 #### 徴収率以外にコロナ禍の影響が大きく出たものは
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 徴収率1.2ポイント減以外に、コロナ禍の影響で、国民健康保険の令和3年度の予算に大きな影響として表れているものはあるか。
 

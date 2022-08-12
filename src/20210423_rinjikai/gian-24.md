@@ -152,7 +152,7 @@
 
 </div>
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 規模感が知りたい。小規模住宅用地や非住宅用地の数は把握していないのか。
 

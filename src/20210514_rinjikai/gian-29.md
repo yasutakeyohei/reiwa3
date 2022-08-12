@@ -122,7 +122,7 @@
 
 #### 前回の提案から新たに検討したり、状況は変わったか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 前回の議案を提案してから、撤回して今回新しく出し直すまでに、新しく検討したり、考え直したり、状況が変わったことはあるか。
 
@@ -142,7 +142,7 @@
 
 #### 建て替えは検討したか
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 建て替えは検討したか。
 

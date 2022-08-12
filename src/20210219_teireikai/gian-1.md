@@ -373,7 +373,7 @@
 
 ##### GIGAスクールで、契約額確定による減額が大きい理由は
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 GIGAスクール予算で「契約額確定による減」の金額が大きい理由は。
 
@@ -387,7 +387,7 @@ GIGAスクール予算で「契約額確定による減」の金額が大きい�
 
 ##### GIGAスクールで、浮いた分を別の目に流用していることについて
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 8月臨時会では、家賃支援の約2.5億円を、同じ目内の「地域消費活性化事業」に流用しており、質問したところ流用の際は基本的には同じ目内という話だった。今回、GIGAスクールで浮いた分（約8千8百万円）を別の目である地域消費活性化事業に流用しているが、例外的な流用ということか。
 

@@ -141,7 +141,7 @@
 
 #### 広域連合の当初予算額に対し補正額3,900万円、1％弱増は想定の範囲内か
 
-<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員">
+<div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
 広域連合の当初予算額に対し補正額3,900万円、1％弱の増。これは想定内の数値か。
 
