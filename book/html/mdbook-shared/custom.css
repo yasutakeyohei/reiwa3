@@ -247,6 +247,12 @@ fieldset.summary {
   margin-right: 1rem;
   color: var(--links);
 }
+.pnt li li:first-child {
+  margin-top:1rem;
+}
+.pnt li li::before {
+  content: "-";
+}
 .sanpi li.ng::before {
   content: "⚠️";
   margin-right: 1rem;
@@ -1015,8 +1021,10 @@ table.th-wrap th {
   white-space: initial;
 }
 
-div.table-wrapper+h2 {
-  margin-top:5rem;
+div.table-wrapper+h2,
+div.table-wrapper+h3,
+div.table-wrapper+h4 {
+    margin-top:5rem;
 }
 
 
