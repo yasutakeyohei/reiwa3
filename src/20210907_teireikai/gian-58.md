@@ -2,22 +2,22 @@
 
 # 🚧議案第58号　令和2年度小平市後期高齢者医療特別会計歳入歳出決算の認定について
 
-<i class="fa fa-gavel" aria-hidden="true"></i> 委員会付託
+＊議案[第57号](./gian-57.md)、[第58号](./gian-58.md)、[第59号](./gian-59.md)、[第60号](./gian-60.md)、は同種のものなので一括議題
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<i class="fa fa-gavel" aria-hidden="true"></i> 特別会計・下水道事業会計決算特別委員会付託
+
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=6&minute_id=738&is_search=true">最終日</a>｜委員会（別記）|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1258&schedule_id=2&minute_id=98&is_search=true">12月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
 
 - 🚧作成中
-- <!--前回一致で可決しました -->
-- <!--賛成多数で可決しました -->
+- 全会一致で可決しました
 
 </fieldset>
 
 <fieldset class="sanpi">
-<!--  <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend> -->
-<!--  <legend><h2>❌ 私（安竹洋平）の判断：反対</h2></legend> -->
+ <legend><h2>⭕️ 私（安竹洋平）の判断：賛成</h2></legend>
 
 - 🚧作成中
 
@@ -80,19 +80,18 @@
 
 ## 付託委員会での取り扱い
 ### 採決
-🚧作成中
-<!-- 全委員が賛成⭕️ -->
-<!-- 可決すべきものと決しました。-->
+全委員が賛成⭕️
+
+可決すべきものと決しました。
 
 ## 本会議での主なやり取り
 ### 討論
-🚧作成中
+なし
 
 ### 採決
-🚧作成中
-<!--全議員が賛成⭕️-->
-<!-- 全会一致で可決しました。-->
-<!-- 賛成多数で可決しました。-->
+全議員が賛成⭕️
+
+全会一致で可決しました。
 
 ## 賛否一覧
 [賛否一覧はこちらをご覧ください。](./index.md#賛否)
