@@ -2,15 +2,15 @@
 
 # 🚧議案第55号　令和3年度小平市一般会計補正予算（第9号）
 
-<i class="fa fa-gavel" aria-hidden="true"></i> 委員会付託
+<i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（まだ公開されていません）（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpTop.html">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=6&minute_id=616&is_search=true">最終日・本会議1</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1263&schedule_id=6&minute_id=4&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1240&schedule_id=6&minute_id=638&is_search=true">最終日・本会議2</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
 
 - 🚧作成中
-- <!--前回一致で可決しました -->
+- <!--全会一致で可決しました -->
 - <!--賛成多数で可決しました -->
 
 </fieldset>
@@ -39,10 +39,19 @@
 </div>
 
 ## 提案理由の説明（市長）
-> 🚧作成中
+> 今回の補正予算は、新型コロナウイルス感染症の感染拡大により、経済活動に影響を受けている事業者への支援を目的とした国の補助金などを活用し、市として速やかに着手する必要がある事業を計上するものでございます。
+>
+>歳出の主な内容でございますが、介護事業所、障害事業所等、乗合バス事業者及びタクシー事業者への事業継続支援金による支援のほか、事業者が実施する感染症対策の強化として、事業者向け感染防止徹底協力金及び市内店舗改修等補助金による支援を行います。また、自宅療養者に対する緊急支援として、東京都や医療機関等からの貸与を受けていない方にパルスオキシメーターの貸与を行います。
+>
+>補正予算の規模といたしましては、歳入歳出それぞれ１億２,６１６万１,０００円を増額し、歳入歳出予算の総額をそれぞれ７４８億８,３８３万３,０００円とするものでございます。
+>
+>財源といたしましては、事業の実施に伴い、国庫支出金及び都支出金を増額するとともに、財政調整基金からの繰入金で対応いたします。
+>
+>以上が本案の内容でございます。
 
 ## 資料
 
+- [補正予算書](https://www.city.kodaira.tokyo.jp/kurashi/093/093409.html)
 
 <div class="ippan-situgi">
 
@@ -82,6 +91,7 @@
 ### 採決
 🚧作成中
 <!-- 全委員が賛成⭕️ -->
+
 <!-- 可決すべきものと決しました。-->
 
 ## 本会議での主なやり取り
@@ -91,6 +101,7 @@
 ### 採決
 🚧作成中
 <!--全議員が賛成⭕️-->
+
 <!-- 全会一致で可決しました。-->
 <!-- 賛成多数で可決しました。-->
 
