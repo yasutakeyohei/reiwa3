@@ -15,6 +15,7 @@
 - 個人番号カードをもつ人は多機能端末機で印鑑登録証明の交付が可能、と定める
 - 証明書自動交付機の利用に係る規定を削る
 - なお、印鑑証明書だけが自治体の事務で、それ以外の証明書等は国の法令での対応
+- 賛成多数で可決しました
 
 </fieldset>
 
@@ -28,7 +29,7 @@
 - bad:大手コンビニなど、多機能端末機が設置可能な店舗だけが利益を得られる
 - good:「個人番号カードが普及すれば全国的に手続きの効率化が行われることになり国民の福祉が向上する」という意見もある
 
-なお、議案第50号は、別の理由から反対しました（[詳しくはこちらです](./gian-48.md)）。
+なお、議案第50号は、別の理由から反対しました（[詳しくはこちらです](./gian-50.md)）。
 
 </fieldset>
 
@@ -55,6 +56,11 @@
 > 施行期日につきましては、第1条は、来年2月1日、第2条は、同年10月1日を予定いたしております。
 
 ## 資料
+
+- [議案第47号・資料1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=8&minute_id=1&is_search=true)
+- [議案第47号・資料2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=13&minute_id=1&is_search=true)
+- [議案第50号・資料1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=33&minute_id=1&is_search=true)
+- [議案第50号・資料2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=38&minute_id=1&is_search=true)
 
 <div class="ippan-situgi">
 
@@ -466,6 +472,8 @@
 |共産党小平市議団 | 全員 | ❌反対 | ❌反対|
 |生活者ネットワーク | 全員 | ❌反対 | ❌反対|
 |まちづくり市民こだいら | 全員 | ❌反対 | ❌反対|
+
+賛成多数で可決しました。
 
 ## 賛否一覧
 [賛否一覧はこちらをご覧ください。](./index.md#賛否)
