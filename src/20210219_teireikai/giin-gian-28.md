@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=243&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=222&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1222&schedule_id=4&minute_id=169&is_search=true">5/18委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=50&is_search=true">6月定例会初日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=462&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=222&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1222&schedule_id=4&minute_id=169&is_search=true">5/18委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1225&schedule_id=2&minute_id=50&is_search=true">6月定例会初日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -31,7 +31,7 @@
 
 目次
 
-- [意見書](#意見書)
+- [資料](#資料)
 - [提出者代表議員の説明](#提出者代表議員の説明)
 - [主な質疑（本会議・付託委員会）](#主な質疑本会議付託委員会)
 - [付託委員会での取り扱い](#付託委員会での取り扱い)
@@ -40,9 +40,11 @@
 
 </div>
 
-## 意見書
+## 資料
+- [資料1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=22&minute_id=1&is_search=true)
+- [資料2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=30&minute_id=1&is_search=true)
 
-## 提出者代表議員の説明
+## 提案理由の説明
 
 > 伊藤央（一人会派の会）
 >
@@ -74,7 +76,7 @@
 >
 > ご審査のほどよろしくお願いいたします。
 
-<div class="ippan-situgi">
+<div class="giin-gian-situgi">
 
 ## 主な質疑（本会議・付託委員会）
 {{#include ../partials/situgi-note.md}}
@@ -85,29 +87,32 @@
 
 **[1. 本会議での主な質疑](#1-本会議での主な質疑)**
 
-- なし
+  - [1.1. 提案議員に対する質疑](#11-提案議員に対する質疑)
+    - なし
 
 **[2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)**
 
-**[2-1. 提出者代表議員への質疑](#提出者代表議員への質疑)**
+- [2.1. 提案議員に対する質疑](#21-提案議員に対する質疑)
 
-- [オリ・パラを中止すべきという見解か](#オリパラを中止すべきという見解か)
-- hitori:[東京オリンピック招致に反対だった会派が基金に賛成している理由は](#東京オリンピック招致に反対だった会派が基金に賛成している理由は)
-    - tips:[一貫性の欠如、ダブルスタンダード、おためごかし](#一貫性の欠如ダブルスタンダードおためごかし)
-- hitori:[そもそもなぜこのような条例をつくる必要があったと考えるか](#そもそもなぜこのような条例をつくる必要があったと考えるか)
-- hitori:[継続審査という声をどう思うか](#継続審査という声をどう思うか)
-- [継続審査でもよいではないか](#継続審査でもよいではないか)
+  - [オリ・パラを中止すべきという見解か](#オリパラを中止すべきという見解か)
+  - hitori:[東京オリンピック招致に反対だった会派が基金に賛成している理由は](#東京オリンピック招致に反対だった会派が基金に賛成している理由は)
+      - tips:[一貫性の欠如、ダブルスタンダード、おためごかし](#一貫性の欠如ダブルスタンダードおためごかし)
+  - hitori:[そもそもなぜこのような条例をつくる必要があったと考えるか](#そもそもなぜこのような条例をつくる必要があったと考えるか)
+  - hitori:[継続審査という声をどう思うか](#継続審査という声をどう思うか)
+  - [継続審査でもよいではないか](#継続審査でもよいではないか)
 
-**[2-2. 理事者への質疑](#理事者への質疑)**
+- [2.2. 理事者側の説明](#22-理事者側の説明)
 
-- hitori:[東京都の自治体で同様な基金条例のあるところは](#東京都の自治体で同様な基金条例のあるところは)
-- hitori:[ほかの自治体はなぜ真似をして条例をつくらなかったか](#ほかの自治体はなぜ真似をして条例をつくらなかったか)
-    - tips:[職員も被害者](#職員も被害者)
-- hitori:[コロナでかかる当初想定以上のコストは計算しているか](#コロナでかかる当初想定以上のコストは計算しているか)
-- hitori:[東京都からチケット配布がない場合どれくらいコストがかかるか](#東京都からチケット配布がない場合どれくらいコストがかかるか)
-- hitori:[パブリックビューイングのコストは](#パブリックビューイングのコストは)
-- hitori:[対象ではない私立学校や特別支援学校の生徒への対応は](#対象ではない私立学校や特別支援学校の生徒への対応は)
-- hitori:[オリ・パラが中止になったらこの基金はどうなるか](#オリパラが中止になったらこの基金はどうなるか)
+- [2.3. 理事者側に対する質疑](#23-理事者側に対する質疑)
+
+  - hitori:[東京都の自治体で同様な基金条例のあるところは](#東京都の自治体で同様な基金条例のあるところは)
+  - hitori:[ほかの自治体はなぜ真似をして条例をつくらなかったか](#ほかの自治体はなぜ真似をして条例をつくらなかったか)
+      - tips:[職員も被害者](#職員も被害者)
+  - hitori:[コロナでかかる当初想定以上のコストは計算しているか](#コロナでかかる当初想定以上のコストは計算しているか)
+  - hitori:[東京都からチケット配布がない場合どれくらいコストがかかるか](#東京都からチケット配布がない場合どれくらいコストがかかるか)
+  - hitori:[パブリックビューイングのコストは](#パブリックビューイングのコストは)
+  - hitori:[対象ではない私立学校や特別支援学校の生徒への対応は](#対象ではない私立学校や特別支援学校の生徒への対応は)
+  - hitori:[オリ・パラが中止になったらこの基金はどうなるか](#オリパラが中止になったらこの基金はどうなるか)
 
 {{#include ../partials/toc-note.md}}
 
@@ -115,17 +120,17 @@
 
 ### 1. 本会議での主な質疑
 
+#### 1.1. 提案議員に対する質疑
+
 なし
 
 ### 2. 付託委員会での主な質疑
 
 総務委員会には、一人会派の会から、橋本久雄議員が委員として参加しました。
 
-<a id="提出者代表議員への質疑"></a>
+#### 2.1. 提案議員に対する質疑
 
-**2-1. 提出者代表議員への質疑**
-
-#### オリ・パラを中止すべきという見解か
+##### オリ・パラを中止すべきという見解か
 
 <div class="bln bleft" data-speaker="他会派の議員">
 
@@ -151,7 +156,7 @@
 
 </div>
 
-#### 東京オリンピック招致に反対だった会派が基金に賛成している理由は
+##### 東京オリンピック招致に反対だった会派が基金に賛成している理由は
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -197,7 +202,7 @@
 
 </div>
 
-#### そもそもなぜこのような条例をつくる必要があったと考えるか
+##### そもそもなぜこのような条例をつくる必要があったと考えるか
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -212,7 +217,7 @@
 
 </div>
 
-#### 継続審査という声をどう思うか
+##### 継続審査という声をどう思うか
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -226,7 +231,7 @@
 
 </div>
 
-#### 継続審査でもよいではないか
+##### 継続審査でもよいではないか
 
 <div class="bln bleft" data-speaker="他会派の議員">
 
@@ -250,9 +255,7 @@
 </div>
 
 
-<a id="理事者への質疑"></a>
-
-**2-2. 理事者への質疑**
+#### 2.2. 理事者側の説明
 
 <div class="bln bright" data-speaker="企画政策部長（津嶋）">
 
@@ -260,7 +263,9 @@
 
 </div>
 
-#### 東京都の自治体で同様な基金条例のあるところは
+#### 2.3. 理事者側に対する質疑
+
+##### 東京都の自治体で同様な基金条例のあるところは
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -274,7 +279,7 @@
 
 </div>
 
-#### ほかの自治体はなぜ真似をして条例をつくらなかったか
+##### ほかの自治体はなぜ真似をして条例をつくらなかったか
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -302,7 +307,7 @@
 
 </div>
 
-#### コロナでかかる当初想定以上のコストは計算しているか
+##### コロナでかかる当初想定以上のコストは計算しているか
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -324,7 +329,7 @@
 
 </div>
 
-#### 東京都からチケット配布がない場合どれくらいコストがかかるか
+##### 東京都からチケット配布がない場合どれくらいコストがかかるか
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -338,7 +343,7 @@
 
 </div>
 
-#### パブリックビューイングのコストは
+##### パブリックビューイングのコストは
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -402,7 +407,7 @@
 
 </div>
 
-#### 対象ではない私立学校や特別支援学校の生徒への対応は
+##### 対象ではない私立学校や特別支援学校の生徒への対応は
 
 <div class="bln bleft hitori" data-speaker="👍 橋本久雄議員（一人会派の会）">
 
@@ -416,7 +421,7 @@
 
 </div>
 
-#### オリ・パラが中止になったらこの基金はどうなるか
+##### オリ・パラが中止になったらこの基金はどうなるか
 
 <div class="bln bleft" data-speaker="他会派の議員">
 
@@ -467,7 +472,7 @@
 
 
 
-## 本会議（6月定例会初日）での主なやり取り
+## 本会議での主なやり取り
 継続審査となり、6月定例会初日に討論が行われました。
 
 ### 討論
