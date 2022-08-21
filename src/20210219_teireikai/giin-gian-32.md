@@ -41,7 +41,7 @@
 
 <div class="ippan-situgi">
 
-## 主な質疑（本会議・付託委員会）
+## 主な質疑
 {{#include ../partials/situgi-note.md}}
 
 <div class="toc">
