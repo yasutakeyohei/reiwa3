@@ -44,7 +44,7 @@
 - [資料1](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=22&minute_id=1&is_search=true)
 - [資料2](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=30&minute_id=1&is_search=true)
 
-## 提案理由の説明
+## 提出者代表議員の説明
 
 > 伊藤央（一人会派の会）
 >
