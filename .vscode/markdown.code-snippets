@@ -6,6 +6,17 @@
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
 	// Placeholders with the same ids are connected.
 	// Example:
+	"グループタグ": {
+		"scope": "markdown",
+		"prefix": "group",
+		"body": [
+			"<div class=\"group\" style=\"--group-title:'$1';\">",
+			"",
+			"$2",
+			"",
+			"</div>$3"
+		],
+	},
 	"安竹洋平議員の質問タグ": {
 		"scope": "markdown",
 		"prefix": "yasu",
@@ -77,7 +88,17 @@
 			"</div>$2"
 		],
 	},
-	"引用タグ": {
+	"sorryタグ": {
+		"scope": "markdown",
+		"prefix": "sorry",
+		"body": [
+			"<div class=\"bln bleft sorry\">",
+			"",
+			"$1",
+			"",
+			"</div>$2"
+		],
+	},	"引用タグ": {
 		"scope": "markdown",
 		"prefix": "quote",
 		"body": [
