@@ -6,7 +6,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 特別会計・下水道事業会計予算特別委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=196&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=4&minute_id=332&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=444&is_search=true">初日</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1200&schedule_id=4&minute_id=332&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=131&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -72,10 +72,11 @@
 - なし
 
 **[2. 付託委員会での主な質疑](#2-付託委員会での主な質疑)**
-
-- hitori:[高額介護サービス費の誤支給・未支給問題への対応と改善策は](#高額介護サービス費の誤支給未支給問題への対応と改善策は)
-    - hitori:[ソフトウェア側で対応すべきでは](#ソフトウェア側で対応すべきでは)
-    - hitori:[全庁的な見直しをかけているか](#全庁的な見直しをかけているか)
+- [高額介護サービス費の誤支給・未支給問題について](#高額介護サービス費の誤支給未支給問題について)
+  - hitori:[高額介護サービス費の誤支給・未支給問題への対応と改善策は](#高額介護サービス費の誤支給未支給問題への対応と改善策は)
+  - hitori:[ソフトウェア側で対応すべきでは](#ソフトウェア側で対応すべきでは)
+  - hitori:[全庁的な見直しをかけているか](#全庁的な見直しをかけているか)
+- hitori:[さまざまな事業で得られた知見をもとに、新しい取り組みは](#さまざまな事業で得られた知見をもとに新しい取り組みは)
 - hitori:[認知症カフェ等で集まった情報をまちづくり等に活用する仕組みはあるか](#認知症カフェ等で集まった情報をまちづくり等に活用する仕組みはあるか)
 - [介護保険料の独自減免について、人数増の理由と、他市の状況は](#介護保険料の独自減免について人数増の理由と他市の状況は)
 - [介護認定審査会の人数と開催日数は](#介護認定審査会の人数と開催日数は)
@@ -87,15 +88,19 @@
 </div>
 
 
-### 1. 本会議での主な質疑
+<div class="situgi-heading" id="1-本会議での主な質疑"><a class="header" href="#1-本会議での主な質疑">1. 本会議での主な質疑</a></div>
 
 なし
 
-### 2. 付託委員会での主な質疑
+<div class="situgi-heading" id="2-付託委員会での主な質疑"><a class="header" href="#2-付託委員会での主な質疑">2. 付託委員会での主な質疑</a></div>
 
-この議案は特別会計・下水道事業会計予算特別委員会に付託されました。主な質疑を記します。
-
+この議案は特別会計・下水道事業会計予算特別委員会に付託されました。主な質疑を記します。  
 特別会計・下水道事業会計予算特別委員会には、一人会派の会から、私（安竹洋平議員）と橋本久雄議員が委員として参加しました。
+
+### 高額介護サービス費の誤支給・未支給問題について
+
+<div class="group" style="--group-title:'高額介護サービス費の誤支給未支給問題について';">
+
 
 #### 高額介護サービス費の誤支給・未支給問題への対応と改善策は
 
@@ -129,7 +134,7 @@
 
 </div>
 
-##### ソフトウェア側で対応すべきでは
+#### ソフトウェア側で対応すべきでは
 
 <div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
@@ -143,7 +148,7 @@
 
 </div>
 
-##### 全庁的な見直しをかけているか
+#### 全庁的な見直しをかけているか
 
 <div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
@@ -169,10 +174,19 @@
 
 </div>
 
+<div class="bln bright" data-speaker="高齢者支援課長（藤川）">
+
+職員の感覚としては、まだ、この問題が終わっていないので、なかなかその先のことが考えにくい。ある程度片がついたら、その辺を考えていきたい。
+
+</div>
+
+</div>
+
+#### さまざまな事業で得られた知見をもとに、新しい取り組みは
 
 <div class="bln bleft yasutake" data-speaker="⭐️ 安竹洋平議員（一人会派の会）">
 
-認知症総合支援事業、認知症高齢者見守り事業、認知症サポーター養成事業で得られた知見を基に、令和3年度、何か新しい取組や、まちづくりにつなげて新しいことがあるか。
+認知症総合支援事業、認知症高齢者見守り事業、認知症サポーター養成事業で得られた知見をもとに、令和3年度、何か新しい取組や、まちづくりにつなげて新しいことがあるか。
 
 </div>
 

@@ -72,10 +72,10 @@
 
 </div>
 
-### 1. 本会議での主な質疑
+<div class="situgi-heading" id="1-本会議での主な質疑"><a class="header" href="#1-本会議での主な質疑">1. 本会議での主な質疑</a></div>
 なし
 
-### 2. 付託委員会での主な質疑
+<div class="situgi-heading" id="2-付託委員会での主な質疑"><a class="header" href="#2-付託委員会での主な質疑">2. 付託委員会での主な質疑</a></div>
 なし
 
 </div>

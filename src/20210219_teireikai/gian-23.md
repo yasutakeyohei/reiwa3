@@ -49,11 +49,15 @@
 ## 主な質疑
 {{#include ../partials/situgi-note.md}}
 
-### 本会議での主な質疑
+<div class="situgi-heading" id="1-本会議での主な質疑"><a class="header" href="#1-本会議での主な質疑">本会議での主な質疑</a></div>
+
 なし
+
+</div>
 
 ## 本会議での主なやり取り
 ### 討論
+
 なし
 
 ### 採決

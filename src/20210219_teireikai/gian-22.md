@@ -75,7 +75,7 @@
 
 </div>
 
-### 本会議での主な質疑
+<div class="situgi-heading" id="1-本会議での主な質疑"><a class="header" href="#1-本会議での主な質疑">本会議での主な質疑</a></div>
 
 #### 中国武漢を由来とはどういうことか
 
