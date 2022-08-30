@@ -5,7 +5,6 @@
 .font-family-mincho { font-family: "Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "serif"; }
 .font-family-uiprop { font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "MS PGothic", "sans-serif"; }
 
-
 .font-size-0 { --font-size: 0.85rem; }
 .font-size-1 { --font-size: 1rem; }
 .font-size-2 { --font-size: 1.2rem; }
@@ -78,6 +77,9 @@ main h4 { font-size: calc(var(--font-size)*1.7); }
 main h5 { font-size: calc(var(--font-size)*1.6); }
 main h6 { font-size:  calc(var(--font-size)*1.5); }
 
+h4[id=""] {
+  display:none;
+}
 
 h2#提案理由の説明,
 h2#提出者代表議員の説明,
@@ -820,7 +822,35 @@ p.img-wrapper {
   }
 }
 
+.resetCSS h1 {
+  font-size:revert;
+  margin: revert;
+  line-height: revert;
+}
+.resetCSS h1 a {
+  text-decoration: revert;
+  color: revert;
+}
+.resetCSS p {
+  line-height: revert;
+}
+.resetCSS ol,
+.resetCSS ol li {
+  line-height: revert;
+}
 
+.print-page-wrapper {
+  page-break-after: always;
+  page-break-inside: avoid;
+}
+.svg-wrapper {
+  max-width: 100%;
+  border: 1px solid var(--fg);
+  padding: 2rem;
+  box-shadow: 2px 2px 2px var(--fg);
+  margin-bottom: 3rem;
+  text-align:center;
+}
 
 .balloon {
   font-size: calc(var(--font-size)*0.77);
@@ -1361,19 +1391,26 @@ li:last-child {
   color: var(--bg) !important;
   font-weight: normal;
 }
-.ippan-situgi .group h4:first-of-type {
-  margin-top: 3rem;
-}
-.ippan-situgi .group h4:not(:first-of-type) {
+.ippan-situgi .group h4,
+.ippan-situgi .group h5 {
   position:relative;
   margin-top: 2rem;
 }
-
-.ippan-situgi .group h4::after {
-  position: absolute;
-  top: -4rem;
-  left: -0.5rem;
+.ippan-situgi .group+h4,
+.ippan-situgi .group+h5 {
+  margin-top: 3rem;
+}
+.ippan-situgi .group h4+h4,
+.ippan-situgi .group h4+h5,
+.ippan-situgi .group h5+h5 {
+  margin-top: -5rem;
+}
+.ippan-situgi .group h4::after,
+.ippan-situgi .group h5::after {
   content: var(--group-title);
+  position: absolute;
+  top: -3rem;
+  left: -0.5rem;
   padding: 0 1rem;
   color: var(--bg) !important;
   background-color: var(--links);
@@ -1382,8 +1419,12 @@ li:last-child {
   border-radius: 0 2rem 2rem 0;
   line-height: 2.3rem;
 }
-/*最初のh4要素にはグループ名表示しない*/
-.ippan-situgi .group h3+h4::after {
+/*最初のh4, h5要素, 連続するheadingにはグループ名表示しない*/
+.ippan-situgi .group>h4:first-child::after,
+.ippan-situgi .group>h5:first-child::after,
+.ippan-situgi .group h4+h4::after,
+.ippan-situgi .group h4+h5::after,
+.ippan-situgi .group h5+h5::after {
   content: none;
 }
 .ippan-situgi .group div:last-child {
@@ -1394,11 +1435,6 @@ li:last-child {
 .ippan-situgi h4,
 .ippan-situgi h5 {
   margin-bottom: calc(var(--font-size)*6);
-}
-
-
-.ippan-situgi h4,
-.ippan-situgi h5 {
   display: flex;
   align-content: center;
   align-items: center;
@@ -1424,13 +1460,20 @@ li:last-child {
 .ippan-situgi h4 a,
 .ippan-situgi h5 a {
   display: inline-block;
-  margin-left: 3rem;
+  margin-left: 2rem;
 }
 
-.ippan-situgi .group.no-q-mark h4::before {
-  content: "";
+/* ?マーク非表示 */
+.ippan-situgi .group.no-q-mark h4::before,
+.ippan-situgi .group.no-q-mark h5::before,
+.ippan-situgi div.next-no-q-mark+h4::before,
+.ippan-situgi div.next-no-q-mark+h5::before {
+    content: "";
 }
-.ippan-situgi .group.no-q-mark h4 a {
+.ippan-situgi .group.no-q-mark h4 a,
+.ippan-situgi .group.no-q-mark h5 a,
+.ippan-situgi div.next-no-q-mark+h4 a,
+.ippan-situgi div.next-no-q-mark+h5 a {
   margin-left: 0;
 }
 
@@ -1441,7 +1484,6 @@ li:last-child {
 
 .ippan-situgi h4+h5,
 .ippan-situgi h5+h6,
-.ippan-situgi h3+p,
 .ippan-situgi h4+p,
 .ippan-situgi h5+p,
 .ippan-situgi h3+ul,
@@ -1449,7 +1491,9 @@ li:last-child {
 .ippan-situgi h5+ul, 
 .ippan-situgi h4+div,
 .ippan-situgi h5+div { margin-top: calc(var(--font-size)*-2); }
-.ippan-situgi h3+p+div.bln.bleft { margin-top: calc(var(--font-size)*4); }
+.ippan-situgi h3+p+div.bln.bleft,
+.ippan-situgi h3+div.bln,
+.ippan-situgi h3+ul { margin-top: calc(var(--font-size)*4); }
 
 .seigan-setumei h3 {
   padding: 0.5rem 2rem;
@@ -1772,3 +1816,11 @@ li.tips::before {
 .frac span.symbol {
   display: none;
 } 
+
+/* 印刷時は＜、＞を非表示にする */
+@media print {
+  a[rel="prev"],
+  a[rel="next"] {
+    display: none;
+  }
+}
