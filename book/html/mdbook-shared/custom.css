@@ -77,9 +77,6 @@ main h4 { font-size: calc(var(--font-size)*1.7); }
 main h5 { font-size: calc(var(--font-size)*1.6); }
 main h6 { font-size:  calc(var(--font-size)*1.5); }
 
-h4[id=""] {
-  display:none;
-}
 
 h2#提案理由の説明,
 h2#提出者代表議員の説明,
