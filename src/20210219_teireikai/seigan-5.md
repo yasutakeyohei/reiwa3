@@ -4,7 +4,7 @@
 
 <i class="fa fa-gavel" aria-hidden="true"></i> 総務委員会付託
 
-<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=474&is_search=true">本会議</a>|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=4&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=160&is_search=true">最終日</a>）</p>
+<p id="read-kaigiroku">📄会議録（<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=2&minute_id=474&is_search=true">本会議</a>|<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1211&schedule_id=6&minute_id=4&is_search=true">委員会</a>｜<a href="https://ssp.kaigiroku.net/tenant/kodaira/SpMinuteView.html?council_id=1201&schedule_id=7&minute_id=463&is_search=true">最終日</a>）</p>
 
 <fieldset class="pnt">
   <legend><h2>ポイント</h2></legend>
@@ -53,6 +53,13 @@
 - [請願書（PDF）](./20210326-sagawa-aiki-park-seigan.pdf)
 - [請願書1（議会資料）](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=102&minute_id=1&is_search=true)
 - [請願書2（議会資料）](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1202&schedule_id=110&minute_id=1&is_search=true)
+
+- 配布資料
+  - [20200813_上水南町寄付公園概算工事費算出.pdf](./20200813_%E4%B8%8A%E6%B0%B4%E5%8D%97%E7%94%BA%E5%AF%84%E4%BB%98%E5%85%AC%E5%9C%92%E6%A6%82%E7%AE%97%E5%B7%A5%E4%BA%8B%E8%B2%BB%E7%AE%97%E5%87%BA.pdf)
+  - [20200813_水と緑と公園課とのミーティングメモ](./20200813_%E6%B0%B4%E3%81%A8%E7%B7%91%E3%81%A8%E5%85%AC%E5%9C%92%E8%AA%B2%E3%81%A8%E3%81%AE%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%A2%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%88%E6%8E%B2%E8%BC%89%E7%94%A8%EF%BC%89.docx)
+  - [20210307_公園プランを考える（アンケート集計）](./20210307_%E5%85%AC%E5%9C%92%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%EF%BC%88%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E9%9B%86%E8%A8%88%EF%BC%89.pdf)
+  - [20210308_旧佐川邸公園・工事費概算シート.xls](./20210308_%E6%97%A7%E4%BD%90%E5%B7%9D%E9%82%B8%E5%85%AC%E5%9C%92%E3%83%BB%E5%B7%A5%E4%BA%8B%E8%B2%BB%E6%A6%82%E7%AE%97%E3%82%B7%E3%83%BC%E3%83%88.xlsx)
+
 
 
 ## 請願者の説明
