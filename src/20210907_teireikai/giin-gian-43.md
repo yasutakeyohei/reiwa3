@@ -153,19 +153,19 @@
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 事業者の方と話合いを重ねた結果、一番望んでいることが「東京都の採択を後押ししてほしい」ということだった。
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 それにとって一番よいことというのを何度も話合いを重ね、事業者が市への意見書を望まないということだったので、私たちとしては東京都と国に対して出すことにした。
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 問題そのものが報酬体系の問題だったので、国に対して出すべきということで、国に出すことになった。
 
@@ -177,7 +177,7 @@
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 よい。
 
@@ -209,13 +209,13 @@
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 この改定自体が質の確保のために行われているということは承知している。より手厚い支援が必要な子に対する加算があり、新しい区分が必要だということも理解している。
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 ただ、この1年間だけでも300万円以上の赤字になり、そこだけを直せばどうにかやっていける。全体のことを広く見ようとすると、3年ごとの改定になる。すぐに手を打ってもらいたいということで、この1点になっていると。
 
@@ -235,7 +235,7 @@
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 おっしゃったことは理解はできる。
 
@@ -255,7 +255,7 @@
 
 </div>
 
-<div class="bln bright" data-speaker="提出者代表議員">
+<div class="bln bright" data-speaker="提出者代表議員（川里）">
 
 ある事業者は、この4月から8月で、すでに580万円の減収になっている。なるべく早く手を打つためには、ここに限定した話になってしまうのではないかと思う。
 
