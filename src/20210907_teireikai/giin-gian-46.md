@@ -59,6 +59,8 @@
 
 ## 資料
 
+- [資料1（決議書表紙）](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=70&minute_id=1&is_search=true)
+- [資料2（決議書本文）](https://ssp.kaigiroku.net/tenant/kodaira/SpMaterial.html?tenant_id=165&power_user=false&view_years=&council_id=1241&schedule_id=75&minute_id=1&is_search=true)
 
 <div class="ippan-situgi">
 
